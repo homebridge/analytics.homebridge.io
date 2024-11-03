@@ -21,9 +21,15 @@ jobs:
         working-directory: ./scripts
         run: npm install
 
-      - name: Run analytics
+      - name: Gather report data
         working-directory: ./scripts
-        run: npm run analytics
+        run: npm run extract
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run reports
+        working-directory: ./scripts
+        run: npm run reports
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -42,3 +48,23 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+  update_vue_application:
+    needs: collect_analytics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+
+      - name: Install dependencies
+        working-directory: ./vue-data-analyzer
+        run: npm install
+
+      - name: deploy vue application
+        working-directory: ./vue-data-analyzer
+        run: npm run deploy

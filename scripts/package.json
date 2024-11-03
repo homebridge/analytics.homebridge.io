@@ -5,7 +5,8 @@
   "main": "extractAndStorePluginData.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "analytics": "node extractAndStorePluginData.mjs"
+    "extract": "node extractAndStorePluginData.mjs",
+    "reports": "node generateReports.mjs"
   },
   "author": "Homebridge",
   "license": "ISC",
