@@ -4,7 +4,8 @@
   "description": "Scripts to collect plugin analytics data",
   "main": "extractAndStorePluginData.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "analytics": "node extractAndStorePluginData.mjs"
   },
   "author": "Homebridge",
   "license": "ISC",
