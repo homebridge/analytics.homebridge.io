@@ -65,6 +65,8 @@ jobs:
         working-directory: ./vue-data-analyzer
         run: npm install
 
-      - name: deploy vue application
-        working-directory: ./vue-data-analyzer
-        run: npm run deploy
+# broke...
+
+#      - name: deploy vue application
+#        working-directory: ./vue-data-analyzer
+#        run: npm run deploy
