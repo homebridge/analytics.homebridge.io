@@ -1,5 +1,4 @@
 name: Update Homebridge Analytics
-run-name: Create Raspbian Homebridge Image ${{ github.ref }}
 
 on:
   workflow_dispatch:
@@ -16,7 +15,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 'lts'
+          node-version: lts
 
       - name: Install dependencies
         working-directory: ./scripts
