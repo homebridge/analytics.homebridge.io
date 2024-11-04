@@ -55,8 +55,9 @@ jobs:
     steps:
       - name: Checkout GH-Pages
         uses: actions/checkout@v4
-        with:
-          ref: gh-pages
+
+      - name: switch to gh-pages branch
+        run: git checkout gh-pages
 
       - name: Refresh branch with Source
         run: git rebase origin/Source
@@ -72,7 +73,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add * || true
-            git commit -a -m "Data Updated ${{ env.NOW }}" || true
+          git commit -a -m "Data Updated ${{ env.NOW }}" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
