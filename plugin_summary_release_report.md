@@ -43,7 +43,7 @@
 | homebridge-daikin-oneplus | jeffschubert | 2024-09-10T03:39:05.995Z | 167 | true | Not ready |
 | homebridge-daikin-tempsensor-nocloud | Christian Brandlehner | 2024-10-10T20:21:48.728Z | 23 | true | Not ready |
 | homebridge-delay-switch | nitaybz | 2023-12-23T12:20:45.869Z | 556 | true | Not ready |
-| homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 300 | true | Not ready |
+| homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 301 | true | Not ready |
 | homebridge-dune-hd | Carlos Gamez | 2024-06-12T02:42:41.948Z | 19 | true | Not ready |
 | homebridge-dyson-bp01 | Jeremy Noesen | 2024-04-25T22:25:55.617Z | 60 | true | Not ready |
 | homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2434 | true | Not ready |
@@ -115,7 +115,7 @@
 | homebridge-purpleair-sensor | rxin, jmkk | 2024-03-23T22:29:12.798Z | 49 | true | Not ready |
 | homebridge-ra2-select | isalkind | 2024-03-27T01:46:33.036Z | 18 | true | Not ready |
 | homebridge-radiora2 | SenorShaun | 2024-02-17T16:53:15.527Z | 26 | true | Not ready |
-| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8669 | true | Not ready |
+| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8670 | true | Not ready |
 | homebridge-robonect | David Karlsson | 2024-09-09T07:07:08.536Z | 60 | true | Not ready |
 | homebridge-samsung-tizen | Octavian Ruda | 2023-12-14T08:47:38.716Z | 1509 | true | Not ready |
 | homebridge-samsungtvht | jsiegenthaler | 2024-05-22T05:28:53.166Z | 213 | true | Not ready |
