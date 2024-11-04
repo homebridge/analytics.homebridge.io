@@ -77,7 +77,7 @@
 | homebridge-intelliclima | ruizmarc | 2023-12-29T23:00:49.441Z | 6 | true | Not ready |
 | homebridge-jablotron | Fred de Gier | 2023-11-15T12:21:11.410Z | 35 | true | Not ready |
 | homebridge-kasa-hub | zmx264 | 2024-09-07T21:41:55.259Z | 673 | true | Not ready |
-| homebridge-keylights | der_jayjay | 2024-06-21T19:35:13.147Z | 256 | true | Not ready |
+| homebridge-keylights | der_jayjay | 2024-06-21T19:35:13.147Z | 257 | true | Not ready |
 | homebridge-konnected | mkormendy | 2024-04-02T08:32:11.475Z | 125 | true | Not ready |
 | homebridge-kumo | fjs21 | 2023-12-27T15:13:08.373Z | 54 | true | Not ready |
 | homebridge-levoit-air-purifier | raresailincai | 2024-04-17T19:13:00.244Z | 586 | true | Not ready |
@@ -115,7 +115,7 @@
 | homebridge-purpleair-sensor | rxin, jmkk | 2024-03-23T22:29:12.798Z | 49 | true | Not ready |
 | homebridge-ra2-select | isalkind | 2024-03-27T01:46:33.036Z | 18 | true | Not ready |
 | homebridge-radiora2 | SenorShaun | 2024-02-17T16:53:15.527Z | 26 | true | Not ready |
-| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8667 | true | Not ready |
+| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8669 | true | Not ready |
 | homebridge-robonect | David Karlsson | 2024-09-09T07:07:08.536Z | 60 | true | Not ready |
 | homebridge-samsung-tizen | Octavian Ruda | 2023-12-14T08:47:38.716Z | 1509 | true | Not ready |
 | homebridge-samsungtvht | jsiegenthaler | 2024-05-22T05:28:53.166Z | 213 | true | Not ready |

@@ -77,7 +77,7 @@
 | homebridge-electra-smart | nitaybz | 2022-09-11T09:33:51.839Z | 53 | true | Not ready |
 | homebridge-envisalink | Dustin D. Clark | 2023-03-30T18:05:39.310Z | 97 | true | Not ready |
 | homebridge-envisalink-ademco | Haywirecoder | 2024-09-14T23:15:00.496Z | 153 | true | Not ready |
-| homebridge-evohome | luc-ass | 2023-03-09T15:03:36.049Z | 87 | true | Not ready |
+| homebridge-evohome | luc-ass | 2023-03-09T15:03:36.049Z | 88 | true | Not ready |
 | homebridge-ezviz | Brandawg93 | 2021-02-19T13:00:35.111Z | 334 | true | Not ready |
 | homebridge-fhem | justme1968 | 2022-07-28T16:53:20.405Z | 199 | true | Not ready |
 | homebridge-fibaro-hc3 | ilcato | 2021-04-06T07:34:09.262Z | 55 | true | Not ready |
@@ -113,7 +113,7 @@
 | homebridge-jablotron | Fred de Gier | 2023-11-15T12:21:11.410Z | 35 | true | Not ready |
 | homebridge-juicebox | chrisjshull | 2023-01-02T20:11:13.075Z | 21 | true | Not ready |
 | homebridge-kasa-hub | zmx264 | 2024-09-07T21:41:55.259Z | 673 | true | Not ready |
-| homebridge-keylights | der_jayjay | 2024-06-21T19:35:13.147Z | 256 | true | Not ready |
+| homebridge-keylights | der_jayjay | 2024-06-21T19:35:13.147Z | 257 | true | Not ready |
 | homebridge-kodi | Daniel Müller | 2021-02-17T16:06:21.836Z | 83 | true | Not ready |
 | homebridge-konnected | mkormendy | 2024-04-02T08:32:11.475Z | 125 | true | Not ready |
 | homebridge-kumo | fjs21 | 2023-12-27T15:13:08.373Z | 54 | true | Not ready |
@@ -186,7 +186,7 @@
 | homebridge-prusa-link | buster1407 | 2024-06-04T13:07:32.443Z | 27 | true | Not ready |
 | homebridge-purpleair-sensor | rxin, jmkk | 2024-03-23T22:29:12.798Z | 49 | true | Not ready |
 | homebridge-radiora2 | SenorShaun | 2024-02-17T16:53:15.527Z | 26 | true | Not ready |
-| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8667 | true | Not ready |
+| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8669 | true | Not ready |
 | homebridge-rinnai-controlr | aggiepilot04 | 2023-05-11T16:13:32.917Z | 25 | true | Not ready |
 | homebridge-robonect | David Karlsson | 2024-09-09T07:07:08.536Z | 60 | true | Not ready |
 | homebridge-roomba2 | RayanKhan | 2022-11-22T19:45:20.688Z | 433 | true | Not ready |
@@ -224,7 +224,7 @@
 | homebridge-switcher-platform | nitaybz | 2023-12-17T09:51:33.388Z | 148 | true | Not ready |
 | homebridge-tadiran-ac | nitaybz | 2024-05-08T15:57:47.232Z | 60 | true | Not ready |
 | homebridge-tado-ac | nitaybz | 2024-03-03T18:27:15.894Z | 217 | true | Not ready |
-| homebridge-tado-platform | SeydX | 2021-05-19T06:04:26.313Z | 315 | true | Not ready |
+| homebridge-tado-platform | SeydX | 2021-05-19T06:04:26.313Z | 316 | true | Not ready |
 | homebridge-tasmota | northernman | 2024-06-11T02:26:01.368Z | 198 | true | Not ready |
 | homebridge-tcc | northernman | 2023-03-16T22:56:36.025Z | 194 | true | Not ready |
 | homebridge-temperature-sensor-dht | raresailincai | 2022-09-03T13:11:55.982Z | 93 | true | Not ready |
