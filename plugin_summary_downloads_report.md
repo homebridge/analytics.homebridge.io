@@ -49,7 +49,7 @@
 | homebridge-browsercam | @louis49 | 2022-03-08T08:33:03.109Z | 33 | true | Not ready |
 | homebridge-button-platform | Avi Miller | 2021-12-08T21:34:49.990Z | 83 | true | Not ready |
 | homebridge-calendar-scheduler | uamanager | 2023-09-16T16:33:43.413Z | 114 | true | Not ready |
-| homebridge-camera-ffmpeg | northernman, bwp91, donavanbecker, sunookitsune | 2021-12-28T22:50:56.261Z | 3640 | true | Not ready |
+| homebridge-camera-ffmpeg | northernman, bwp91, donavanbecker, sunookitsune | 2021-12-28T22:50:56.261Z | 3641 | true | Not ready |
 | homebridge-camera-ui | SeydX | 2022-04-24T15:52:44.631Z | 2939 | true | Not ready |
 | homebridge-carrier-infinity | grivkees | 2024-01-12T07:00:02.573Z | 121 | true | Not ready |
 | homebridge-cmd4-advantageair | Mitch Williams | 2024-01-10T06:40:55.021Z | 77 | true | Not ready |
@@ -62,15 +62,15 @@
 | homebridge-daikin-smart-ac | raresailincai | 2022-07-23T14:47:21.671Z | 107 | true | Not ready |
 | homebridge-daikin-tempsensor-nocloud | Christian Brandlehner | 2024-10-10T20:21:48.728Z | 23 | true | Not ready |
 | homebridge-deebotecovacs | Nicolas Dujardin | 2022-04-10T08:57:16.121Z | 108 | true | Not ready |
-| homebridge-delay-switch | nitaybz | 2023-12-23T12:20:45.869Z | 555 | true | Not ready |
+| homebridge-delay-switch | nitaybz | 2023-12-23T12:20:45.869Z | 556 | true | Not ready |
 | homebridge-denon-heos | Nicolas Neubauer, Mart van Vliet | 2020-11-05T17:47:30.970Z | 162 | true | Not ready |
-| homebridge-device-alive | Marc Veens | 2021-03-14T13:30:38.441Z | 60 | true | Not ready |
+| homebridge-device-alive | Marc Veens | 2021-03-14T13:30:38.441Z | 61 | true | Not ready |
 | homebridge-deye | Icesand Sora | 2022-03-06T08:21:15.959Z | 21 | true | Not ready |
 | homebridge-doorbird | HJDHJD https://github.com/hjdhjd | 2020-08-27T16:57:09.199Z | 79 | true | Not ready |
 | homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 300 | true | Not ready |
-| homebridge-dummy | nfarina | 2023-01-23T18:32:06.806Z | 2422 | true | Not ready |
+| homebridge-dummy | nfarina | 2023-01-23T18:32:06.806Z | 2424 | true | Not ready |
 | homebridge-dyson-bp01 | Jeremy Noesen | 2024-04-25T22:25:55.617Z | 60 | true | Not ready |
-| homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2433 | true | Not ready |
+| homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2434 | true | Not ready |
 | homebridge-easee | John Valiquette | 2024-01-07T14:45:10.852Z | 43 | true | Not ready |
 | homebridge-ecoplug | Dan Chlopek | 2020-04-14T02:27:43.275Z | 21 | true | Not ready |
 | homebridge-edomoticz | PatchworkBoy | 2024-03-29T15:06:52.298Z | 280 | true | Not ready |
@@ -88,13 +88,13 @@
 | homebridge-freeathome-local-api | Philip Gerke | 2024-08-24T12:40:16.678Z | 91 | true | Not ready |
 | homebridge-fritz-platform | SeydX | 2021-10-06T00:35:11.201Z | 1152 | true | Not ready |
 | homebridge-ftp-motion | David Maher | 2021-02-21T03:22:39.519Z | 23 | true | Not ready |
-| homebridge-genie-aladdin-connect | derek-miller | 2024-05-06T17:13:08.920Z | 287 | true | Not ready |
+| homebridge-genie-aladdin-connect | derek-miller | 2024-05-06T17:13:08.920Z | 288 | true | Not ready |
 | homebridge-glances | Michael Trinkies | 2020-11-15T20:17:10.874Z | 24 | true | Not ready |
 | homebridge-google-nest-sdm | potmat | 2024-02-21T01:46:57.778Z | 1694 | true | Not ready |
 | homebridge-gpio-doorbell | Silvio Kennecke | 2022-03-25T09:00:29.101Z | 25 | true | Not ready |
-| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3313 | true | Not ready |
+| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3314 | true | Not ready |
 | homebridge-haieracbridge-platform | Piotr Stadnicki | 2020-07-12T22:05:07.591Z | 29 | true | Not ready |
-| homebridge-harmony | Nicolas Dujardin | 2023-05-01T10:34:27.184Z | 618 | true | Not ready |
+| homebridge-harmony | Nicolas Dujardin | 2023-05-01T10:34:27.184Z | 619 | true | Not ready |
 | homebridge-hikconnect | Tamas Biro | 2023-03-25T07:32:45.226Z | 304 | true | Not ready |
 | homebridge-hilo | Jonathan Santerre | 2024-09-03T02:19:00.179Z | 207 | true | Not ready |
 | homebridge-homekit-control | minamoanes | 2024-08-11T08:24:48.512Z | 256 | true | Not ready |
@@ -121,17 +121,17 @@
 | homebridge-leviton | tabrindle@gmail.com | 2022-05-17T16:40:39.432Z | 140 | true | Not ready |
 | homebridge-levoit-air-purifier | raresailincai | 2024-04-17T19:13:00.244Z | 586 | true | Not ready |
 | homebridge-levoit-humidifiers | Paul Schroeder | 2024-04-13T04:54:21.134Z | 226 | true | Not ready |
-| homebridge-lg-thinq | nVuln | 2024-07-24T13:45:19.191Z | 2194 | true | Not ready |
+| homebridge-lg-thinq | nVuln | 2024-07-24T13:45:19.191Z | 2195 | true | Not ready |
 | homebridge-lg-thinq-ac | stuartolivera | 2022-02-03T07:51:28.518Z | 146 | true | Not ready |
-| homebridge-lifx-plugin | calvarium | 2023-09-23T20:09:16.164Z | 256 | true | Not ready |
+| homebridge-lifx-plugin | calvarium | 2023-09-23T20:09:16.164Z | 257 | true | Not ready |
 | homebridge-lightwaverf | rooi | 2023-03-13T17:57:02.404Z | 26 | true | Not ready |
 | homebridge-litter-robot-connect | Ryan Smith | 2020-10-13T04:56:34.947Z | 50 | true | Not ready |
 | homebridge-loxone-control | rocket-monkey | 2024-06-16T18:38:02.042Z | 53 | true | Not ready |
 | homebridge-loxone-proxy | rudyberends | 2024-06-08T06:04:28.647Z | 168 | true | Not ready |
-| homebridge-lutron-caseta-leap | thenewwazoo | 2024-07-04T21:38:18.874Z | 525 | true | Not ready |
+| homebridge-lutron-caseta-leap | thenewwazoo | 2024-07-04T21:38:18.874Z | 526 | true | Not ready |
 | homebridge-magichome-dynamic-platform | isratx, lethegrin, txm_butch23 | 2023-09-09T04:49:31.968Z | 436 | true | Not ready |
 | homebridge-mercedesme | SeydX | 2021-03-22T07:51:23.873Z | 37 | true | Not ready |
-| homebridge-messenger | Paul-Olivier Trudeau | 2021-01-12T21:31:41.611Z | 239 | true | Not ready |
+| homebridge-messenger | Paul-Olivier Trudeau | 2021-01-12T21:31:41.611Z | 240 | true | Not ready |
 | homebridge-mhacwifi1-lan | rchrch | 2023-03-02T10:40:22.587Z | 39 | true | Not ready |
 | homebridge-mi-humidifier | russtone@yandex.ru | 2023-02-06T22:23:16.869Z | 124 | true | Not ready |
 | homebridge-mi-hygrothermograph | Hannes Ljungberg | 2024-03-18T19:33:49.327Z | 308 | true | Not ready |
@@ -147,7 +147,7 @@
 | homebridge-multiswitcheroo | iSteve-O | 2024-01-05T14:28:10.861Z | 85 | true | Not ready |
 | homebridge-musiccast-multiroom | Christian Gierke | 2024-05-05T15:59:38.984Z | 88 | true | Not ready |
 | homebridge-mylink | dgreif | 2021-09-18T23:02:37.335Z | 57 | true | Not ready |
-| homebridge-myq | HJD | 2024-04-28T19:28:38.469Z | 1604 | true | Not ready |
+| homebridge-myq | HJD | 2024-04-28T19:28:38.469Z | 1605 | true | Not ready |
 | homebridge-mysmartblinds-bridge | Alex 'apexad' Martin | 2023-06-20T06:20:44.169Z | 27 | true | Not ready |
 | homebridge-nest | chrisjshull, adrian.cable, bwp91 | 2022-05-02T20:20:07.001Z | 2372 | true | Not ready |
 | homebridge-nest-cam | Brandawg93 | 2022-12-09T18:32:07.126Z | 529 | true | Not ready |
@@ -173,12 +173,12 @@
 | homebridge-philipstv-saphitvos | flobrflo | 2024-07-16T10:00:59.009Z | 51 | true | Not ready |
 | homebridge-pico | Robert Nilsson | 2022-01-22T23:29:16.578Z | 51 | true | Not ready |
 | homebridge-pico-w-bridge | raresailincai | 2022-11-29T14:33:52.559Z | 36 | true | Not ready |
-| homebridge-pihole | arendruni | 2023-03-02T19:00:19.531Z | 512 | true | Not ready |
+| homebridge-pihole | arendruni | 2023-03-02T19:00:19.531Z | 513 | true | Not ready |
 | homebridge-platform-maxcube | Normen Hansen | 2022-06-24T10:23:13.661Z | 80 | true | Not ready |
 | homebridge-platform-orbit | James Carvosso | 2022-04-17T23:08:37.690Z | 45 | true | Not ready |
 | homebridge-playstation-game-title | Nik_dev | 2024-05-31T13:26:21.868Z | 211 | true | Not ready |
-| homebridge-plex-webhooks | Gergely Iharosi | 2022-11-19T17:26:43.339Z | 170 | true | Not ready |
-| homebridge-plugin-govee | asednev | 2022-10-24T20:00:37.886Z | 278 | true | Not ready |
+| homebridge-plex-webhooks | Gergely Iharosi | 2022-11-19T17:26:43.339Z | 172 | true | Not ready |
+| homebridge-plugin-govee | asednev | 2022-10-24T20:00:37.886Z | 279 | true | Not ready |
 | homebridge-plugin-update-check | David Maher | 2022-03-26T19:54:36.783Z | 128 | true | Not ready |
 | homebridge-presence-switch-msgraph | Elio Struyf | 2024-04-12T10:31:12.142Z | 26 | true | Not ready |
 | homebridge-printer | SeydX | 2021-05-20T06:03:23.994Z | 165 | true | Not ready |
@@ -199,7 +199,7 @@
 | homebridge-shelly | Alexander Rydén | 2021-08-09T20:15:11.473Z | 801 | true | Not ready |
 | homebridge-shelly-ng | Alexander Rydén | 2022-08-23T08:48:25.160Z | 1773 | true | Not ready |
 | homebridge-signalk | Christian Wegerhoff | 2023-09-03T15:24:43.716Z | 134 | true | Not ready |
-| homebridge-simplisafe3 | Niccolò Zapponi | 2023-04-06T03:06:26.429Z | 318 | true | Not ready |
+| homebridge-simplisafe3 | Niccolò Zapponi | 2023-04-06T03:06:26.429Z | 319 | true | Not ready |
 | homebridge-sinricpro | kakopappa | 2024-10-20T04:42:42.919Z | 44 | true | Not ready |
 | homebridge-slide-shutter | Bram Smulders | 2021-10-28T15:16:53.790Z | 28 | true | Not ready |
 | homebridge-sma-home-manager | Wim Leers | 2023-09-03T17:54:59.009Z | 103 | true | Not ready |
@@ -237,9 +237,9 @@
 | homebridge-tp-link-tapo | raresailincai | 2024-10-20T09:23:08.318Z | 1502 | true | Not ready |
 | homebridge-tplink-smarthome | Patrick Seal | 2024-02-27T01:18:58.173Z | 3243 | true | Not ready |
 | homebridge-ttlock | bwitting | 2022-08-29T15:45:30.751Z | 76 | true | Not ready |
-| homebridge-tuya | Rayan Khan | 2024-05-03T08:34:41.567Z | 1940 | true | Not ready |
+| homebridge-tuya | Rayan Khan | 2024-05-03T08:34:41.567Z | 1941 | true | Not ready |
 | homebridge-tuya-ir | prasad.edlabadkar | 2022-10-26T04:30:23.113Z | 178 | true | Not ready |
-| homebridge-tuya-platform | huhuan | 2021-11-03T12:15:24.078Z | 364 | true | Not ready |
+| homebridge-tuya-platform | huhuan | 2021-11-03T12:15:24.078Z | 365 | true | Not ready |
 | homebridge-tuya-platform-talrhvfork | huhuan | 2022-10-19T19:42:38.676Z | 46 | true | Not ready |
 | homebridge-twinkly-plus | Theo van Hoesel | 2022-12-27T21:11:15.675Z | 81 | true | Not ready |
 | homebridge-uconnect | Gilad Yahalom | 2022-08-29T22:54:58.502Z | 26 | true | Not ready |
@@ -254,7 +254,7 @@
 | homebridge-vieramatic | António Meireles | 2023-05-06T15:33:50.351Z | 111 | true | Not ready |
 | homebridge-volvo | Trym Lund Flogard | 2021-09-12T15:58:55.836Z | 62 | true | Not ready |
 | homebridge-washingmachine-pow | SeydX | 2021-05-20T05:33:14.896Z | 30 | true | Not ready |
-| homebridge-weather-plus | Arne Blumentritt | 2024-05-15T08:25:21.904Z | 1022 | true | Not ready |
+| homebridge-weather-plus | Arne Blumentritt | 2024-05-15T08:25:21.904Z | 1024 | true | Not ready |
 | homebridge-website-change-check | Marc Veens | 2021-10-24T10:36:39.393Z | 33 | true | Not ready |
 | homebridge-wiser | paulw11 | 2022-02-13T07:29:06.995Z | 27 | true | Not ready |
 | homebridge-wled-ws | smhex | 2024-06-22T15:45:38.397Z | 410 | true | Not ready |
@@ -264,11 +264,11 @@
 | homebridge-xiaomi-aqara-ac-cooler | Seanzhang | 2021-12-31T16:23:53.379Z | 25 | true | Not ready |
 | homebridge-xiaomi-fan | merdok | 2022-05-31T09:37:15.138Z | 294 | true | Not ready |
 | homebridge-xiaomi-mi-air-purifier | rifat | 2021-12-03T15:36:41.050Z | 318 | true | Not ready |
-| homebridge-xiaomi-roborock-vacuum | afharo, nicoh88 | 2024-08-07T21:25:09.420Z | 2101 | true | Not ready |
+| homebridge-xiaomi-roborock-vacuum | afharo, nicoh88 | 2024-08-07T21:25:09.420Z | 2102 | true | Not ready |
 | homebridge-yamaha-receiver | nitaybz | 2022-06-19T18:48:18.479Z | 144 | true | Not ready |
 | homebridge-yeelighter | undefined | 2024-01-14T10:36:04.864Z | 581 | true | Not ready |
 | homebridge-yet-another-ping | Dwan | 2022-05-18T08:47:24.987Z | 36 | true | Not ready |
 | homebridge-yolink | dkerr64 | 2024-08-22T23:56:41.231Z | 258 | true | Not ready |
-| homebridge-z2m | Arno Moonen | 2024-01-03T18:56:52.878Z | 1809 | true | Not ready |
+| homebridge-z2m | Arno Moonen | 2024-01-03T18:56:52.878Z | 1812 | true | Not ready |
 | homebridge-zidoo-androidtv | Carlos Gamez | 2024-09-27T19:04:27.427Z | 57 | true | Not ready |
 | homebridge-zigbee-nt | Pierpaolo Follia | 2024-08-31T15:20:55.451Z | 1618 | true | Not ready |
