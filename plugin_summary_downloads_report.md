@@ -67,8 +67,8 @@
 | homebridge-device-alive | Marc Veens | 2021-03-14T13:30:38.441Z | 61 | true | Not ready |
 | homebridge-deye | Icesand Sora | 2022-03-06T08:21:15.959Z | 21 | true | Not ready |
 | homebridge-doorbird | HJDHJD https://github.com/hjdhjd | 2020-08-27T16:57:09.199Z | 79 | true | Not ready |
-| homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 300 | true | Not ready |
-| homebridge-dummy | nfarina | 2023-01-23T18:32:06.806Z | 2424 | true | Not ready |
+| homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 301 | true | Not ready |
+| homebridge-dummy | nfarina | 2023-01-23T18:32:06.806Z | 2425 | true | Not ready |
 | homebridge-dyson-bp01 | Jeremy Noesen | 2024-04-25T22:25:55.617Z | 60 | true | Not ready |
 | homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2434 | true | Not ready |
 | homebridge-easee | John Valiquette | 2024-01-07T14:45:10.852Z | 43 | true | Not ready |
@@ -135,7 +135,7 @@
 | homebridge-mhacwifi1-lan | rchrch | 2023-03-02T10:40:22.587Z | 39 | true | Not ready |
 | homebridge-mi-humidifier | russtone@yandex.ru | 2023-02-06T22:23:16.869Z | 124 | true | Not ready |
 | homebridge-mi-hygrothermograph | Hannes Ljungberg | 2024-03-18T19:33:49.327Z | 308 | true | Not ready |
-| homebridge-mieleathome | sandervanwoensel | 2021-12-19T14:48:47.864Z | 196 | true | Not ready |
+| homebridge-mieleathome | sandervanwoensel | 2021-12-19T14:48:47.864Z | 197 | true | Not ready |
 | homebridge-mihomegateway | James Rodda | 2021-08-11T16:35:20.383Z | 69 | true | Not ready |
 | homebridge-milighthub-platform | Normen Hansen | 2023-12-09T21:59:33.005Z | 27 | true | Not ready |
 | homebridge-mobilelink | Nicholas Penree | 2023-12-10T20:07:04.919Z | 32 | true | Not ready |
@@ -166,7 +166,7 @@
 | homebridge-pentair-screenlogic | zyonse | 2023-06-09T05:07:56.486Z | 42 | true | Not ready |
 | homebridge-people-pro | mfkrause | 2021-04-26T12:09:59.470Z | 166 | true | Not ready |
 | homebridge-petkit-pet-feeder | jubepue@gmail.com | 2022-10-29T18:41:02.321Z | 34 | true | Not ready |
-| homebridge-petkit-platform | jubepue@gmail.com | 2023-02-28T13:57:41.246Z | 78 | true | Not ready |
+| homebridge-petkit-platform | jubepue@gmail.com | 2023-02-28T13:57:41.246Z | 79 | true | Not ready |
 | homebridge-philips-air | Nik_Dev | 2021-07-13T23:21:46.243Z | 193 | true | Not ready |
 | homebridge-philips-android-tv | konradknitter | 2021-07-24T16:48:33.322Z | 240 | true | Not ready |
 | homebridge-philipsair-platform | SeydX | 2021-11-06T14:42:18.803Z | 82 | true | Not ready |
@@ -186,7 +186,7 @@
 | homebridge-prusa-link | buster1407 | 2024-06-04T13:07:32.443Z | 27 | true | Not ready |
 | homebridge-purpleair-sensor | rxin, jmkk | 2024-03-23T22:29:12.798Z | 49 | true | Not ready |
 | homebridge-radiora2 | SenorShaun | 2024-02-17T16:53:15.527Z | 26 | true | Not ready |
-| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8669 | true | Not ready |
+| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8670 | true | Not ready |
 | homebridge-rinnai-controlr | aggiepilot04 | 2023-05-11T16:13:32.917Z | 25 | true | Not ready |
 | homebridge-robonect | David Karlsson | 2024-09-09T07:07:08.536Z | 60 | true | Not ready |
 | homebridge-roomba2 | RayanKhan | 2022-11-22T19:45:20.688Z | 433 | true | Not ready |
