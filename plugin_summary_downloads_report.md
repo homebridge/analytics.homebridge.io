@@ -50,7 +50,7 @@
 | homebridge-button-platform | Avi Miller | 2021-12-08T21:34:49.990Z | 83 | true | Not ready |
 | homebridge-calendar-scheduler | uamanager | 2023-09-16T16:33:43.413Z | 114 | true | Not ready |
 | homebridge-camera-ffmpeg | northernman, bwp91, donavanbecker, sunookitsune | 2021-12-28T22:50:56.261Z | 3641 | true | Not ready |
-| homebridge-camera-ui | SeydX | 2022-04-24T15:52:44.631Z | 2939 | true | Not ready |
+| homebridge-camera-ui | SeydX | 2022-04-24T15:52:44.631Z | 2940 | true | Not ready |
 | homebridge-carrier-infinity | grivkees | 2024-01-12T07:00:02.573Z | 121 | true | Not ready |
 | homebridge-cmd4-advantageair | Mitch Williams | 2024-01-10T06:40:55.021Z | 77 | true | Not ready |
 | homebridge-comelit-platform | Pierpaolo Follia | 2023-09-03T10:57:05.290Z | 27 | true | Not ready |
