@@ -55,9 +55,8 @@ jobs:
     steps:
       - name: Checkout GH-Pages
         uses: actions/checkout@v4
-
-      - name: switch to gh-pages branch
-        run: /usr/bin/git checkout --progress --force -B Source refs/remotes/origin/gh-pages
+        with:
+          ref: gh-pages
 
       - name: Refresh branch with Source
         run: git rebase origin/Source
