@@ -59,7 +59,7 @@ jobs:
           ref: gh-pages
 
       - name: Refresh branch with Source
-        run: git merge origin/Source
+        run: git rebase origin/Source
 
       - name: Copy data
         run: cp homebridge_plugins.json ./docs/homebridge_plugins.json
