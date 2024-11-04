@@ -49,7 +49,7 @@
 | homebridge-browsercam | @louis49 | 2022-03-08T08:33:03.109Z | 33 | true | Not ready |
 | homebridge-button-platform | Avi Miller | 2021-12-08T21:34:49.990Z | 83 | true | Not ready |
 | homebridge-calendar-scheduler | uamanager | 2023-09-16T16:33:43.413Z | 114 | true | Not ready |
-| homebridge-camera-ffmpeg | northernman, bwp91, donavanbecker, sunookitsune | 2021-12-28T22:50:56.261Z | 3641 | true | Not ready |
+| homebridge-camera-ffmpeg | northernman, bwp91, donavanbecker, sunookitsune | 2021-12-28T22:50:56.261Z | 3642 | true | Not ready |
 | homebridge-camera-ui | SeydX | 2022-04-24T15:52:44.631Z | 2940 | true | Not ready |
 | homebridge-carrier-infinity | grivkees | 2024-01-12T07:00:02.573Z | 121 | true | Not ready |
 | homebridge-cmd4-advantageair | Mitch Williams | 2024-01-10T06:40:55.021Z | 77 | true | Not ready |
@@ -65,9 +65,9 @@
 | homebridge-delay-switch | nitaybz | 2023-12-23T12:20:45.869Z | 556 | true | Not ready |
 | homebridge-denon-heos | Nicolas Neubauer, Mart van Vliet | 2020-11-05T17:47:30.970Z | 162 | true | Not ready |
 | homebridge-device-alive | Marc Veens | 2021-03-14T13:30:38.441Z | 61 | true | Not ready |
-| homebridge-deye | Icesand Sora | 2022-03-06T08:21:15.959Z | 21 | true | Not ready |
+| homebridge-deye | Icesand Sora | 2022-03-06T08:21:15.959Z | 22 | true | Not ready |
 | homebridge-doorbird | HJDHJD https://github.com/hjdhjd | 2020-08-27T16:57:09.199Z | 79 | true | Not ready |
-| homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 301 | true | Not ready |
+| homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 302 | true | Not ready |
 | homebridge-dummy | nfarina | 2023-01-23T18:32:06.806Z | 2425 | true | Not ready |
 | homebridge-dyson-bp01 | Jeremy Noesen | 2024-04-25T22:25:55.617Z | 60 | true | Not ready |
 | homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2434 | true | Not ready |
@@ -78,7 +78,7 @@
 | homebridge-envisalink | Dustin D. Clark | 2023-03-30T18:05:39.310Z | 97 | true | Not ready |
 | homebridge-envisalink-ademco | Haywirecoder | 2024-09-14T23:15:00.496Z | 153 | true | Not ready |
 | homebridge-evohome | luc-ass | 2023-03-09T15:03:36.049Z | 88 | true | Not ready |
-| homebridge-ezviz | Brandawg93 | 2021-02-19T13:00:35.111Z | 334 | true | Not ready |
+| homebridge-ezviz | Brandawg93 | 2021-02-19T13:00:35.111Z | 335 | true | Not ready |
 | homebridge-fhem | justme1968 | 2022-07-28T16:53:20.405Z | 199 | true | Not ready |
 | homebridge-fibaro-hc3 | ilcato | 2021-04-06T07:34:09.262Z | 55 | true | Not ready |
 | homebridge-flair | bassrock | 2022-01-19T04:13:07.582Z | 25 | true | Not ready |
@@ -92,7 +92,7 @@
 | homebridge-glances | Michael Trinkies | 2020-11-15T20:17:10.874Z | 24 | true | Not ready |
 | homebridge-google-nest-sdm | potmat | 2024-02-21T01:46:57.778Z | 1694 | true | Not ready |
 | homebridge-gpio-doorbell | Silvio Kennecke | 2022-03-25T09:00:29.101Z | 25 | true | Not ready |
-| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3314 | true | Not ready |
+| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3316 | true | Not ready |
 | homebridge-haieracbridge-platform | Piotr Stadnicki | 2020-07-12T22:05:07.591Z | 29 | true | Not ready |
 | homebridge-harmony | Nicolas Dujardin | 2023-05-01T10:34:27.184Z | 619 | true | Not ready |
 | homebridge-hikconnect | Tamas Biro | 2023-03-25T07:32:45.226Z | 304 | true | Not ready |
@@ -176,7 +176,7 @@
 | homebridge-pihole | arendruni | 2023-03-02T19:00:19.531Z | 513 | true | Not ready |
 | homebridge-platform-maxcube | Normen Hansen | 2022-06-24T10:23:13.661Z | 80 | true | Not ready |
 | homebridge-platform-orbit | James Carvosso | 2022-04-17T23:08:37.690Z | 45 | true | Not ready |
-| homebridge-playstation-game-title | Nik_dev | 2024-05-31T13:26:21.868Z | 211 | true | Not ready |
+| homebridge-playstation-game-title | Nik_dev | 2024-05-31T13:26:21.868Z | 212 | true | Not ready |
 | homebridge-plex-webhooks | Gergely Iharosi | 2022-11-19T17:26:43.339Z | 172 | true | Not ready |
 | homebridge-plugin-govee | asednev | 2022-10-24T20:00:37.886Z | 279 | true | Not ready |
 | homebridge-plugin-update-check | David Maher | 2022-03-26T19:54:36.783Z | 128 | true | Not ready |
@@ -186,7 +186,7 @@
 | homebridge-prusa-link | buster1407 | 2024-06-04T13:07:32.443Z | 27 | true | Not ready |
 | homebridge-purpleair-sensor | rxin, jmkk | 2024-03-23T22:29:12.798Z | 49 | true | Not ready |
 | homebridge-radiora2 | SenorShaun | 2024-02-17T16:53:15.527Z | 26 | true | Not ready |
-| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8670 | true | Not ready |
+| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8671 | true | Not ready |
 | homebridge-rinnai-controlr | aggiepilot04 | 2023-05-11T16:13:32.917Z | 25 | true | Not ready |
 | homebridge-robonect | David Karlsson | 2024-09-09T07:07:08.536Z | 60 | true | Not ready |
 | homebridge-roomba2 | RayanKhan | 2022-11-22T19:45:20.688Z | 433 | true | Not ready |

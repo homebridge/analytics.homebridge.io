@@ -43,7 +43,7 @@
 | homebridge-daikin-oneplus | jeffschubert | 2024-09-10T03:39:05.995Z | 167 | true | Not ready |
 | homebridge-daikin-tempsensor-nocloud | Christian Brandlehner | 2024-10-10T20:21:48.728Z | 23 | true | Not ready |
 | homebridge-delay-switch | nitaybz | 2023-12-23T12:20:45.869Z | 556 | true | Not ready |
-| homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 301 | true | Not ready |
+| homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 302 | true | Not ready |
 | homebridge-dune-hd | Carlos Gamez | 2024-06-12T02:42:41.948Z | 19 | true | Not ready |
 | homebridge-dyson-bp01 | Jeremy Noesen | 2024-04-25T22:25:55.617Z | 60 | true | Not ready |
 | homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2434 | true | Not ready |
@@ -64,7 +64,7 @@
 | homebridge-genie-aladdin-connect | derek-miller | 2024-05-06T17:13:08.920Z | 288 | true | Not ready |
 | homebridge-google-nest-sdm | potmat | 2024-02-21T01:46:57.778Z | 1694 | true | Not ready |
 | homebridge-grohe-sense | Frank Aune | 2024-04-06T13:19:06.098Z | 14 | true | Not ready |
-| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3314 | true | Not ready |
+| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3316 | true | Not ready |
 | homebridge-hilo | Jonathan Santerre | 2024-09-03T02:19:00.179Z | 207 | true | Not ready |
 | homebridge-homekit-control | minamoanes | 2024-08-11T08:24:48.512Z | 256 | true | Not ready |
 | homebridge-homewizard-energy-socket | Jordy van den Aardweg | 2023-11-07T15:13:20.191Z | 45 | true | Not ready |
@@ -107,7 +107,7 @@
 | homebridge-openrgb | Dallas Hoffman | 2024-02-25T22:15:17.487Z | 37 | true | Not ready |
 | homebridge-oppo-udp | Carlos Gamez | 2024-05-24T17:23:27.199Z | 33 | true | Not ready |
 | homebridge-philipstv-saphitvos | flobrflo | 2024-07-16T10:00:59.009Z | 51 | true | Not ready |
-| homebridge-playstation-game-title | Nik_dev | 2024-05-31T13:26:21.868Z | 211 | true | Not ready |
+| homebridge-playstation-game-title | Nik_dev | 2024-05-31T13:26:21.868Z | 212 | true | Not ready |
 | homebridge-porsche-taycan | Jasper Seinhorst | 2024-03-24T18:59:40.588Z | 15 | true | Not ready |
 | homebridge-presence-switch-msgraph | Elio Struyf | 2024-04-12T10:31:12.142Z | 26 | true | Not ready |
 | homebridge-prosegur | Juan Luis Gómez | 2024-01-13T15:49:28.633Z | 7 | true | Not ready |
@@ -115,7 +115,7 @@
 | homebridge-purpleair-sensor | rxin, jmkk | 2024-03-23T22:29:12.798Z | 49 | true | Not ready |
 | homebridge-ra2-select | isalkind | 2024-03-27T01:46:33.036Z | 18 | true | Not ready |
 | homebridge-radiora2 | SenorShaun | 2024-02-17T16:53:15.527Z | 26 | true | Not ready |
-| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8670 | true | Not ready |
+| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8671 | true | Not ready |
 | homebridge-robonect | David Karlsson | 2024-09-09T07:07:08.536Z | 60 | true | Not ready |
 | homebridge-samsung-tizen | Octavian Ruda | 2023-12-14T08:47:38.716Z | 1509 | true | Not ready |
 | homebridge-samsungtvht | jsiegenthaler | 2024-05-22T05:28:53.166Z | 213 | true | Not ready |
