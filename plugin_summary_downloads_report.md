@@ -94,7 +94,7 @@
 | homebridge-glances | Michael Trinkies | 2020-11-15T20:17:10.874Z | 24 | true | Not ready |
 | homebridge-google-nest-sdm | potmat | 2024-02-21T01:46:57.778Z | 1730 | true | Not ready |
 | homebridge-gpio-doorbell | Silvio Kennecke | 2022-03-25T09:00:29.101Z | 26 | true | Not ready |
-| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3420 | true | Not ready |
+| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3421 | true | Not ready |
 | homebridge-haieracbridge-platform | Piotr Stadnicki | 2020-07-12T22:05:07.591Z | 30 | true | Not ready |
 | homebridge-harmony | Nicolas Dujardin | 2023-05-01T10:34:27.184Z | 621 | true | Not ready |
 | homebridge-hikconnect | Tamas Biro | 2023-03-25T07:32:45.226Z | 311 | true | Not ready |
@@ -189,7 +189,7 @@
 | homebridge-prusa-link | buster1407 | 2024-06-04T13:07:32.443Z | 34 | true | Not ready |
 | homebridge-purpleair-sensor | rxin, jmkk | 2024-03-23T22:29:12.798Z | 51 | true | Not ready |
 | homebridge-radiora2 | SenorShaun | 2024-02-17T16:53:15.527Z | 26 | true | Not ready |
-| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8968 | true | Not ready |
+| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8969 | true | Not ready |
 | homebridge-rinnai-controlr | aggiepilot04 | 2023-05-11T16:13:32.917Z | 25 | true | Not ready |
 | homebridge-robonect | David Karlsson | 2024-09-09T07:07:08.536Z | 60 | true | Not ready |
 | homebridge-roomba2 | RayanKhan | 2022-11-22T19:45:20.688Z | 434 | true | Not ready |
