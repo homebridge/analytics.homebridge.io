@@ -80,7 +80,7 @@
 | homebridge-keylights | der_jayjay | 2024-06-21T19:35:13.147Z | 263 | true | Not ready |
 | homebridge-konnected | mkormendy | 2024-04-02T08:32:11.475Z | 122 | true | Not ready |
 | homebridge-kumo | fjs21 | 2023-12-27T15:13:08.373Z | 53 | true | Not ready |
-| homebridge-levoit-air-purifier | raresailincai | 2024-04-17T19:13:00.244Z | 591 | true | Not ready |
+| homebridge-levoit-air-purifier | raresailincai | 2024-04-17T19:13:00.244Z | 592 | true | Not ready |
 | homebridge-levoit-humidifiers | Paul Schroeder | 2024-04-13T04:54:21.134Z | 229 | true | Not ready |
 | homebridge-lg-enervu | Niklas Jobst | 2024-04-07T20:37:25.857Z | 11 | true | Not ready |
 | homebridge-lg-thinq | nVuln | 2024-07-24T13:45:19.191Z | 2217 | true | Not ready |
@@ -142,11 +142,11 @@
 | homebridge-wattbox | derek-miller | 2024-09-02T15:52:49.143Z | 9 | true | Not ready |
 | homebridge-weather-plus | Arne Blumentritt | 2024-05-15T08:25:21.904Z | 1044 | true | Not ready |
 | homebridge-wled-ws | smhex | 2024-06-22T15:45:38.397Z | 414 | true | Not ready |
-| homebridge-wol | Alex Gustafsson | 2024-01-24T21:11:31.253Z | 853 | true | Not ready |
+| homebridge-wol | Alex Gustafsson | 2024-01-24T21:11:31.253Z | 854 | true | Not ready |
 | homebridge-wyze-robovac | rmcob | 2024-01-22T22:27:22.827Z | 49 | true | Not ready |
 | homebridge-xfinityhome | bloomkd46 | 2024-07-14T22:31:19.978Z | 106 | true | Not ready |
 | homebridge-xiaomi-roborock-vacuum | afharo, nicoh88 | 2024-08-07T21:25:09.420Z | 2136 | true | Not ready |
-| homebridge-yeelighter | undefined | 2024-01-14T10:36:04.864Z | 592 | true | Not ready |
+| homebridge-yeelighter | undefined | 2024-01-14T10:36:04.864Z | 593 | true | Not ready |
 | homebridge-yokis-usb | HADJEDJ Vincent | 2024-02-21T18:07:49.819Z | 5 | true | Not ready |
 | homebridge-yolink | dkerr64 | 2024-08-22T23:56:41.231Z | 267 | true | Not ready |
 | homebridge-z2m | Arno Moonen | 2024-01-03T18:56:52.878Z | 1825 | true | Not ready |

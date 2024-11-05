@@ -189,10 +189,10 @@
     "deprecated": false,
     "displayName": "Tasmota Control",
     "owner": "grzegorz914",
-    "downloads": 2094,
+    "downloads": 2095,
     "verified": true,
     "npmDownloads": 2094,
-    "githubDownloads": 0,
+    "githubDownloads": 1,
     "homebridge2ready": "Supported"
   },
   {
@@ -936,10 +936,10 @@
     "deprecated": false,
     "displayName": "homebridge-meross",
     "owner": "bwp91",
-    "downloads": 2706,
+    "downloads": 2707,
     "verified": true,
     "npmDownloads": 225,
-    "githubDownloads": 2481,
+    "githubDownloads": 2482,
     "homebridge2ready": "Supported"
   },
   {
@@ -1634,10 +1634,10 @@
     "deprecated": false,
     "displayName": "Homebridge WeatherFlow Tempest",
     "owner": "chasenicholl",
-    "downloads": 257,
+    "downloads": 258,
     "verified": true,
     "npmDownloads": 177,
-    "githubDownloads": 80,
+    "githubDownloads": 81,
     "homebridge2ready": "Supported"
   },
   {
@@ -2166,10 +2166,10 @@
     "deprecated": false,
     "displayName": "Homebridge UPS",
     "owner": "Erik Baauw",
-    "downloads": 193,
+    "downloads": 194,
     "verified": true,
     "npmDownloads": 151,
-    "githubDownloads": 42,
+    "githubDownloads": 43,
     "homebridge2ready": "Supported"
   },
   {
@@ -3967,10 +3967,10 @@
     "deprecated": false,
     "displayName": "Orbit",
     "owner": "John Valiquette",
-    "downloads": 601,
+    "downloads": 602,
     "verified": true,
     "npmDownloads": 29,
-    "githubDownloads": 572,
+    "githubDownloads": 573,
     "homebridge2ready": "Supported"
   },
   {
@@ -5780,10 +5780,10 @@
     "deprecated": false,
     "displayName": "Levoit Air Purifier",
     "owner": "raresailincai",
-    "downloads": 591,
+    "downloads": 592,
     "verified": true,
     "npmDownloads": 77,
-    "githubDownloads": 514,
+    "githubDownloads": 515,
     "homebridge2ready": "Not ready"
   },
   {
@@ -8234,10 +8234,10 @@
     "deprecated": false,
     "displayName": "Homebridge WoL",
     "owner": "Alex Gustafsson",
-    "downloads": 853,
+    "downloads": 854,
     "verified": true,
     "npmDownloads": 62,
-    "githubDownloads": 791,
+    "githubDownloads": 792,
     "homebridge2ready": "Not ready"
   },
   {
@@ -14248,10 +14248,10 @@
     "deprecated": false,
     "displayName": "Homebridge Security System",
     "owner": "MiguelRipoll23",
-    "downloads": 597,
+    "downloads": 598,
     "verified": true,
     "npmDownloads": 49,
-    "githubDownloads": 548,
+    "githubDownloads": 549,
     "homebridge2ready": "Supported"
   },
   {
@@ -18254,10 +18254,10 @@
     "latestRelease": "2024-01-14T10:36:04.864Z",
     "deprecated": false,
     "displayName": "Yeelighter",
-    "downloads": 592,
+    "downloads": 593,
     "verified": true,
     "npmDownloads": 99,
-    "githubDownloads": 493,
+    "githubDownloads": 494,
     "homebridge2ready": "Not ready"
   },
   {
@@ -25828,10 +25828,10 @@
     "deprecated": false,
     "displayName": "Homebridge Hue",
     "owner": "Erik Baauw",
-    "downloads": 3114,
+    "downloads": 3115,
     "verified": true,
     "npmDownloads": 655,
-    "githubDownloads": 2459,
+    "githubDownloads": 2460,
     "homebridge2ready": "Supported"
   },
   {
@@ -40825,10 +40825,10 @@
     "deprecated": false,
     "displayName": "Homebridge Camera FFmpeg",
     "owner": "northernman, bwp91, donavanbecker, sunookitsune",
-    "downloads": 3637,
+    "downloads": 3638,
     "verified": true,
     "npmDownloads": 1111,
-    "githubDownloads": 2526,
+    "githubDownloads": 2527,
     "homebridge2ready": "Not ready"
   },
   {

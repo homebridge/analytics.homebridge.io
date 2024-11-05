@@ -50,7 +50,7 @@
 | homebridge-browsercam | @louis49 | 2022-03-08T08:33:03.109Z | 35 | true | Not ready |
 | homebridge-button-platform | Avi Miller | 2021-12-08T21:34:49.990Z | 85 | true | Not ready |
 | homebridge-calendar-scheduler | uamanager | 2023-09-16T16:33:43.413Z | 116 | true | Not ready |
-| homebridge-camera-ffmpeg | northernman, bwp91, donavanbecker, sunookitsune | 2021-12-28T22:50:56.261Z | 3637 | true | Not ready |
+| homebridge-camera-ffmpeg | northernman, bwp91, donavanbecker, sunookitsune | 2021-12-28T22:50:56.261Z | 3638 | true | Not ready |
 | homebridge-camera-ui | SeydX | 2022-04-24T15:52:44.631Z | 2979 | true | Not ready |
 | homebridge-carrier-infinity | grivkees | 2024-01-12T07:00:02.573Z | 121 | true | Not ready |
 | homebridge-cmd4-advantageair | Mitch Williams | 2024-01-10T06:40:55.021Z | 77 | true | Not ready |
@@ -122,7 +122,7 @@
 | homebridge-kumo | fjs21 | 2023-12-27T15:13:08.373Z | 53 | true | Not ready |
 | homebridge-landroid | Normen Hansen | 2023-11-03T22:14:22.898Z | 202 | true | Not ready |
 | homebridge-leviton | tabrindle@gmail.com | 2022-05-17T16:40:39.432Z | 146 | true | Not ready |
-| homebridge-levoit-air-purifier | raresailincai | 2024-04-17T19:13:00.244Z | 591 | true | Not ready |
+| homebridge-levoit-air-purifier | raresailincai | 2024-04-17T19:13:00.244Z | 592 | true | Not ready |
 | homebridge-levoit-humidifiers | Paul Schroeder | 2024-04-13T04:54:21.134Z | 229 | true | Not ready |
 | homebridge-lg-thinq | nVuln | 2024-07-24T13:45:19.191Z | 2217 | true | Not ready |
 | homebridge-lg-thinq-ac | stuartolivera | 2022-02-03T07:51:28.518Z | 148 | true | Not ready |
@@ -261,7 +261,7 @@
 | homebridge-website-change-check | Marc Veens | 2021-10-24T10:36:39.393Z | 33 | true | Not ready |
 | homebridge-wiser | paulw11 | 2022-02-13T07:29:06.995Z | 27 | true | Not ready |
 | homebridge-wled-ws | smhex | 2024-06-22T15:45:38.397Z | 414 | true | Not ready |
-| homebridge-wol | Alex Gustafsson | 2024-01-24T21:11:31.253Z | 853 | true | Not ready |
+| homebridge-wol | Alex Gustafsson | 2024-01-24T21:11:31.253Z | 854 | true | Not ready |
 | homebridge-wyze-robovac | rmcob | 2024-01-22T22:27:22.827Z | 49 | true | Not ready |
 | homebridge-xfinityhome | bloomkd46 | 2024-07-14T22:31:19.978Z | 106 | true | Not ready |
 | homebridge-xiaomi-aqara-ac-cooler | Seanzhang | 2021-12-31T16:23:53.379Z | 26 | true | Not ready |
@@ -269,7 +269,7 @@
 | homebridge-xiaomi-mi-air-purifier | rifat | 2021-12-03T15:36:41.050Z | 322 | true | Not ready |
 | homebridge-xiaomi-roborock-vacuum | afharo, nicoh88 | 2024-08-07T21:25:09.420Z | 2136 | true | Not ready |
 | homebridge-yamaha-receiver | nitaybz | 2022-06-19T18:48:18.479Z | 144 | true | Not ready |
-| homebridge-yeelighter | undefined | 2024-01-14T10:36:04.864Z | 592 | true | Not ready |
+| homebridge-yeelighter | undefined | 2024-01-14T10:36:04.864Z | 593 | true | Not ready |
 | homebridge-yet-another-ping | Dwan | 2022-05-18T08:47:24.987Z | 37 | true | Not ready |
 | homebridge-yolink | dkerr64 | 2024-08-22T23:56:41.231Z | 267 | true | Not ready |
 | homebridge-z2m | Arno Moonen | 2024-01-03T18:56:52.878Z | 1825 | true | Not ready |
