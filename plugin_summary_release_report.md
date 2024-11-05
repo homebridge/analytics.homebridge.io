@@ -135,7 +135,7 @@
 | homebridge-tibberswitch | David Karlsson | 2024-02-21T21:11:02.993Z | 25 | true | Not ready |
 | homebridge-tiko | Clément Latzarus | 2024-02-26T17:31:02.905Z | 10 | true | Not ready |
 | homebridge-tp-link-tapo | raresailincai | 2024-10-20T09:23:08.318Z | 1542 | true | Not ready |
-| homebridge-tplink-smarthome | Patrick Seal | 2024-02-27T01:18:58.173Z | 3303 | true | Not ready |
+| homebridge-tplink-smarthome | Patrick Seal | 2024-02-27T01:18:58.173Z | 3304 | true | Not ready |
 | homebridge-tuya | Rayan Khan | 2024-05-03T08:34:41.567Z | 1969 | true | Not ready |
 | homebridge-unifi-smartpower | derek-miller | 2024-08-30T22:35:39.633Z | 112 | true | Not ready |
 | homebridge-vesync-v2 | Eric Pelkey, Mick Giles | 2024-06-21T02:33:09.117Z | 195 | true | Not ready |
