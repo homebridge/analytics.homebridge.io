@@ -64,7 +64,7 @@
 | homebridge-genie-aladdin-connect | derek-miller | 2024-05-06T17:13:08.920Z | 290 | true | Not ready |
 | homebridge-google-nest-sdm | potmat | 2024-02-21T01:46:57.778Z | 1730 | true | Not ready |
 | homebridge-grohe-sense | Frank Aune | 2024-04-06T13:19:06.098Z | 13 | true | Not ready |
-| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3420 | true | Not ready |
+| homebridge-gsh | oznu | 2024-10-29T02:40:52.501Z | 3421 | true | Not ready |
 | homebridge-hilo | Jonathan Santerre | 2024-09-03T02:19:00.179Z | 301 | true | Not ready |
 | homebridge-homekit-control | minamoanes | 2024-08-11T08:24:48.512Z | 260 | true | Not ready |
 | homebridge-homewizard-energy-socket | Jordy van den Aardweg | 2023-11-07T15:13:20.191Z | 50 | true | Not ready |
@@ -115,7 +115,7 @@
 | homebridge-purpleair-sensor | rxin, jmkk | 2024-03-23T22:29:12.798Z | 51 | true | Not ready |
 | homebridge-ra2-select | isalkind | 2024-03-27T01:46:33.036Z | 17 | true | Not ready |
 | homebridge-radiora2 | SenorShaun | 2024-02-17T16:53:15.527Z | 26 | true | Not ready |
-| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8968 | true | Not ready |
+| homebridge-ring | dgreif | 2024-08-13T01:59:41.396Z | 8969 | true | Not ready |
 | homebridge-robonect | David Karlsson | 2024-09-09T07:07:08.536Z | 60 | true | Not ready |
 | homebridge-samsung-tizen | Octavian Ruda | 2023-12-14T08:47:38.716Z | 1547 | true | Not ready |
 | homebridge-samsungtvht | jsiegenthaler | 2024-05-22T05:28:53.166Z | 216 | true | Not ready |
