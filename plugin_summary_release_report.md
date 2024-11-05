@@ -46,7 +46,7 @@
 | homebridge-dreo | zyonse | 2024-11-03T00:27:34.881Z | 328 | true | Not ready |
 | homebridge-dune-hd | Carlos Gamez | 2024-06-12T02:42:41.948Z | 21 | true | Not ready |
 | homebridge-dyson-bp01 | Jeremy Noesen | 2024-04-25T22:25:55.617Z | 62 | true | Not ready |
-| homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2450 | true | Not ready |
+| homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2451 | true | Not ready |
 | homebridge-easee | John Valiquette | 2024-01-07T14:45:10.852Z | 42 | true | Not ready |
 | homebridge-ecoforest-thermostat | Cyber MrProper | 2023-12-14T20:01:36.556Z | 5 | true | Not ready |
 | homebridge-edomoticz | PatchworkBoy | 2024-03-29T15:06:52.298Z | 266 | true | Not ready |
