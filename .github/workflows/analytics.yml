@@ -49,39 +49,25 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
 
+
   copy_data:
     needs: collect_analytics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout GH-Pages
+      - name: Checkout source branch
         uses: actions/checkout@v4
         with:
-          ref: gh-pages
+          ref: ${{ github.ref }}
 
-      - name: Refresh branch with Source
+      - name: Copy homebridge_plugins.json to gh-pages branch
         run: |
-          git pull --all
-          git rebase origin/Source
-
-      - name: Copy data
-        run: cp homebridge_plugins.json ./docs/homebridge_plugins.json
-
-      - name: Set current date as env variable
-        run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
-
-      - name: Commit gh-pages branch
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add * || true
-          git commit -a -m "Data Updated ${{ env.NOW }}" || true
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages
-
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b gh-pages origin/gh-pages
+          cp homebridge_plugins.json docs/homebridge_plugins.json
+          git add docs/homebridge_plugins.json
+          git commit -m "Update homebridge_plugins.json"
+          git push origin gh-pages
 
   update_vue_application:
     needs: copy_data
