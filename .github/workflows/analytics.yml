@@ -50,6 +50,7 @@ jobs:
           branch: ${{ github.ref }}
 
   copy_data:
+    needs: collect_analytics
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source branch
@@ -67,6 +68,10 @@ jobs:
 
       - name: Checkout gh-pages branch
         run: git checkout gh-pages
+
+      - name: Merge latest from Source branch into gh-pages
+        run: |
+          git merge origin/Source --no-edit
 
       - name: Copy homebridge_plugins.json to docs directory
         run: cp homebridge_plugins.json docs/
