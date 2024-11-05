@@ -68,10 +68,10 @@
     "deprecated": false,
     "displayName": "Homebridge UniFi Protect",
     "owner": "HJD",
-    "downloads": 5011,
+    "downloads": 5013,
     "verified": true,
     "npmDownloads": 1035,
-    "githubDownloads": 3976,
+    "githubDownloads": 3978,
     "homebridge2ready": "Supported"
   },
   {
@@ -743,10 +743,10 @@
     "deprecated": false,
     "displayName": "Homebridge eWeLink",
     "owner": "bwp91",
-    "downloads": 2688,
+    "downloads": 2690,
     "verified": true,
     "npmDownloads": 264,
-    "githubDownloads": 2424,
+    "githubDownloads": 2426,
     "homebridge2ready": "Supported"
   },
   {
@@ -1272,10 +1272,10 @@
     "deprecated": false,
     "displayName": "Homebridge ZP",
     "owner": "Erik Baauw",
-    "downloads": 725,
+    "downloads": 726,
     "verified": true,
     "npmDownloads": 486,
-    "githubDownloads": 239,
+    "githubDownloads": 240,
     "homebridge2ready": "Supported"
   },
   {
@@ -3534,10 +3534,10 @@
     "deprecated": false,
     "displayName": "Homebridge deCONZ",
     "owner": "Erik Baauw",
-    "downloads": 690,
+    "downloads": 691,
     "verified": true,
     "npmDownloads": 459,
-    "githubDownloads": 231,
+    "githubDownloads": 232,
     "homebridge2ready": "Supported"
   },
   {
@@ -9143,10 +9143,10 @@
     "deprecated": false,
     "displayName": "Dyson",
     "owner": "lukas.roegner",
-    "downloads": 2450,
+    "downloads": 2451,
     "verified": true,
     "npmDownloads": 199,
-    "githubDownloads": 2251,
+    "githubDownloads": 2252,
     "homebridge2ready": "Not ready"
   },
   {
@@ -13716,10 +13716,10 @@
     "deprecated": false,
     "displayName": "homebridge-govee",
     "owner": "bwp91",
-    "downloads": 5278,
+    "downloads": 5279,
     "verified": true,
     "npmDownloads": 753,
-    "githubDownloads": 4525,
+    "githubDownloads": 4526,
     "homebridge2ready": "Supported"
   },
   {
@@ -14298,10 +14298,10 @@
     "deprecated": false,
     "displayName": "homebridge-nest",
     "owner": "chrisjshull, adrian.cable, bwp91",
-    "downloads": 2405,
+    "downloads": 2406,
     "verified": true,
     "npmDownloads": 167,
-    "githubDownloads": 2238,
+    "githubDownloads": 2239,
     "homebridge2ready": "Not ready"
   },
   {
@@ -25828,10 +25828,10 @@
     "deprecated": false,
     "displayName": "Homebridge Hue",
     "owner": "Erik Baauw",
-    "downloads": 3112,
+    "downloads": 3114,
     "verified": true,
     "npmDownloads": 655,
-    "githubDownloads": 2457,
+    "githubDownloads": 2459,
     "homebridge2ready": "Supported"
   },
   {
@@ -27755,30 +27755,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-keus-plugin-v2",
-    "description": "This is a Homebridge dynamic platform plugin which exposes remote light and garage door accessories through a remote API",
-    "version": "1.0.45",
-    "maintainers": [
-      "ashwik-keus"
-    ],
-    "engines": {
-      "node": ">=10.17.0",
-      "homebridge": ">0.4.53"
-    },
-    "created": "2022-08-30T12:27:06.644Z",
-    "lastUpdated": "2022-09-07T10:25:08.436Z",
-    "latestRelease": "2022-09-07T10:25:08.337Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "Homebridge Keus plugin",
-    "owner": "ashwik-keus",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-keus2-plugin",
     "description": "This is a Homebridge dynamic platform plugin which exposes remote light and garage door accessories through a remote API",
     "version": "1.0.2",
@@ -27796,6 +27772,30 @@
     "deprecated": false,
     "displayName": "Homebridge Keus plugin 2",
     "owner": "kushalreddy",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-keus-plugin-v2",
+    "description": "This is a Homebridge dynamic platform plugin which exposes remote light and garage door accessories through a remote API",
+    "version": "1.0.45",
+    "maintainers": [
+      "ashwik-keus"
+    ],
+    "engines": {
+      "node": ">=10.17.0",
+      "homebridge": ">0.4.53"
+    },
+    "created": "2022-08-30T12:27:06.644Z",
+    "lastUpdated": "2022-09-07T10:25:08.436Z",
+    "latestRelease": "2022-09-07T10:25:08.337Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "Homebridge Keus plugin",
+    "owner": "ashwik-keus",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -29123,10 +29123,10 @@
     "deprecated": false,
     "displayName": "homebridge-tado-platform",
     "owner": "SeydX",
-    "downloads": 328,
+    "downloads": 329,
     "verified": true,
     "npmDownloads": 38,
-    "githubDownloads": 290,
+    "githubDownloads": 291,
     "homebridge2ready": "Not ready"
   },
   {
@@ -30951,6 +30951,32 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "@homebridge-plugins/homebridge-govee",
+    "description": "Homebridge plugin to integrate Govee devices into HomeKit.",
+    "version": "10.12.1",
+    "maintainers": [
+      "northernman",
+      "bwp91",
+      "donavanbecker"
+    ],
+    "engines": {
+      "homebridge": "^1.6.0 || ^2.0.0-beta.0",
+      "node": "^18.20.4 || ^20.18.0 || ^22.9.0"
+    },
+    "created": "2024-10-21T06:17:49.686Z",
+    "lastUpdated": "2024-10-21T06:17:50.287Z",
+    "latestRelease": "2024-10-21T06:17:49.951Z",
+    "author": "bwp91",
+    "deprecated": false,
+    "displayName": "@homebridge-plugins/homebridge-govee",
+    "owner": "bwp91",
+    "downloads": 48,
+    "verified": true,
+    "npmDownloads": 48,
+    "githubDownloads": 0,
+    "homebridge2ready": "Supported"
+  },
+  {
     "name": "@homebridge-plugins/homebridge-ewelink",
     "description": "Homebridge plugin to integrate eWeLink devices into HomeKit.",
     "version": "12.3.3",
@@ -30999,32 +31025,6 @@
     "downloads": 14,
     "verified": true,
     "npmDownloads": 14,
-    "githubDownloads": 0,
-    "homebridge2ready": "Supported"
-  },
-  {
-    "name": "@homebridge-plugins/homebridge-govee",
-    "description": "Homebridge plugin to integrate Govee devices into HomeKit.",
-    "version": "10.12.1",
-    "maintainers": [
-      "northernman",
-      "bwp91",
-      "donavanbecker"
-    ],
-    "engines": {
-      "homebridge": "^1.6.0 || ^2.0.0-beta.0",
-      "node": "^18.20.4 || ^20.18.0 || ^22.9.0"
-    },
-    "created": "2024-10-21T06:17:49.686Z",
-    "lastUpdated": "2024-10-21T06:17:50.287Z",
-    "latestRelease": "2024-10-21T06:17:49.951Z",
-    "author": "bwp91",
-    "deprecated": false,
-    "displayName": "@homebridge-plugins/homebridge-govee",
-    "owner": "bwp91",
-    "downloads": 48,
-    "verified": true,
-    "npmDownloads": 48,
     "githubDownloads": 0,
     "homebridge2ready": "Supported"
   },
@@ -35774,30 +35774,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-divoom-wifi",
-    "description": "Simple way to interact with Pixoo 64 and other Divoom WiFi devices",
-    "version": "1.0.1",
-    "maintainers": [
-      "centers"
-    ],
-    "engines": {
-      "node": "^16.16.0",
-      "homebridge": "^1.6.0"
-    },
-    "created": "2023-08-08T05:31:10.096Z",
-    "lastUpdated": "2023-08-08T06:02:35.122Z",
-    "latestRelease": "2023-08-08T06:02:35.023Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "Divoom WiFi",
-    "owner": "centers",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-chromecast-rf",
     "description": "Exposes chromecasts to Homebridge.",
     "version": "1.1.0",
@@ -35818,6 +35794,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-divoom-wifi",
+    "description": "Simple way to interact with Pixoo 64 and other Divoom WiFi devices",
+    "version": "1.0.1",
+    "maintainers": [
+      "centers"
+    ],
+    "engines": {
+      "node": "^16.16.0",
+      "homebridge": "^1.6.0"
+    },
+    "created": "2023-08-08T05:31:10.096Z",
+    "lastUpdated": "2023-08-08T06:02:35.122Z",
+    "latestRelease": "2023-08-08T06:02:35.023Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "Divoom WiFi",
+    "owner": "centers",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -40825,10 +40825,10 @@
     "deprecated": false,
     "displayName": "Homebridge Camera FFmpeg",
     "owner": "northernman, bwp91, donavanbecker, sunookitsune",
-    "downloads": 3636,
+    "downloads": 3637,
     "verified": true,
     "npmDownloads": 1111,
-    "githubDownloads": 2525,
+    "githubDownloads": 2526,
     "homebridge2ready": "Not ready"
   },
   {
@@ -42560,30 +42560,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-platform-smartac",
-    "description": "SmartAC plugin for homebridge",
-    "version": "1.1.3",
-    "maintainers": [
-      "dave-atx"
-    ],
-    "engines": {
-      "node": ">=7.6.0",
-      "homebridge": ">=0.3.0"
-    },
-    "created": "2017-05-20T19:16:51.726Z",
-    "lastUpdated": "2022-06-18T21:17:50.294Z",
-    "latestRelease": "2019-04-11T15:18:47.303Z",
-    "author": "Dave Marquard",
-    "deprecated": false,
-    "displayName": "homebridge-platform-smartac",
-    "owner": "Dave Marquard",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-tuya-door-cloud",
     "description": "This plugin uses the Tuya Cloud API to fetch the state of door sensors",
     "version": "1.1.0",
@@ -42604,6 +42580,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-platform-smartac",
+    "description": "SmartAC plugin for homebridge",
+    "version": "1.1.3",
+    "maintainers": [
+      "dave-atx"
+    ],
+    "engines": {
+      "node": ">=7.6.0",
+      "homebridge": ">=0.3.0"
+    },
+    "created": "2017-05-20T19:16:51.726Z",
+    "lastUpdated": "2022-06-18T21:17:50.294Z",
+    "latestRelease": "2019-04-11T15:18:47.303Z",
+    "author": "Dave Marquard",
+    "deprecated": false,
+    "displayName": "homebridge-platform-smartac",
+    "owner": "Dave Marquard",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -42752,30 +42752,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-coolmaster-telnet",
-    "description": "CoolMaster Telnet Homebridge platform plugin",
-    "version": "1.1.0",
-    "maintainers": [
-      "thebeastxdxd"
-    ],
-    "engines": {
-      "node": ">=10.17.0",
-      "homebridge": ">=1.3.0"
-    },
-    "created": "2021-07-02T16:35:12.474Z",
-    "lastUpdated": "2022-05-05T02:52:12.807Z",
-    "latestRelease": "2021-07-02T21:20:21.270Z",
-    "author": "ido benamram",
-    "deprecated": false,
-    "displayName": "CoolMaster Telnet Plugin",
-    "owner": "ido benamram",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "@leoiii12/homebridge-mi-hygrothermograph",
     "description": "A short description about what your plugin does.",
     "version": "1.0.3",
@@ -42793,6 +42769,30 @@
     "deprecated": false,
     "displayName": "@leoiii12/homebridge-mi-hygrothermograph",
     "owner": "leoiii12",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-coolmaster-telnet",
+    "description": "CoolMaster Telnet Homebridge platform plugin",
+    "version": "1.1.0",
+    "maintainers": [
+      "thebeastxdxd"
+    ],
+    "engines": {
+      "node": ">=10.17.0",
+      "homebridge": ">=1.3.0"
+    },
+    "created": "2021-07-02T16:35:12.474Z",
+    "lastUpdated": "2022-05-05T02:52:12.807Z",
+    "latestRelease": "2021-07-02T21:20:21.270Z",
+    "author": "ido benamram",
+    "deprecated": false,
+    "displayName": "CoolMaster Telnet Plugin",
+    "owner": "ido benamram",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -42944,30 +42944,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-pi-thermostat",
-    "description": "Hombridge plugin for thermostat",
-    "version": "1.3.0",
-    "maintainers": [
-      "ankurpatel"
-    ],
-    "engines": {
-      "node": ">=6.12.2",
-      "homebridge": ">=0.4.33"
-    },
-    "created": "2017-12-22T16:29:30.799Z",
-    "lastUpdated": "2022-07-08T14:39:00.011Z",
-    "latestRelease": "2022-07-08T14:38:59.910Z",
-    "author": "Ankur Patel",
-    "deprecated": false,
-    "displayName": "homebridge-pi-thermostat",
-    "owner": "Ankur Patel",
-    "downloads": 3,
-    "verified": false,
-    "npmDownloads": 3,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-switch-on-motion-sensor",
     "description": "Turn on a switch to enable a motion sensor.",
     "version": "1.0.3",
@@ -42992,6 +42968,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-pi-thermostat",
+    "description": "Hombridge plugin for thermostat",
+    "version": "1.3.0",
+    "maintainers": [
+      "ankurpatel"
+    ],
+    "engines": {
+      "node": ">=6.12.2",
+      "homebridge": ">=0.4.33"
+    },
+    "created": "2017-12-22T16:29:30.799Z",
+    "lastUpdated": "2022-07-08T14:39:00.011Z",
+    "latestRelease": "2022-07-08T14:38:59.910Z",
+    "author": "Ankur Patel",
+    "deprecated": false,
+    "displayName": "homebridge-pi-thermostat",
+    "owner": "Ankur Patel",
+    "downloads": 3,
+    "verified": false,
+    "npmDownloads": 3,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-visonic-powerlink3",
     "description": "Visonic PowerLink3 plugin for Homebridge",
     "version": "1.3.7",
@@ -43010,30 +43010,6 @@
     "deprecated": false,
     "displayName": "homebridge-visonic-powerlink3",
     "owner": "Tom Kleijkers",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-pi-thermostat-update",
-    "description": "Homebridge plugin for controlling HVAC with a Raspberry Pi via GPIO pins and attached relays.",
-    "version": "1.3.3",
-    "maintainers": [
-      "kruze"
-    ],
-    "engines": {
-      "node": ">=12.13.0",
-      "homebridge": ">=1.3.0"
-    },
-    "created": "2021-09-06T03:42:31.479Z",
-    "lastUpdated": "2022-05-05T03:43:25.120Z",
-    "latestRelease": "2021-09-07T22:16:19.464Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-pi-thermostat-update",
-    "owner": "kruze",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -43065,23 +43041,23 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-pimoroni-enviro",
-    "description": "An unofficial homebridge to pimoroni enviro mqtt plugin",
-    "version": "1.5.0",
+    "name": "homebridge-pi-thermostat-update",
+    "description": "Homebridge plugin for controlling HVAC with a Raspberry Pi via GPIO pins and attached relays.",
+    "version": "1.3.3",
     "maintainers": [
-      "yeldog"
+      "kruze"
     ],
     "engines": {
-      "node": ">=14.18.1",
-      "homebridge": ">=1.3.5"
+      "node": ">=12.13.0",
+      "homebridge": ">=1.3.0"
     },
-    "created": "2022-08-20T22:36:53.342Z",
-    "lastUpdated": "2022-08-31T12:23:38.726Z",
-    "latestRelease": "2022-08-31T12:23:38.653Z",
+    "created": "2021-09-06T03:42:31.479Z",
+    "lastUpdated": "2022-05-05T03:43:25.120Z",
+    "latestRelease": "2021-09-07T22:16:19.464Z",
     "author": "Not supplied",
     "deprecated": false,
-    "displayName": "Pimoroni Enviro",
-    "owner": "yeldog",
+    "displayName": "homebridge-pi-thermostat-update",
+    "owner": "kruze",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -43112,6 +43088,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-pimoroni-enviro",
+    "description": "An unofficial homebridge to pimoroni enviro mqtt plugin",
+    "version": "1.5.0",
+    "maintainers": [
+      "yeldog"
+    ],
+    "engines": {
+      "node": ">=14.18.1",
+      "homebridge": ">=1.3.5"
+    },
+    "created": "2022-08-20T22:36:53.342Z",
+    "lastUpdated": "2022-08-31T12:23:38.726Z",
+    "latestRelease": "2022-08-31T12:23:38.653Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "Pimoroni Enviro",
+    "owner": "yeldog",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-pilight-platform",
     "description": "A Pilight Platform plugin for Homebridge.",
     "version": "1.0.4-alpha.1",
@@ -43129,6 +43129,30 @@
     "deprecated": false,
     "displayName": "Homebridge Pilight Platform",
     "owner": "palmtrae",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-sonoff-garage-onlyopener",
+    "description": "Homebridge plugin for Sonoff-4CH to open garage doors and gates with the Garage UI on the HomeKit App",
+    "version": "1.0.8",
+    "maintainers": [
+      "trcm"
+    ],
+    "engines": {
+      "node": ">=6.12.2",
+      "homebridge": ">=0.4.33"
+    },
+    "created": "2022-06-13T15:05:43.457Z",
+    "lastUpdated": "2022-07-20T15:32:34.220Z",
+    "latestRelease": "2022-07-20T15:32:34.166Z",
+    "author": "Alberto Paladino",
+    "deprecated": false,
+    "displayName": "homebridge-sonoff-garage-onlyopener",
+    "owner": "Alberto Paladino",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -43156,30 +43180,6 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-sonoff-garage-onlyopener",
-    "description": "Homebridge plugin for Sonoff-4CH to open garage doors and gates with the Garage UI on the HomeKit App",
-    "version": "1.0.8",
-    "maintainers": [
-      "trcm"
-    ],
-    "engines": {
-      "node": ">=6.12.2",
-      "homebridge": ">=0.4.33"
-    },
-    "created": "2022-06-13T15:05:43.457Z",
-    "lastUpdated": "2022-07-20T15:32:34.220Z",
-    "latestRelease": "2022-07-20T15:32:34.166Z",
-    "author": "Alberto Paladino",
-    "deprecated": false,
-    "displayName": "homebridge-sonoff-garage-onlyopener",
-    "owner": "Alberto Paladino",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -43400,30 +43400,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-nest-cameraswitch",
-    "description": "Nest plugin for homebridge with camera switches",
-    "version": "2.1.4",
-    "maintainers": [
-      "rchang05"
-    ],
-    "engines": {
-      "node": ">=7.0.0",
-      "homebridge": ">=0.2.5"
-    },
-    "created": "2019-05-16T19:35:02.336Z",
-    "lastUpdated": "2022-05-05T03:33:39.372Z",
-    "latestRelease": "2019-05-16T19:35:02.500Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-nest-cameraswitch",
-    "owner": "rchang05",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-infinitive",
     "description": "Homebridge plugin for the Infinitive HVAC control server",
     "version": "1.0.1",
@@ -43472,23 +43448,47 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-co2signal",
-    "description": "A short description about what your plugin does.",
-    "version": "1.0.0",
+    "name": "homebridge-nest-cameraswitch",
+    "description": "Nest plugin for homebridge with camera switches",
+    "version": "2.1.4",
     "maintainers": [
-      "quentinms"
+      "rchang05"
     ],
     "engines": {
-      "node": ">=14.18.1",
-      "homebridge": ">=1.3.5"
+      "node": ">=7.0.0",
+      "homebridge": ">=0.2.5"
     },
-    "created": "2022-09-20T12:33:52.565Z",
-    "lastUpdated": "2022-09-20T12:33:52.943Z",
-    "latestRelease": "2022-09-20T12:33:52.749Z",
+    "created": "2019-05-16T19:35:02.336Z",
+    "lastUpdated": "2022-05-05T03:33:39.372Z",
+    "latestRelease": "2019-05-16T19:35:02.500Z",
     "author": "Not supplied",
     "deprecated": false,
-    "displayName": "CO2Signal",
-    "owner": "quentinms",
+    "displayName": "homebridge-nest-cameraswitch",
+    "owner": "rchang05",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-iovalve",
+    "description": "Control a valve over a GPIO pin as a HomeKit valve accessory.",
+    "version": "2.0.5",
+    "maintainers": [
+      "ladvoc"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2021-03-14T05:05:44.684Z",
+    "lastUpdated": "2022-05-05T03:17:25.467Z",
+    "latestRelease": "2021-03-14T05:12:26.367Z",
+    "author": "Jacob Gelman",
+    "deprecated": false,
+    "displayName": "homebridge-iovalve",
+    "owner": "Jacob Gelman",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -43520,50 +43520,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-iovalve",
-    "description": "Control a valve over a GPIO pin as a HomeKit valve accessory.",
-    "version": "2.0.5",
-    "maintainers": [
-      "ladvoc"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2021-03-14T05:05:44.684Z",
-    "lastUpdated": "2022-05-05T03:17:25.467Z",
-    "latestRelease": "2021-03-14T05:12:26.367Z",
-    "author": "Jacob Gelman",
-    "deprecated": false,
-    "displayName": "homebridge-iovalve",
-    "owner": "Jacob Gelman",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-connector-bridge-plugin",
-    "description": "Homebridge Connector plugin to DD7002B",
+    "name": "homebridge-co2signal",
+    "description": "A short description about what your plugin does.",
     "version": "1.0.0",
     "maintainers": [
-      "dulyts"
+      "quentinms"
     ],
     "engines": {
       "node": ">=14.18.1",
       "homebridge": ">=1.3.5"
     },
-    "created": "2021-12-24T09:34:39.732Z",
-    "lastUpdated": "2022-05-05T02:51:36.780Z",
-    "latestRelease": "2021-12-24T09:34:40.143Z",
+    "created": "2022-09-20T12:33:52.565Z",
+    "lastUpdated": "2022-09-20T12:33:52.943Z",
+    "latestRelease": "2022-09-20T12:33:52.749Z",
     "author": "Not supplied",
     "deprecated": false,
-    "displayName": "Connector Bridge",
-    "owner": "dulyts",
-    "downloads": 0,
+    "displayName": "CO2Signal",
+    "owner": "quentinms",
+    "downloads": 1,
     "verified": false,
-    "npmDownloads": 0,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -43585,6 +43561,30 @@
     "deprecated": false,
     "displayName": "Hombridge Siro",
     "owner": "silviokennecke",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-connector-bridge-plugin",
+    "description": "Homebridge Connector plugin to DD7002B",
+    "version": "1.0.0",
+    "maintainers": [
+      "dulyts"
+    ],
+    "engines": {
+      "node": ">=14.18.1",
+      "homebridge": ">=1.3.5"
+    },
+    "created": "2021-12-24T09:34:39.732Z",
+    "lastUpdated": "2022-05-05T02:51:36.780Z",
+    "latestRelease": "2021-12-24T09:34:40.143Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "Connector Bridge",
+    "owner": "dulyts",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -43616,23 +43616,23 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-nest-bartdorsey",
-    "description": "Nest plugin for homebridge",
-    "version": "2.1.3",
+    "name": "homebridge-simple-sprinklers",
+    "description": "A controller for a simple sprinkler system with 6 zones.",
+    "version": "1.0.3",
     "maintainers": [
-      "bartdorsey"
+      "stefvonb"
     ],
     "engines": {
-      "node": ">=7.0.0",
-      "homebridge": ">=0.2.5"
+      "node": ">=14.18.1",
+      "homebridge": ">=1.3.5"
     },
-    "created": "2018-04-07T05:00:04.299Z",
-    "lastUpdated": "2022-05-05T03:33:28.877Z",
-    "latestRelease": "2018-04-07T05:00:04.407Z",
+    "created": "2022-09-01T17:26:19.176Z",
+    "lastUpdated": "2022-09-01T18:00:21.798Z",
+    "latestRelease": "2022-09-01T18:00:21.661Z",
     "author": "Not supplied",
     "deprecated": false,
-    "displayName": "homebridge-nest-bartdorsey",
-    "owner": "bartdorsey",
+    "displayName": "Simple Sprinklers",
+    "owner": "stefvonb",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -43664,23 +43664,23 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-simple-sprinklers",
-    "description": "A controller for a simple sprinkler system with 6 zones.",
-    "version": "1.0.3",
+    "name": "homebridge-nest-bartdorsey",
+    "description": "Nest plugin for homebridge",
+    "version": "2.1.3",
     "maintainers": [
-      "stefvonb"
+      "bartdorsey"
     ],
     "engines": {
-      "node": ">=14.18.1",
-      "homebridge": ">=1.3.5"
+      "node": ">=7.0.0",
+      "homebridge": ">=0.2.5"
     },
-    "created": "2022-09-01T17:26:19.176Z",
-    "lastUpdated": "2022-09-01T18:00:21.798Z",
-    "latestRelease": "2022-09-01T18:00:21.661Z",
+    "created": "2018-04-07T05:00:04.299Z",
+    "lastUpdated": "2022-05-05T03:33:28.877Z",
+    "latestRelease": "2018-04-07T05:00:04.407Z",
     "author": "Not supplied",
     "deprecated": false,
-    "displayName": "Simple Sprinklers",
-    "owner": "stefvonb",
+    "displayName": "homebridge-nest-bartdorsey",
+    "owner": "bartdorsey",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -43712,30 +43712,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-smartdry-v2",
-    "description": "SmartDry plug-in for homebridge",
-    "version": "2.0.2",
-    "maintainers": [
-      "zackwag"
-    ],
-    "engines": {
-      "node": ">=14.18.1",
-      "homebridge": ">=1.3.5"
-    },
-    "created": "2022-06-14T15:20:27.224Z",
-    "lastUpdated": "2022-06-14T15:20:27.575Z",
-    "latestRelease": "2022-06-14T15:20:27.435Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "Homebridge SmartDry v2",
-    "owner": "zackwag",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-zeuch",
     "description": "Test plugin by Matheus Zeuch.",
     "version": "1.0.1",
@@ -43753,6 +43729,30 @@
     "deprecated": false,
     "displayName": "Homebridge Plugin Zeuch",
     "owner": "matheuszeuch",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-smartdry-v2",
+    "description": "SmartDry plug-in for homebridge",
+    "version": "2.0.2",
+    "maintainers": [
+      "zackwag"
+    ],
+    "engines": {
+      "node": ">=14.18.1",
+      "homebridge": ">=1.3.5"
+    },
+    "created": "2022-06-14T15:20:27.224Z",
+    "lastUpdated": "2022-06-14T15:20:27.575Z",
+    "latestRelease": "2022-06-14T15:20:27.435Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "Homebridge SmartDry v2",
+    "owner": "zackwag",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -43783,23 +43783,22 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-coolmaster-putty",
-    "description": "CoolMaster Putty Homebridge platform plugin",
-    "version": "1.0.1",
+    "name": "homebridge-nature-remo-toggling-light",
+    "description": "Homebridge plugin for nature remo to control a toggling light",
+    "version": "1.0.12",
     "maintainers": [
-      "thebeastxdxd"
+      "aruneko"
     ],
     "engines": {
-      "node": ">=10.17.0",
-      "homebridge": ">=1.3.0"
+      "homebridge": ">=1.4.0"
     },
-    "created": "2021-07-02T16:32:18.743Z",
-    "lastUpdated": "2022-05-05T02:52:11.297Z",
-    "latestRelease": "2021-07-02T16:32:18.862Z",
-    "author": "ido benamram",
+    "created": "2022-04-25T06:04:52.783Z",
+    "lastUpdated": "2022-04-25T06:20:48.338Z",
+    "latestRelease": "2022-04-25T06:20:48.276Z",
+    "author": "Aruneko",
     "deprecated": false,
-    "displayName": "CoolMaster Putty Plugin",
-    "owner": "ido benamram",
+    "displayName": "homebridge-nature-remo-toggling-light",
+    "owner": "Aruneko",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -43831,22 +43830,23 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-nature-remo-toggling-light",
-    "description": "Homebridge plugin for nature remo to control a toggling light",
-    "version": "1.0.12",
+    "name": "homebridge-coolmaster-putty",
+    "description": "CoolMaster Putty Homebridge platform plugin",
+    "version": "1.0.1",
     "maintainers": [
-      "aruneko"
+      "thebeastxdxd"
     ],
     "engines": {
-      "homebridge": ">=1.4.0"
+      "node": ">=10.17.0",
+      "homebridge": ">=1.3.0"
     },
-    "created": "2022-04-25T06:04:52.783Z",
-    "lastUpdated": "2022-04-25T06:20:48.338Z",
-    "latestRelease": "2022-04-25T06:20:48.276Z",
-    "author": "Aruneko",
+    "created": "2021-07-02T16:32:18.743Z",
+    "lastUpdated": "2022-05-05T02:52:11.297Z",
+    "latestRelease": "2021-07-02T16:32:18.862Z",
+    "author": "ido benamram",
     "deprecated": false,
-    "displayName": "homebridge-nature-remo-toggling-light",
-    "owner": "Aruneko",
+    "displayName": "CoolMaster Putty Plugin",
+    "owner": "ido benamram",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -44430,30 +44430,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-connectedbytcp",
-    "description": "Connected by TCP plugin for homebridge: https://github.com/nfarina/homebridge",
-    "version": "1.0.3",
-    "maintainers": [
-      "chanomie"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-01-21T07:48:05.266Z",
-    "lastUpdated": "2022-06-18T21:09:44.181Z",
-    "latestRelease": "2017-02-15T06:43:04.163Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-connectedbytcp",
-    "owner": "chanomie",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-ssh-castellano",
     "description": "ejemplo de uso de homebridge ssh en castellano",
     "version": "1.1.2",
@@ -44474,6 +44450,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-connectedbytcp",
+    "description": "Connected by TCP plugin for homebridge: https://github.com/nfarina/homebridge",
+    "version": "1.0.3",
+    "maintainers": [
+      "chanomie"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-01-21T07:48:05.266Z",
+    "lastUpdated": "2022-06-18T21:09:44.181Z",
+    "latestRelease": "2017-02-15T06:43:04.163Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-connectedbytcp",
+    "owner": "chanomie",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -44644,6 +44644,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-switch_accessory",
+    "description": "MQTT Switch accessory plugin for HomeBridge with  On/Off Status",
+    "version": "1.0.3",
+    "maintainers": [
+      "patelgaurav4u"
+    ],
+    "engines": {
+      "node": ">4.0.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2018-08-13T10:01:59.892Z",
+    "lastUpdated": "2022-05-05T04:01:38.515Z",
+    "latestRelease": "2018-08-28T10:16:50.756Z",
+    "author": "Gaurav Patel",
+    "deprecated": false,
+    "displayName": "homebridge-switch_accessory",
+    "owner": "Gaurav Patel",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-sky-plus-hd",
     "description": "Sky Plus HD Plugin for homebridge: https://github.com/shauncampbell/homebridge-sky-plus-hd",
     "version": "1.0.2",
@@ -44684,30 +44708,6 @@
     "deprecated": false,
     "displayName": "homebridge-sts-luchtvochtigheidssensor",
     "owner": "Dirk-Jan de Beijer",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-switch_accessory",
-    "description": "MQTT Switch accessory plugin for HomeBridge with  On/Off Status",
-    "version": "1.0.3",
-    "maintainers": [
-      "patelgaurav4u"
-    ],
-    "engines": {
-      "node": ">4.0.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2018-08-13T10:01:59.892Z",
-    "lastUpdated": "2022-05-05T04:01:38.515Z",
-    "latestRelease": "2018-08-28T10:16:50.756Z",
-    "author": "Gaurav Patel",
-    "deprecated": false,
-    "displayName": "homebridge-switch_accessory",
-    "owner": "Gaurav Patel",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -44786,29 +44786,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-cisco-collaboration-devices",
-    "description": "A device bridge for Apple's Homekit framework (via Homebridge.io) supporting Cisco Collaboration devices.",
-    "version": "1.0.25",
-    "maintainers": [
-      "csprocket777"
-    ],
-    "engines": {
-      "homebridge": ">=1.0.0"
-    },
-    "created": "2022-05-03T21:38:12.819Z",
-    "lastUpdated": "2022-10-10T19:46:17.585Z",
-    "latestRelease": "2022-10-10T19:46:17.513Z",
-    "author": "Chuck Shipman",
-    "deprecated": false,
-    "displayName": "homebridge-cisco-collaboration-devices",
-    "owner": "Chuck Shipman",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-platform-deconz",
     "description": "DeCONZ REST API Platform plugin for the Homebridge project.",
     "version": "1.1.0",
@@ -44826,6 +44803,29 @@
     "deprecated": false,
     "displayName": "homebridge-platform-deconz",
     "owner": "Clemens Gutweiler",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-cisco-collaboration-devices",
+    "description": "A device bridge for Apple's Homekit framework (via Homebridge.io) supporting Cisco Collaboration devices.",
+    "version": "1.0.25",
+    "maintainers": [
+      "csprocket777"
+    ],
+    "engines": {
+      "homebridge": ">=1.0.0"
+    },
+    "created": "2022-05-03T21:38:12.819Z",
+    "lastUpdated": "2022-10-10T19:46:17.585Z",
+    "latestRelease": "2022-10-10T19:46:17.513Z",
+    "author": "Chuck Shipman",
+    "deprecated": false,
+    "displayName": "homebridge-cisco-collaboration-devices",
+    "owner": "Chuck Shipman",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -44881,6 +44881,29 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-xiaomioutlet-miio",
+    "description": "Homebridge plugin for Xiaomi Mi Smart Plug",
+    "version": "1.0.1",
+    "maintainers": [
+      "tr1ckyf0x"
+    ],
+    "engines": {
+      "homebridge": ">=1.0.0"
+    },
+    "created": "2022-01-09T20:54:23.786Z",
+    "lastUpdated": "2022-05-05T04:16:28.670Z",
+    "latestRelease": "2022-01-10T08:45:21.184Z",
+    "author": "Vladislav Lisyanskiy",
+    "deprecated": false,
+    "displayName": "homebridge-xiaomioutlet-miio",
+    "owner": "Vladislav Lisyanskiy",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge--log",
     "description": "Adds locale timestamp to console output of homebridge.",
     "version": "1.0.0",
@@ -44901,29 +44924,6 @@
     "downloads": 2,
     "verified": false,
     "npmDownloads": 2,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-xiaomioutlet-miio",
-    "description": "Homebridge plugin for Xiaomi Mi Smart Plug",
-    "version": "1.0.1",
-    "maintainers": [
-      "tr1ckyf0x"
-    ],
-    "engines": {
-      "homebridge": ">=1.0.0"
-    },
-    "created": "2022-01-09T20:54:23.786Z",
-    "lastUpdated": "2022-05-05T04:16:28.670Z",
-    "latestRelease": "2022-01-10T08:45:21.184Z",
-    "author": "Vladislav Lisyanskiy",
-    "deprecated": false,
-    "displayName": "homebridge-xiaomioutlet-miio",
-    "owner": "Vladislav Lisyanskiy",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -45865,30 +45865,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-redmond-robot",
-    "description": "Homebridge Plugin for Redmond Robot Vacuum",
-    "version": "1.1.9",
-    "maintainers": [
-      "xlinur"
-    ],
-    "engines": {
-      "node": ">=10.17.0",
-      "homebridge": ">=1.3.0"
-    },
-    "created": "2021-07-27T19:10:37.315Z",
-    "lastUpdated": "2022-05-05T03:49:05.144Z",
-    "latestRelease": "2021-08-29T15:36:48.999Z",
-    "author": "Pavel Liaukovich",
-    "deprecated": false,
-    "displayName": "Homebridge Redmond Robot",
-    "owner": "Pavel Liaukovich",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-motion-sensor-plus",
     "description": "Homebridge plugin for a motion sensor connected to GPIO",
     "version": "1.0.2",
@@ -45909,6 +45885,30 @@
     "downloads": 3,
     "verified": false,
     "npmDownloads": 3,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-redmond-robot",
+    "description": "Homebridge Plugin for Redmond Robot Vacuum",
+    "version": "1.1.9",
+    "maintainers": [
+      "xlinur"
+    ],
+    "engines": {
+      "node": ">=10.17.0",
+      "homebridge": ">=1.3.0"
+    },
+    "created": "2021-07-27T19:10:37.315Z",
+    "lastUpdated": "2022-05-05T03:49:05.144Z",
+    "latestRelease": "2021-08-29T15:36:48.999Z",
+    "author": "Pavel Liaukovich",
+    "deprecated": false,
+    "displayName": "Homebridge Redmond Robot",
+    "owner": "Pavel Liaukovich",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -45984,6 +45984,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-triones-led-strip",
+    "description": "Homebridge plugin for the triones LED strip.",
+    "version": "1.0.7",
+    "maintainers": [
+      "uhteddy"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2021-10-18T02:23:03.027Z",
+    "lastUpdated": "2022-05-05T04:07:29.776Z",
+    "latestRelease": "2021-10-19T01:23:45.418Z",
+    "author": "Luca Becker & Teddy H.",
+    "deprecated": false,
+    "displayName": "homebridge-triones-led-strip",
+    "owner": "Luca Becker & Teddy H.",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-fibaro",
     "description": "Homebridge plugin for Fibaro Home Center",
     "version": "1.3.1",
@@ -46028,30 +46052,6 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-triones-led-strip",
-    "description": "Homebridge plugin for the triones LED strip.",
-    "version": "1.0.7",
-    "maintainers": [
-      "uhteddy"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2021-10-18T02:23:03.027Z",
-    "lastUpdated": "2022-05-05T04:07:29.776Z",
-    "latestRelease": "2021-10-19T01:23:45.418Z",
-    "author": "Luca Becker & Teddy H.",
-    "deprecated": false,
-    "displayName": "homebridge-triones-led-strip",
-    "owner": "Luca Becker & Teddy H.",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -46416,30 +46416,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-audio-zone",
-    "description": "Homebridge plugin for generic HTTP-available audio zone controller",
-    "version": "1.0.1",
-    "maintainers": [
-      "djmax"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-09-14T01:34:39.745Z",
-    "lastUpdated": "2022-06-18T21:08:31.396Z",
-    "latestRelease": "2016-09-14T01:38:19.714Z",
-    "author": "Max Metral",
-    "deprecated": false,
-    "displayName": "homebridge-audio-zone",
-    "owner": "Max Metral",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-magic-triones",
     "description": "Homebridge plugin for the Triones LED Lightbulbs",
     "version": "1.0.1",
@@ -46457,6 +46433,30 @@
     "deprecated": false,
     "displayName": "homebridge-magic-triones",
     "owner": "v0r73x",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-audio-zone",
+    "description": "Homebridge plugin for generic HTTP-available audio zone controller",
+    "version": "1.0.1",
+    "maintainers": [
+      "djmax"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-09-14T01:34:39.745Z",
+    "lastUpdated": "2022-06-18T21:08:31.396Z",
+    "latestRelease": "2016-09-14T01:38:19.714Z",
+    "author": "Max Metral",
+    "deprecated": false,
+    "displayName": "homebridge-audio-zone",
+    "owner": "Max Metral",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -47591,30 +47591,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-panasonic-aircon",
-    "description": "Panasonic Air Conditioner / Heat Pump plugin for [HomeBridge](https://github.com/nfarina/homebridge) using the Panasonic *Comfort Cloud* API to expose Panasonic Air Conditioners to Apples HomeKit.",
-    "version": "1.0.10",
-    "maintainers": [
-      "stevenmarq"
-    ],
-    "engines": {
-      "node": "^12.16.1",
-      "homebridge": "^0.4.52"
-    },
-    "created": "2020-03-04T13:54:18.405Z",
-    "lastUpdated": "2022-05-05T03:40:57.996Z",
-    "latestRelease": "2020-03-04T14:48:03.470Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-panasonic-aircon",
-    "owner": "stevenmarq",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-sonoff-tasmota-http-h801",
     "description": "Control H801 RGB with Tasmota firmware through Homebridge",
     "version": "1.1.3",
@@ -47639,26 +47615,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-xiaomi-humidifier",
-    "description": "Xiaomi Humidifier plugin for HomeBridge",
-    "version": "1.0.2",
+    "name": "homebridge-panasonic-aircon",
+    "description": "Panasonic Air Conditioner / Heat Pump plugin for [HomeBridge](https://github.com/nfarina/homebridge) using the Panasonic *Comfort Cloud* API to expose Panasonic Air Conditioners to Apples HomeKit.",
+    "version": "1.0.10",
     "maintainers": [
-      "accua"
+      "stevenmarq"
     ],
     "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.4.1"
+      "node": "^12.16.1",
+      "homebridge": "^0.4.52"
     },
-    "created": "2017-11-22T01:14:21.134Z",
-    "lastUpdated": "2022-06-18T21:22:05.415Z",
-    "latestRelease": "2018-01-03T17:46:01.235Z",
-    "author": "acc-ua",
+    "created": "2020-03-04T13:54:18.405Z",
+    "lastUpdated": "2022-05-05T03:40:57.996Z",
+    "latestRelease": "2020-03-04T14:48:03.470Z",
+    "author": "Not supplied",
     "deprecated": false,
-    "displayName": "homebridge-xiaomi-humidifier",
-    "owner": "acc-ua",
-    "downloads": 1,
+    "displayName": "homebridge-panasonic-aircon",
+    "owner": "stevenmarq",
+    "downloads": 2,
     "verified": false,
-    "npmDownloads": 1,
+    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -47679,6 +47655,30 @@
     "deprecated": false,
     "displayName": "homebridge-xiaomi-plug-m3",
     "owner": "Caldis",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-xiaomi-humidifier",
+    "description": "Xiaomi Humidifier plugin for HomeBridge",
+    "version": "1.0.2",
+    "maintainers": [
+      "accua"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.4.1"
+    },
+    "created": "2017-11-22T01:14:21.134Z",
+    "lastUpdated": "2022-06-18T21:22:05.415Z",
+    "latestRelease": "2018-01-03T17:46:01.235Z",
+    "author": "acc-ua",
+    "deprecated": false,
+    "displayName": "homebridge-xiaomi-humidifier",
+    "owner": "acc-ua",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -47758,6 +47758,31 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-xiaomi-air-purifier",
+    "description": "Xiaomi Mi air purifier plugin for Homebridge. Fork from https://github.com/seikan/homebridge-mi-air-purifier",
+    "version": "1.4.1",
+    "maintainers": [
+      "bazingaterry"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0",
+      "miio": ">=0.14.1"
+    },
+    "created": "2017-08-19T16:33:16.258Z",
+    "lastUpdated": "2022-05-05T04:15:29.746Z",
+    "latestRelease": "2018-05-09T18:53:26.898Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-xiaomi-air-purifier",
+    "owner": "bazingaterry",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-neopixel",
     "description": "Homebridge plugin to control a NeoPixel Strip.",
     "version": "3.3.2",
@@ -47799,31 +47824,6 @@
     "deprecated": false,
     "displayName": "homebridge-nexa-switch-platform",
     "owner": "Daniel Giljam",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-xiaomi-air-purifier",
-    "description": "Xiaomi Mi air purifier plugin for Homebridge. Fork from https://github.com/seikan/homebridge-mi-air-purifier",
-    "version": "1.4.1",
-    "maintainers": [
-      "bazingaterry"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0",
-      "miio": ">=0.14.1"
-    },
-    "created": "2017-08-19T16:33:16.258Z",
-    "lastUpdated": "2022-05-05T04:15:29.746Z",
-    "latestRelease": "2018-05-09T18:53:26.898Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-xiaomi-air-purifier",
-    "owner": "bazingaterry",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -54042,30 +54042,6 @@
     "homebridge2ready": "Supported"
   },
   {
-    "name": "homebridge-kdk-airy",
-    "description": "KDK Airy Homebridge Plugin",
-    "version": "1.1.0",
-    "maintainers": [
-      "eric_vader"
-    ],
-    "engines": {
-      "node": "^20.9.0",
-      "homebridge": "^1.7.0"
-    },
-    "created": "2024-10-27T13:52:33.538Z",
-    "lastUpdated": "2024-10-27T13:52:34.060Z",
-    "latestRelease": "2024-10-27T13:52:33.804Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "KDK Airy Homebridge",
-    "owner": "eric_vader",
-    "downloads": 7,
-    "verified": false,
-    "npmDownloads": 7,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-seam-lock",
     "description": "Unlock lock with Seam API.",
     "version": "1.0.5",
@@ -54088,6 +54064,30 @@
     "npmDownloads": 124,
     "githubDownloads": 0,
     "homebridge2ready": "Supported"
+  },
+  {
+    "name": "homebridge-kdk-airy",
+    "description": "KDK Airy Homebridge Plugin",
+    "version": "1.1.0",
+    "maintainers": [
+      "eric_vader"
+    ],
+    "engines": {
+      "node": "^20.9.0",
+      "homebridge": "^1.7.0"
+    },
+    "created": "2024-10-27T13:52:33.538Z",
+    "lastUpdated": "2024-10-27T13:52:34.060Z",
+    "latestRelease": "2024-10-27T13:52:33.804Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "KDK Airy Homebridge",
+    "owner": "eric_vader",
+    "downloads": 7,
+    "verified": false,
+    "npmDownloads": 7,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
   },
   {
     "name": "homebridge-motorized-shade",
@@ -54902,30 +54902,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-timer",
-    "description": "A way of adding timers into homebridge if built-in functionality doesn't exist",
-    "version": "1.0.4",
-    "maintainers": [
-      "jchristman"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2017-04-16T19:18:53.379Z",
-    "lastUpdated": "2022-06-18T21:20:47.402Z",
-    "latestRelease": "2017-04-18T20:10:16.338Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-timer",
-    "owner": "jchristman",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-blinds-servo",
     "description": "Homebridge plugin to control blinds via a servo attached to a Raspberry Pi",
     "version": "1.1.3",
@@ -54943,6 +54919,30 @@
     "deprecated": false,
     "displayName": "homebridge-blinds-servo",
     "owner": "jak1502",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-timer",
+    "description": "A way of adding timers into homebridge if built-in functionality doesn't exist",
+    "version": "1.0.4",
+    "maintainers": [
+      "jchristman"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2017-04-16T19:18:53.379Z",
+    "lastUpdated": "2022-06-18T21:20:47.402Z",
+    "latestRelease": "2017-04-18T20:10:16.338Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-timer",
+    "owner": "jchristman",
     "downloads": 2,
     "verified": false,
     "npmDownloads": 2,
@@ -55116,30 +55116,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-http-mhz",
-    "description": "A very simple Homebridge plugin for controlling a MHZ transmitter over HTTP.",
-    "version": "1.0.6",
-    "maintainers": [
-      "jefflanters"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2017-09-04T18:30:28.673Z",
-    "lastUpdated": "2022-06-18T21:12:35.205Z",
-    "latestRelease": "2017-09-14T08:39:48.157Z",
-    "author": "Jeffrey Lanters",
-    "deprecated": false,
-    "displayName": "homebridge-http-mhz",
-    "owner": "Jeffrey Lanters",
-    "downloads": 3,
-    "verified": false,
-    "npmDownloads": 3,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-loxone-connect-pieter",
     "description": "Homebridge plugin for controlling Loxone.",
     "version": "1.1.7",
@@ -55160,6 +55136,30 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-http-mhz",
+    "description": "A very simple Homebridge plugin for controlling a MHZ transmitter over HTTP.",
+    "version": "1.0.6",
+    "maintainers": [
+      "jefflanters"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2017-09-04T18:30:28.673Z",
+    "lastUpdated": "2022-06-18T21:12:35.205Z",
+    "latestRelease": "2017-09-14T08:39:48.157Z",
+    "author": "Jeffrey Lanters",
+    "deprecated": false,
+    "displayName": "homebridge-http-mhz",
+    "owner": "Jeffrey Lanters",
+    "downloads": 3,
+    "verified": false,
+    "npmDownloads": 3,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -55235,30 +55235,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-wakeonlan",
-    "description": "Wake on LAN plugin for homebridge: https://github.com/nfarina/homebridge",
-    "version": "1.0.0",
-    "maintainers": [
-      "microadam"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-01-05T19:40:47.809Z",
-    "lastUpdated": "2022-06-18T21:21:30.394Z",
-    "latestRelease": "2016-01-05T19:40:47.809Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-wakeonlan",
-    "owner": "microadam",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-dotti",
     "description": "WITTI Dotti plugin for homebridge: https://github.com/nfarina/homebridge",
     "version": "1.0.4",
@@ -55279,6 +55255,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-wakeonlan",
+    "description": "Wake on LAN plugin for homebridge: https://github.com/nfarina/homebridge",
+    "version": "1.0.0",
+    "maintainers": [
+      "microadam"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-01-05T19:40:47.809Z",
+    "lastUpdated": "2022-06-18T21:21:30.394Z",
+    "latestRelease": "2016-01-05T19:40:47.809Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-wakeonlan",
+    "owner": "microadam",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -55448,30 +55448,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-radiothermostat",
-    "description": "radiothermostat plugin for homebridge: https://github.com/nfarina/homebridge",
-    "version": "1.0.4",
-    "maintainers": [
-      "corecoding"
-    ],
-    "engines": {
-      "homebridge": ">=0.2.0",
-      "node": ">=0.12.0"
-    },
-    "created": "2017-01-10T06:36:23.505Z",
-    "lastUpdated": "2022-06-18T21:18:16.344Z",
-    "latestRelease": "2017-08-29T13:57:56.847Z",
-    "author": "Chris Monahan",
-    "deprecated": false,
-    "displayName": "homebridge-radiothermostat",
-    "owner": "Chris Monahan",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-dwelo-thermostat-plugin",
     "description": "Bridge Dwelo smarthome to HomeKit with HomeBridge",
     "version": "1.0.2",
@@ -55496,26 +55472,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-anova",
-    "description": "anova cooker plugin for homebridge: https://github.com/nfarina/homebridge",
-    "version": "1.0.2",
+    "name": "homebridge-radiothermostat",
+    "description": "radiothermostat plugin for homebridge: https://github.com/nfarina/homebridge",
+    "version": "1.0.4",
     "maintainers": [
-      "tasict"
+      "corecoding"
     ],
     "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.4.0"
+      "homebridge": ">=0.2.0",
+      "node": ">=0.12.0"
     },
-    "created": "2017-06-15T06:10:49.829Z",
-    "lastUpdated": "2022-06-18T21:08:15.391Z",
-    "latestRelease": "2017-06-19T01:47:59.681Z",
-    "author": "tasict",
+    "created": "2017-01-10T06:36:23.505Z",
+    "lastUpdated": "2022-06-18T21:18:16.344Z",
+    "latestRelease": "2017-08-29T13:57:56.847Z",
+    "author": "Chris Monahan",
     "deprecated": false,
-    "displayName": "homebridge-anova",
-    "owner": "tasict",
-    "downloads": 3,
+    "displayName": "homebridge-radiothermostat",
+    "owner": "Chris Monahan",
+    "downloads": 0,
     "verified": false,
-    "npmDownloads": 3,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -55540,6 +55516,30 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-anova",
+    "description": "anova cooker plugin for homebridge: https://github.com/nfarina/homebridge",
+    "version": "1.0.2",
+    "maintainers": [
+      "tasict"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.4.0"
+    },
+    "created": "2017-06-15T06:10:49.829Z",
+    "lastUpdated": "2022-06-18T21:08:15.391Z",
+    "latestRelease": "2017-06-19T01:47:59.681Z",
+    "author": "tasict",
+    "deprecated": false,
+    "displayName": "homebridge-anova",
+    "owner": "tasict",
+    "downloads": 3,
+    "verified": false,
+    "npmDownloads": 3,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -55996,30 +55996,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-loxone-ws-adv-working-blinds",
-    "description": "Websocket based Loxone plugin for homebridge advanced version (https://github.com/nfarina/homebridge)",
-    "version": "1.0.20",
-    "maintainers": [
-      "freakern"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2020-12-29T15:51:42.735Z",
-    "lastUpdated": "2022-05-05T03:23:03.510Z",
-    "latestRelease": "2020-12-29T18:06:07.061Z",
-    "author": "Dave M.",
-    "deprecated": false,
-    "displayName": "homebridge-loxone-ws-adv-working-blinds",
-    "owner": "Dave M.",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-MotionSensor",
     "description": "http/https motion sensor plugin for homebridge",
     "version": "3.0.0",
@@ -56040,6 +56016,30 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-loxone-ws-adv-working-blinds",
+    "description": "Websocket based Loxone plugin for homebridge advanced version (https://github.com/nfarina/homebridge)",
+    "version": "1.0.20",
+    "maintainers": [
+      "freakern"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2020-12-29T15:51:42.735Z",
+    "lastUpdated": "2022-05-05T03:23:03.510Z",
+    "latestRelease": "2020-12-29T18:06:07.061Z",
+    "author": "Dave M.",
+    "deprecated": false,
+    "displayName": "homebridge-loxone-ws-adv-working-blinds",
+    "owner": "Dave M.",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -56092,30 +56092,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-fhc",
-    "description": "Homebridge plugin for FHC (Future Home Controller): https://rti-giken.jp",
-    "version": "1.4.1",
-    "maintainers": [
-      "rti7743"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.3.0"
-    },
-    "created": "2016-08-18T15:49:39.827Z",
-    "lastUpdated": "2022-06-18T21:10:59.187Z",
-    "latestRelease": "2016-08-18T17:09:22.755Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-fhc",
-    "owner": "rti7743",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-dimmer-accessory",
     "description": "MQTT Light accessory plugin for HomeBridge with Brightness and On/Off Status",
     "version": "1.0.1",
@@ -56136,6 +56112,30 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-fhc",
+    "description": "Homebridge plugin for FHC (Future Home Controller): https://rti-giken.jp",
+    "version": "1.4.1",
+    "maintainers": [
+      "rti7743"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.3.0"
+    },
+    "created": "2016-08-18T15:49:39.827Z",
+    "lastUpdated": "2022-06-18T21:10:59.187Z",
+    "latestRelease": "2016-08-18T17:09:22.755Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-fhc",
+    "owner": "rti7743",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -56211,30 +56211,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-httpmultisensor",
-    "description": "homebridge plugin for http temperture and humidity sensors",
-    "version": "1.0.0",
-    "maintainers": [
-      "weesee"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2017-01-07T23:54:12.019Z",
-    "lastUpdated": "2022-06-18T21:13:02.199Z",
-    "latestRelease": "2017-01-07T23:54:12.019Z",
-    "author": "WeeSee",
-    "deprecated": false,
-    "displayName": "homebridge-httpmultisensor",
-    "owner": "WeeSee",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-bgh-smart-solidmation",
     "description": "Solidmation AC Smart Control plugin for homebridge",
     "version": "2.0.0",
@@ -56259,26 +56235,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-noolite-http-blinds",
-    "description": "A homebridge plugin to control noolite blinds",
+    "name": "homebridge-httpmultisensor",
+    "description": "homebridge plugin for http temperture and humidity sensors",
     "version": "1.0.0",
     "maintainers": [
-      "mazaxaka"
+      "weesee"
     ],
     "engines": {
-      "homebridge": ">=0.2.0",
-      "node": ">4.0.0"
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
     },
-    "created": "2016-10-09T13:46:36.730Z",
-    "lastUpdated": "2022-06-18T21:16:41.273Z",
-    "latestRelease": "2016-10-09T13:46:36.730Z",
-    "author": "Evgeniy Tverdyy & Ruslan Ragimov",
+    "created": "2017-01-07T23:54:12.019Z",
+    "lastUpdated": "2022-06-18T21:13:02.199Z",
+    "latestRelease": "2017-01-07T23:54:12.019Z",
+    "author": "WeeSee",
     "deprecated": false,
-    "displayName": "homebridge-noolite-http-blinds",
-    "owner": "Evgeniy Tverdyy & Ruslan Ragimov",
-    "downloads": 0,
+    "displayName": "homebridge-httpmultisensor",
+    "owner": "WeeSee",
+    "downloads": 1,
     "verified": false,
-    "npmDownloads": 0,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -56307,6 +56283,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-noolite-http-blinds",
+    "description": "A homebridge plugin to control noolite blinds",
+    "version": "1.0.0",
+    "maintainers": [
+      "mazaxaka"
+    ],
+    "engines": {
+      "homebridge": ">=0.2.0",
+      "node": ">4.0.0"
+    },
+    "created": "2016-10-09T13:46:36.730Z",
+    "lastUpdated": "2022-06-18T21:16:41.273Z",
+    "latestRelease": "2016-10-09T13:46:36.730Z",
+    "author": "Evgeniy Tverdyy & Ruslan Ragimov",
+    "deprecated": false,
+    "displayName": "homebridge-noolite-http-blinds",
+    "owner": "Evgeniy Tverdyy & Ruslan Ragimov",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-monoprice-amp",
     "description": "Copyright © 2021 Richard Pack. All rights reserved.",
     "version": "1.0.10",
@@ -56323,30 +56323,6 @@
     "deprecated": false,
     "displayName": "Monoprice Multizone Amplifier",
     "owner": "Richard Pack",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-loxone-temperature",
-    "description": "Homebridge temperature plugin for Loxone",
-    "version": "1.0.0",
-    "maintainers": [
-      "nightfreak"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-10-06T17:55:25.102Z",
-    "lastUpdated": "2022-06-18T21:14:37.233Z",
-    "latestRelease": "2016-10-06T17:55:25.102Z",
-    "author": "nightfreak",
-    "deprecated": false,
-    "displayName": "homebridge-loxone-temperature",
-    "owner": "nightfreak",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -56371,6 +56347,30 @@
     "deprecated": false,
     "displayName": "homebridge-dash",
     "owner": "Stephen Radford",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-loxone-temperature",
+    "description": "Homebridge temperature plugin for Loxone",
+    "version": "1.0.0",
+    "maintainers": [
+      "nightfreak"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-10-06T17:55:25.102Z",
+    "lastUpdated": "2022-06-18T21:14:37.233Z",
+    "latestRelease": "2016-10-06T17:55:25.102Z",
+    "author": "nightfreak",
+    "deprecated": false,
+    "displayName": "homebridge-loxone-temperature",
+    "owner": "nightfreak",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -56642,29 +56642,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "dahua-alarm",
-    "description": "Homebridge plugin for Dahua/Lorex camera alarm support",
-    "version": "1.2.5",
-    "maintainers": [
-      "jbrowne44"
-    ],
-    "engines": {
-      "homebridge": ">=1.0.0"
-    },
-    "created": "2024-10-20T13:10:09.766Z",
-    "lastUpdated": "2024-10-20T13:10:10.327Z",
-    "latestRelease": "2024-10-20T13:10:10.022Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "dahua-alarm",
-    "owner": "jbrowne44",
-    "downloads": 4,
-    "verified": false,
-    "npmDownloads": 4,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-russound-aio",
     "description": "Russound AIO plugin for homebridge: https://github.com/nfarina/homebridge",
     "version": "1.0.0",
@@ -56687,6 +56664,29 @@
     "npmDownloads": 65,
     "githubDownloads": 0,
     "homebridge2ready": "Supported"
+  },
+  {
+    "name": "dahua-alarm",
+    "description": "Homebridge plugin for Dahua/Lorex camera alarm support",
+    "version": "1.2.5",
+    "maintainers": [
+      "jbrowne44"
+    ],
+    "engines": {
+      "homebridge": ">=1.0.0"
+    },
+    "created": "2024-10-20T13:10:09.766Z",
+    "lastUpdated": "2024-10-20T13:10:10.327Z",
+    "latestRelease": "2024-10-20T13:10:10.022Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "dahua-alarm",
+    "owner": "jbrowne44",
+    "downloads": 4,
+    "verified": false,
+    "npmDownloads": 4,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
   },
   {
     "name": "homebridge-rfbridge",
@@ -59136,30 +59136,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "@gatoxmiau/homebridge-ledstrip-ble-rgbw",
-    "description": "This plugin let you control RGB ledstrips using this kind of [12V BLE RGB LED strip controller](https://www.aliexpress.com/item/4000208329326.html) module.",
-    "version": "1.0.11",
-    "maintainers": [
-      "gatoxmiau"
-    ],
-    "engines": {
-      "node": ">=12.13.0",
-      "homebridge": ">=1.3.0"
-    },
-    "created": "2022-05-26T18:03:52.487Z",
-    "lastUpdated": "2022-05-28T20:37:52.244Z",
-    "latestRelease": "2022-05-28T20:37:52.184Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "Homebridge Ledstrip BLE",
-    "owner": "gatoxmiau",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-denon-avr",
     "description": "Homebridge plugin for controlling Denon AVRs via RS232.",
     "version": "1.2.9",
@@ -59180,6 +59156,30 @@
     "downloads": 3,
     "verified": false,
     "npmDownloads": 3,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "@gatoxmiau/homebridge-ledstrip-ble-rgbw",
+    "description": "This plugin let you control RGB ledstrips using this kind of [12V BLE RGB LED strip controller](https://www.aliexpress.com/item/4000208329326.html) module.",
+    "version": "1.0.11",
+    "maintainers": [
+      "gatoxmiau"
+    ],
+    "engines": {
+      "node": ">=12.13.0",
+      "homebridge": ">=1.3.0"
+    },
+    "created": "2022-05-26T18:03:52.487Z",
+    "lastUpdated": "2022-05-28T20:37:52.244Z",
+    "latestRelease": "2022-05-28T20:37:52.184Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "Homebridge Ledstrip BLE",
+    "owner": "gatoxmiau",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -59541,30 +59541,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-toon",
-    "description": "Homebridge Extension for Toon Thermostats",
-    "version": "2.0.5",
-    "maintainers": [
-      "coffeelemon"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-04-01T19:38:44.010Z",
-    "lastUpdated": "2022-06-18T21:20:50.392Z",
-    "latestRelease": "2020-02-22T13:16:56.658Z",
-    "author": "Jochem Lugtenburg",
-    "deprecated": false,
-    "displayName": "homebridge-toon",
-    "owner": "Jochem Lugtenburg",
-    "downloads": 3,
-    "verified": false,
-    "npmDownloads": 3,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-advanced-dht-sensor",
     "description": "This is a HomeBridge plugin. Allows HomeKit to use your own Temperature + Humidity Sensor under HTTP protocol.",
     "version": "1.0.9",
@@ -59585,6 +59561,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-toon",
+    "description": "Homebridge Extension for Toon Thermostats",
+    "version": "2.0.5",
+    "maintainers": [
+      "coffeelemon"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-04-01T19:38:44.010Z",
+    "lastUpdated": "2022-06-18T21:20:50.392Z",
+    "latestRelease": "2020-02-22T13:16:56.658Z",
+    "author": "Jochem Lugtenburg",
+    "deprecated": false,
+    "displayName": "homebridge-toon",
+    "owner": "Jochem Lugtenburg",
+    "downloads": 3,
+    "verified": false,
+    "npmDownloads": 3,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -59804,30 +59804,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-htu21d-sensor",
-    "description": "This is an Homebridge accessory plugin for HTU21D temperature and humidity sensor connected via i2c.",
-    "version": "1.0.8",
-    "maintainers": [
-      "fungland"
-    ],
-    "engines": {
-      "node": ">=9.5.0",
-      "homebridge": ">=0.4.0"
-    },
-    "created": "2020-03-06T19:32:47.695Z",
-    "lastUpdated": "2022-05-05T03:14:07.419Z",
-    "latestRelease": "2020-03-07T07:28:25.596Z",
-    "author": "fungland",
-    "deprecated": false,
-    "displayName": "homebridge-htu21d-sensor",
-    "owner": "fungland",
-    "downloads": 7,
-    "verified": false,
-    "npmDownloads": 7,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-anelPowerControl",
     "description": "Anel powercontrl plugin for homebridge",
     "version": "1.2.0",
@@ -59848,6 +59824,30 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-htu21d-sensor",
+    "description": "This is an Homebridge accessory plugin for HTU21D temperature and humidity sensor connected via i2c.",
+    "version": "1.0.8",
+    "maintainers": [
+      "fungland"
+    ],
+    "engines": {
+      "node": ">=9.5.0",
+      "homebridge": ">=0.4.0"
+    },
+    "created": "2020-03-06T19:32:47.695Z",
+    "lastUpdated": "2022-05-05T03:14:07.419Z",
+    "latestRelease": "2020-03-07T07:28:25.596Z",
+    "author": "fungland",
+    "deprecated": false,
+    "displayName": "homebridge-htu21d-sensor",
+    "owner": "fungland",
+    "downloads": 7,
+    "verified": false,
+    "npmDownloads": 7,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -67031,30 +67031,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-mi-ir-remote-electrolux",
-    "description": "ChuangMi Remote plugin for homebridge: https://github.com/nfarina/homebridge",
-    "version": "0.0.5",
-    "maintainers": [
-      "westcoast5550"
-    ],
-    "engines": {
-      "node": ">=7.6.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2018-04-25T12:30:42.573Z",
-    "lastUpdated": "2022-05-05T03:26:22.154Z",
-    "latestRelease": "2018-04-25T12:30:42.721Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-mi-ir-remote-electrolux",
-    "owner": "westcoast5550",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "@jturpin/jturpin-homebridge-jeedom",
     "description": "Fork of Jeedom plugin for Homebridge",
     "version": "0.1.1",
@@ -67072,6 +67048,30 @@
     "deprecated": false,
     "displayName": "@jturpin/jturpin-homebridge-jeedom",
     "owner": "Jonathan Turpin",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-mi-ir-remote-electrolux",
+    "description": "ChuangMi Remote plugin for homebridge: https://github.com/nfarina/homebridge",
+    "version": "0.0.5",
+    "maintainers": [
+      "westcoast5550"
+    ],
+    "engines": {
+      "node": ">=7.6.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2018-04-25T12:30:42.573Z",
+    "lastUpdated": "2022-05-05T03:26:22.154Z",
+    "latestRelease": "2018-04-25T12:30:42.721Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-mi-ir-remote-electrolux",
+    "owner": "westcoast5550",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -68251,30 +68251,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-xiaomi-yeelight",
-    "description": "Control Xiaomi branded Yeelight in HomeBridge",
-    "version": "1.1.5",
-    "maintainers": [
-      "viestursr"
-    ],
-    "engines": {
-      "node": ">=14.18.1",
-      "homebridge": ">=1.3.5"
-    },
-    "created": "2022-01-26T07:10:31.742Z",
-    "lastUpdated": "2022-05-05T04:16:25.833Z",
-    "latestRelease": "2022-02-22T17:43:24.257Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "Xiaomi Yeelight Support",
-    "owner": "viestursr",
-    "downloads": 5,
-    "verified": false,
-    "npmDownloads": 5,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-somfy-protect",
     "description": "Allows somfy protect alarm to be exposed to homekit via myfox api.",
     "version": "1.1.2",
@@ -68295,6 +68271,30 @@
     "downloads": 15,
     "verified": false,
     "npmDownloads": 15,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-xiaomi-yeelight",
+    "description": "Control Xiaomi branded Yeelight in HomeBridge",
+    "version": "1.1.5",
+    "maintainers": [
+      "viestursr"
+    ],
+    "engines": {
+      "node": ">=14.18.1",
+      "homebridge": ">=1.3.5"
+    },
+    "created": "2022-01-26T07:10:31.742Z",
+    "lastUpdated": "2022-05-05T04:16:25.833Z",
+    "latestRelease": "2022-02-22T17:43:24.257Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "Xiaomi Yeelight Support",
+    "owner": "viestursr",
+    "downloads": 5,
+    "verified": false,
+    "npmDownloads": 5,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -68702,30 +68702,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-camera-sensr",
-    "description": "A homebridge plugin to access your IP cameras available in your Sensr.net account.: https://github.com/nfarina/homebridge",
-    "version": "0.0.1",
-    "maintainers": [
-      "brandonmartinez"
-    ],
-    "engines": {
-      "node": ">=5.0.0",
-      "homebridge": ">=0.4.5"
-    },
-    "created": "2017-02-21T04:05:40.568Z",
-    "lastUpdated": "2022-06-18T21:09:20.398Z",
-    "latestRelease": "2017-02-21T04:05:40.568Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-camera-sensr",
-    "owner": "brandonmartinez",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-plugin-dimplex-connex",
     "description": "A short description about what your plugin does.",
     "version": "1.0.0",
@@ -68743,6 +68719,30 @@
     "deprecated": false,
     "displayName": "Homebridge Plugin Dimplex Connex",
     "owner": "shawnjung",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-camera-sensr",
+    "description": "A homebridge plugin to access your IP cameras available in your Sensr.net account.: https://github.com/nfarina/homebridge",
+    "version": "0.0.1",
+    "maintainers": [
+      "brandonmartinez"
+    ],
+    "engines": {
+      "node": ">=5.0.0",
+      "homebridge": ">=0.4.5"
+    },
+    "created": "2017-02-21T04:05:40.568Z",
+    "lastUpdated": "2022-06-18T21:09:20.398Z",
+    "latestRelease": "2017-02-21T04:05:40.568Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-camera-sensr",
+    "owner": "brandonmartinez",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -69138,30 +69138,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-eedomus-thermostat",
-    "description": "Homebridge plugin for a web-based thermostat",
-    "version": "1.4.0",
-    "maintainers": [
-      "lpaso"
-    ],
-    "engines": {
-      "homebridge": ">=0.4.50",
-      "node": ">=12.13.0"
-    },
-    "created": "2020-05-06T14:47:11.807Z",
-    "lastUpdated": "2022-05-05T02:58:09.191Z",
-    "latestRelease": "2021-03-17T13:37:01.236Z",
-    "author": "lpaso",
-    "deprecated": false,
-    "displayName": "homebridge-eedomus-thermostat",
-    "owner": "lpaso",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-web-shower",
     "description": "Homebridge plugin for a web-based shower",
     "version": "1.0.8",
@@ -69182,6 +69158,30 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-eedomus-thermostat",
+    "description": "Homebridge plugin for a web-based thermostat",
+    "version": "1.4.0",
+    "maintainers": [
+      "lpaso"
+    ],
+    "engines": {
+      "homebridge": ">=0.4.50",
+      "node": ">=12.13.0"
+    },
+    "created": "2020-05-06T14:47:11.807Z",
+    "lastUpdated": "2022-05-05T02:58:09.191Z",
+    "latestRelease": "2021-03-17T13:37:01.236Z",
+    "author": "lpaso",
+    "deprecated": false,
+    "displayName": "homebridge-eedomus-thermostat",
+    "owner": "lpaso",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -70072,30 +70072,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-casambi",
-    "description": "Control Casambi devices using the Cloud API.",
-    "version": "0.3.4",
-    "maintainers": [
-      "awahlig"
-    ],
-    "engines": {
-      "node": ">=10.17.0",
-      "homebridge": ">0.4.53"
-    },
-    "created": "2020-06-22T13:43:30.278Z",
-    "lastUpdated": "2022-05-05T02:49:09.837Z",
-    "latestRelease": "2022-01-24T18:34:41.729Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "Homebridge Casambi",
-    "owner": "awahlig",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-plugin-eufy-security",
     "description": "Eufy Security homebridge plugin for video doorbell.",
     "version": "0.1.8",
@@ -70116,6 +70092,30 @@
     "downloads": 3,
     "verified": false,
     "npmDownloads": 3,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-casambi",
+    "description": "Control Casambi devices using the Cloud API.",
+    "version": "0.3.4",
+    "maintainers": [
+      "awahlig"
+    ],
+    "engines": {
+      "node": ">=10.17.0",
+      "homebridge": ">0.4.53"
+    },
+    "created": "2020-06-22T13:43:30.278Z",
+    "lastUpdated": "2022-05-05T02:49:09.837Z",
+    "latestRelease": "2022-01-24T18:34:41.729Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "Homebridge Casambi",
+    "owner": "awahlig",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -70933,30 +70933,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-circadian-hue",
-    "description": "This plugin interacts with a Hue Hub instance and slowly synchronizes your color changing lights with the regular naturally occurring color temperature of the sky throughout the day. This gives your environment a more natural feel, with cooler hues during",
-    "version": "0.9.1",
-    "maintainers": [
-      "sidaf"
-    ],
-    "engines": {
-      "node": ">=14.18.1",
-      "homebridge": ">=1.3.5"
-    },
-    "created": "2021-12-28T14:53:27.506Z",
-    "lastUpdated": "2022-05-05T02:49:57.841Z",
-    "latestRelease": "2021-12-28T15:03:35.611Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "Homebridge Circadian Hue",
-    "owner": "sidaf",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-new-widetech-internet-dehumidifier",
     "description": "Connects your New Widetech Internet Dehumidifier into HomeKit via HomeBridge",
     "version": "0.0.2",
@@ -70974,6 +70950,30 @@
     "deprecated": false,
     "displayName": "HomeBridge Plugin New Widetech Internet Dehumidifier",
     "owner": "sr2k",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-circadian-hue",
+    "description": "This plugin interacts with a Hue Hub instance and slowly synchronizes your color changing lights with the regular naturally occurring color temperature of the sky throughout the day. This gives your environment a more natural feel, with cooler hues during",
+    "version": "0.9.1",
+    "maintainers": [
+      "sidaf"
+    ],
+    "engines": {
+      "node": ">=14.18.1",
+      "homebridge": ">=1.3.5"
+    },
+    "created": "2021-12-28T14:53:27.506Z",
+    "lastUpdated": "2022-05-05T02:49:57.841Z",
+    "latestRelease": "2021-12-28T15:03:35.611Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "Homebridge Circadian Hue",
+    "owner": "sidaf",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -77943,30 +77943,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-camera-rpi",
-    "description": "raspberry pi camera plugin for homebridge",
-    "version": "0.0.6",
-    "maintainers": [
-      "mhmk"
-    ],
-    "engines": {
-      "node": ">=5.0.0",
-      "homebridge": ">=0.4.5"
-    },
-    "created": "2017-09-07T23:48:18.930Z",
-    "lastUpdated": "2022-06-18T21:09:19.400Z",
-    "latestRelease": "2020-06-04T15:40:00.564Z",
-    "author": "Moritz K.",
-    "deprecated": false,
-    "displayName": "homebridge-camera-rpi",
-    "owner": "Moritz K.",
-    "downloads": 8,
-    "verified": false,
-    "npmDownloads": 8,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-philipstv-enhanced-bq2",
     "description": "Homebridge module for the Philips TV (with JointSpace enabled) and ready for 2018 models",
     "version": "0.0.17",
@@ -77987,6 +77963,30 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-camera-rpi",
+    "description": "raspberry pi camera plugin for homebridge",
+    "version": "0.0.6",
+    "maintainers": [
+      "mhmk"
+    ],
+    "engines": {
+      "node": ">=5.0.0",
+      "homebridge": ">=0.4.5"
+    },
+    "created": "2017-09-07T23:48:18.930Z",
+    "lastUpdated": "2022-06-18T21:09:19.400Z",
+    "latestRelease": "2020-06-04T15:40:00.564Z",
+    "author": "Moritz K.",
+    "deprecated": false,
+    "displayName": "homebridge-camera-rpi",
+    "owner": "Moritz K.",
+    "downloads": 8,
+    "verified": false,
+    "npmDownloads": 8,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -78991,30 +78991,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-philips-hue-sync-box-switches",
-    "description": "Homebridge plugin for the Philips Hue Sync Box. Adapted to be Switch accessories.",
-    "version": "0.8.2",
-    "maintainers": [
-      "t4cc0re"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2022-01-14T17:59:12.254Z",
-    "lastUpdated": "2022-05-05T03:42:24.975Z",
-    "latestRelease": "2022-01-23T20:00:51.998Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-philips-hue-sync-box-switches",
-    "owner": "t4cc0re",
-    "downloads": 3,
-    "verified": false,
-    "npmDownloads": 3,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-sengled",
     "description": "A unoffical Homebridge plugin for controlling sengled accessories.",
     "version": "0.0.4",
@@ -79035,6 +79011,30 @@
     "downloads": 2,
     "verified": false,
     "npmDownloads": 2,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-philips-hue-sync-box-switches",
+    "description": "Homebridge plugin for the Philips Hue Sync Box. Adapted to be Switch accessories.",
+    "version": "0.8.2",
+    "maintainers": [
+      "t4cc0re"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2022-01-14T17:59:12.254Z",
+    "lastUpdated": "2022-05-05T03:42:24.975Z",
+    "latestRelease": "2022-01-23T20:00:51.998Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-philips-hue-sync-box-switches",
+    "owner": "t4cc0re",
+    "downloads": 3,
+    "verified": false,
+    "npmDownloads": 3,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -79086,29 +79086,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-chromecast-luminai",
-    "description": "A homebridge plugin to Control Chromecast Devices",
-    "version": "0.5.9",
-    "maintainers": [
-      "luminai"
-    ],
-    "engines": {
-      "homebridge": ">=0.2.5"
-    },
-    "created": "2019-02-26T16:49:54.120Z",
-    "lastUpdated": "2022-05-05T02:49:45.846Z",
-    "latestRelease": "2019-02-26T19:27:27.717Z",
-    "author": "Alex Arena",
-    "deprecated": false,
-    "displayName": "homebridge-chromecast-luminai",
-    "owner": "Alex Arena",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-nature-remo-local",
     "description": "Homebridge plugin for Nature Remo using local APIs.",
     "version": "0.0.4",
@@ -79128,6 +79105,29 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-chromecast-luminai",
+    "description": "A homebridge plugin to Control Chromecast Devices",
+    "version": "0.5.9",
+    "maintainers": [
+      "luminai"
+    ],
+    "engines": {
+      "homebridge": ">=0.2.5"
+    },
+    "created": "2019-02-26T16:49:54.120Z",
+    "lastUpdated": "2022-05-05T02:49:45.846Z",
+    "latestRelease": "2019-02-26T19:27:27.717Z",
+    "author": "Alex Arena",
+    "deprecated": false,
+    "displayName": "homebridge-chromecast-luminai",
+    "owner": "Alex Arena",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -79396,26 +79396,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-iobroker",
-    "description": "Iobroker plugin for homebridge",
-    "version": "0.0.1",
+    "name": "homebridge-unifi-mac-block",
+    "description": "i originally named this repo cause my kids will sometimes act like anal crevises which would force me to block their playstations in my unifi controller.  The progressed to my wife calling me to do this during the day.  Well no more i have exposed the mac",
+    "version": "0.0.3",
     "maintainers": [
-      "haba1234"
+      "hotlollycakes"
     ],
     "engines": {
-      "homebridge": ">=0.2.5",
-      "node": ">=0.12.0"
+      "node": ">=0.12.0",
+      "homebridge": ">=0.4.48"
     },
-    "created": "2018-07-09T13:36:32.661Z",
-    "lastUpdated": "2022-05-05T03:17:14.959Z",
-    "latestRelease": "2018-07-09T13:36:32.775Z",
-    "author": "Not supplied",
+    "created": "2019-07-13T00:54:56.832Z",
+    "lastUpdated": "2022-05-05T04:09:22.299Z",
+    "latestRelease": "2019-11-09T02:04:03.681Z",
+    "author": "ashley stovall",
     "deprecated": false,
-    "displayName": "homebridge-iobroker",
-    "owner": "haba1234",
-    "downloads": 2,
+    "displayName": "homebridge-unifi-mac-block",
+    "owner": "ashley stovall",
+    "downloads": 1,
     "verified": false,
-    "npmDownloads": 2,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -79444,26 +79444,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-unifi-mac-block",
-    "description": "i originally named this repo cause my kids will sometimes act like anal crevises which would force me to block their playstations in my unifi controller.  The progressed to my wife calling me to do this during the day.  Well no more i have exposed the mac",
-    "version": "0.0.3",
+    "name": "homebridge-iobroker",
+    "description": "Iobroker plugin for homebridge",
+    "version": "0.0.1",
     "maintainers": [
-      "hotlollycakes"
+      "haba1234"
     ],
     "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.4.48"
+      "homebridge": ">=0.2.5",
+      "node": ">=0.12.0"
     },
-    "created": "2019-07-13T00:54:56.832Z",
-    "lastUpdated": "2022-05-05T04:09:22.299Z",
-    "latestRelease": "2019-11-09T02:04:03.681Z",
-    "author": "ashley stovall",
+    "created": "2018-07-09T13:36:32.661Z",
+    "lastUpdated": "2022-05-05T03:17:14.959Z",
+    "latestRelease": "2018-07-09T13:36:32.775Z",
+    "author": "Not supplied",
     "deprecated": false,
-    "displayName": "homebridge-unifi-mac-block",
-    "owner": "ashley stovall",
-    "downloads": 1,
+    "displayName": "homebridge-iobroker",
+    "owner": "haba1234",
+    "downloads": 2,
     "verified": false,
-    "npmDownloads": 1,
+    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -79488,6 +79488,30 @@
     "downloads": 2,
     "verified": false,
     "npmDownloads": 2,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-sensehat",
+    "description": "homebridge plugin for Sense Hat equipped Raspberry PI",
+    "version": "0.1.0",
+    "maintainers": [
+      "sjroberts"
+    ],
+    "engines": {
+      "node": ">=6.0.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2017-02-20T10:11:50.496Z",
+    "lastUpdated": "2022-06-18T21:19:07.351Z",
+    "latestRelease": "2017-02-20T14:35:13.805Z",
+    "author": "srob",
+    "deprecated": false,
+    "displayName": "homebridge-sensehat",
+    "owner": "srob",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -79536,30 +79560,6 @@
     "downloads": 4,
     "verified": false,
     "npmDownloads": 4,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-sensehat",
-    "description": "homebridge plugin for Sense Hat equipped Raspberry PI",
-    "version": "0.1.0",
-    "maintainers": [
-      "sjroberts"
-    ],
-    "engines": {
-      "node": ">=6.0.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2017-02-20T10:11:50.496Z",
-    "lastUpdated": "2022-06-18T21:19:07.351Z",
-    "latestRelease": "2017-02-20T14:35:13.805Z",
-    "author": "srob",
-    "deprecated": false,
-    "displayName": "homebridge-sensehat",
-    "owner": "srob",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -79685,30 +79685,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-simplisafe-security-system-3",
-    "description": "Control your SimpliSafe 3 alarm system from your iOS device using HomeKit and Homebridge.",
-    "version": "0.1.5",
-    "maintainers": [
-      "muhlman"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2019-04-08T16:12:43.403Z",
-    "lastUpdated": "2022-05-05T03:55:51.886Z",
-    "latestRelease": "2019-04-08T16:15:21.432Z",
-    "author": "Federico Holgado",
-    "deprecated": false,
-    "displayName": "homebridge-simplisafe-security-system-3",
-    "owner": "Federico Holgado",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-zway-lopify",
     "description": "homebridge-plugin for ZWay Server. Updated to support Heating Thermostats on iOS 13.",
     "version": "0.6.0-alpha1",
@@ -79733,26 +79709,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-unitec",
-    "description": "Unitec plugin for homebridge to control RF outlets.",
-    "version": "0.0.4",
+    "name": "homebridge-simplisafe-security-system-3",
+    "description": "Control your SimpliSafe 3 alarm system from your iOS device using HomeKit and Homebridge.",
+    "version": "0.1.5",
     "maintainers": [
-      "piets"
+      "muhlman"
     ],
     "engines": {
-      "node": ">=4.3.2",
-      "homebridge": ">=0.4.29"
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
     },
-    "created": "2017-11-21T16:35:15.289Z",
-    "lastUpdated": "2022-05-05T04:09:40.307Z",
-    "latestRelease": "2018-09-04T12:40:25.291Z",
-    "author": "@Piets",
+    "created": "2019-04-08T16:12:43.403Z",
+    "lastUpdated": "2022-05-05T03:55:51.886Z",
+    "latestRelease": "2019-04-08T16:15:21.432Z",
+    "author": "Federico Holgado",
     "deprecated": false,
-    "displayName": "homebridge-unitec",
-    "owner": "@Piets",
-    "downloads": 1,
+    "displayName": "homebridge-simplisafe-security-system-3",
+    "owner": "Federico Holgado",
+    "downloads": 0,
     "verified": false,
-    "npmDownloads": 1,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -79777,6 +79753,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-unitec",
+    "description": "Unitec plugin for homebridge to control RF outlets.",
+    "version": "0.0.4",
+    "maintainers": [
+      "piets"
+    ],
+    "engines": {
+      "node": ">=4.3.2",
+      "homebridge": ">=0.4.29"
+    },
+    "created": "2017-11-21T16:35:15.289Z",
+    "lastUpdated": "2022-05-05T04:09:40.307Z",
+    "latestRelease": "2018-09-04T12:40:25.291Z",
+    "author": "@Piets",
+    "deprecated": false,
+    "displayName": "homebridge-unitec",
+    "owner": "@Piets",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -79901,6 +79901,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-sonytvon",
+    "description": "Turn on sony tv plugin for Homebridge: https://github.com/nfarina/homebridge",
+    "version": "0.1.2",
+    "maintainers": [
+      "tnepal"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-01-30T15:14:35.082Z",
+    "lastUpdated": "2022-06-18T21:19:43.359Z",
+    "latestRelease": "2016-02-18T22:57:16.667Z",
+    "author": "Tek Nepal",
+    "deprecated": false,
+    "displayName": "homebridge-sonytvon",
+    "owner": "Tek Nepal",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-sonoff-basic-espeasy-quickfix",
     "description": "Sonoff basic plugin for Homebridge.",
     "version": "0.0.1",
@@ -79919,30 +79943,6 @@
     "deprecated": false,
     "displayName": "homebridge-sonoff-basic-espeasy-quickfix",
     "owner": "lethegrin",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-sonytvon",
-    "description": "Turn on sony tv plugin for Homebridge: https://github.com/nfarina/homebridge",
-    "version": "0.1.2",
-    "maintainers": [
-      "tnepal"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-01-30T15:14:35.082Z",
-    "lastUpdated": "2022-06-18T21:19:43.359Z",
-    "latestRelease": "2016-02-18T22:57:16.667Z",
-    "author": "Tek Nepal",
-    "deprecated": false,
-    "displayName": "homebridge-sonytvon",
-    "owner": "Tek Nepal",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -79974,30 +79974,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-itead",
-    "description": "Homebridge iTEAD",
-    "version": "0.0.2",
-    "maintainers": [
-      "martinpham"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2020-02-15T18:47:22.193Z",
-    "lastUpdated": "2022-05-05T03:18:00.065Z",
-    "latestRelease": "2020-02-16T10:15:01.955Z",
-    "author": "MartinPham",
-    "deprecated": false,
-    "displayName": "homebridge-itead",
-    "owner": "MartinPham",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-script2-denko",
     "description": "script plugin for homebridge: https://github.com/denkomanceski/homebridge",
     "version": "0.2.8",
@@ -80018,6 +79994,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-itead",
+    "description": "Homebridge iTEAD",
+    "version": "0.0.2",
+    "maintainers": [
+      "martinpham"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2020-02-15T18:47:22.193Z",
+    "lastUpdated": "2022-05-05T03:18:00.065Z",
+    "latestRelease": "2020-02-16T10:15:01.955Z",
+    "author": "MartinPham",
+    "deprecated": false,
+    "displayName": "homebridge-itead",
+    "owner": "MartinPham",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -80094,30 +80094,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-cron-switch",
-    "description": "A homebridge plugin that exposes to HomeKit a switch that turns on using a CRON job schedule.",
-    "version": "0.0.1",
-    "maintainers": [
-      "kurtwarwick"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2020-07-01T11:59:44.773Z",
-    "lastUpdated": "2022-05-05T02:52:29.297Z",
-    "latestRelease": "2020-07-01T11:59:44.966Z",
-    "author": "Kurt Warwick",
-    "deprecated": false,
-    "displayName": "homebridge-cron-switch",
-    "owner": "Kurt Warwick",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-ippower",
     "description": "Homebridge platform plugin for the IP Power 9258 4 Outlet Controller",
     "version": "0.1.0",
@@ -80162,6 +80138,30 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-cron-switch",
+    "description": "A homebridge plugin that exposes to HomeKit a switch that turns on using a CRON job schedule.",
+    "version": "0.0.1",
+    "maintainers": [
+      "kurtwarwick"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2020-07-01T11:59:44.773Z",
+    "lastUpdated": "2022-05-05T02:52:29.297Z",
+    "latestRelease": "2020-07-01T11:59:44.966Z",
+    "author": "Kurt Warwick",
+    "deprecated": false,
+    "displayName": "homebridge-cron-switch",
+    "owner": "Kurt Warwick",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -80238,26 +80238,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-cec",
-    "description": "libcec for homebridge: https://github.com/nfarina/homebridge",
+    "name": "homebridge-sunset-lamp-ble",
+    "description": "Homebridge accessory for BLE Sunset Lamp (iStrip+ app)",
     "version": "0.0.1",
     "maintainers": [
-      "royarents"
+      "rubyroobs"
     ],
     "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
+      "node": ">=8.6.0",
+      "homebridge": ">=0.4.6"
     },
-    "created": "2016-02-13T15:25:06.862Z",
-    "lastUpdated": "2022-06-18T21:09:24.401Z",
-    "latestRelease": "2016-02-13T15:25:06.862Z",
-    "author": "Not supplied",
+    "created": "2021-11-06T07:47:11.972Z",
+    "lastUpdated": "2022-05-05T04:01:18.987Z",
+    "latestRelease": "2021-11-06T07:47:12.139Z",
+    "author": "Ruby Nealon",
     "deprecated": false,
-    "displayName": "homebridge-cec",
-    "owner": "royarents",
-    "downloads": 0,
+    "displayName": "homebridge-sunset-lamp-ble",
+    "owner": "Ruby Nealon",
+    "downloads": 1,
     "verified": false,
-    "npmDownloads": 0,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -80286,26 +80286,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-sunset-lamp-ble",
-    "description": "Homebridge accessory for BLE Sunset Lamp (iStrip+ app)",
+    "name": "homebridge-cec",
+    "description": "libcec for homebridge: https://github.com/nfarina/homebridge",
     "version": "0.0.1",
     "maintainers": [
-      "rubyroobs"
+      "royarents"
     ],
     "engines": {
-      "node": ">=8.6.0",
-      "homebridge": ">=0.4.6"
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
     },
-    "created": "2021-11-06T07:47:11.972Z",
-    "lastUpdated": "2022-05-05T04:01:18.987Z",
-    "latestRelease": "2021-11-06T07:47:12.139Z",
-    "author": "Ruby Nealon",
+    "created": "2016-02-13T15:25:06.862Z",
+    "lastUpdated": "2022-06-18T21:09:24.401Z",
+    "latestRelease": "2016-02-13T15:25:06.862Z",
+    "author": "Not supplied",
     "deprecated": false,
-    "displayName": "homebridge-sunset-lamp-ble",
-    "owner": "Ruby Nealon",
-    "downloads": 1,
+    "displayName": "homebridge-cec",
+    "owner": "royarents",
+    "downloads": 0,
     "verified": false,
-    "npmDownloads": 1,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -80405,30 +80405,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-camorobot-custom-icon",
-    "description": "Dummy switches for Homebridge: https://github.com/camorobot/homebridge-fake-switch",
-    "version": "0.0.1",
-    "maintainers": [
-      "camorobot"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2020-10-21T21:08:20.598Z",
-    "lastUpdated": "2022-05-05T02:49:02.300Z",
-    "latestRelease": "2020-10-21T21:08:20.700Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-camorobot-custom-icon",
-    "owner": "camorobot",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-philipstv-denko",
     "description": "Homebridge module for the Philips TV (with JointSpace enabled) and ready for 2018 models",
     "version": "0.1.2",
@@ -80477,26 +80453,50 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-intertechno-switch",
-    "description": "Homebridge switch for Intertechno devices",
+    "name": "homebridge-camorobot-custom-icon",
+    "description": "Dummy switches for Homebridge: https://github.com/camorobot/homebridge-fake-switch",
     "version": "0.0.1",
     "maintainers": [
-      "danmih"
+      "camorobot"
     ],
     "engines": {
       "node": ">=0.12.0",
       "homebridge": ">=0.2.0"
     },
-    "created": "2018-12-24T07:14:13.550Z",
-    "lastUpdated": "2022-05-05T03:17:02.951Z",
-    "latestRelease": "2018-12-24T07:14:13.689Z",
+    "created": "2020-10-21T21:08:20.598Z",
+    "lastUpdated": "2022-05-05T02:49:02.300Z",
+    "latestRelease": "2020-10-21T21:08:20.700Z",
     "author": "Not supplied",
     "deprecated": false,
-    "displayName": "homebridge-intertechno-switch",
-    "owner": "danmih",
-    "downloads": 1,
+    "displayName": "homebridge-camorobot-custom-icon",
+    "owner": "camorobot",
+    "downloads": 0,
     "verified": false,
-    "npmDownloads": 1,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-zfunk",
+    "description": "homebridge-plugin for zfunk",
+    "version": "0.2.0",
+    "maintainers": [
+      "100hz"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.5"
+    },
+    "created": "2016-07-17T00:43:38.934Z",
+    "lastUpdated": "2022-06-18T21:22:15.395Z",
+    "latestRelease": "2016-07-30T13:36:00.465Z",
+    "author": "Sebastian Krüger",
+    "deprecated": false,
+    "displayName": "homebridge-zfunk",
+    "owner": "Sebastian Krüger",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -80525,26 +80525,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-zfunk",
-    "description": "homebridge-plugin for zfunk",
-    "version": "0.2.0",
+    "name": "homebridge-intertechno-switch",
+    "description": "Homebridge switch for Intertechno devices",
+    "version": "0.0.1",
     "maintainers": [
-      "100hz"
+      "danmih"
     ],
     "engines": {
       "node": ">=0.12.0",
-      "homebridge": ">=0.2.5"
+      "homebridge": ">=0.2.0"
     },
-    "created": "2016-07-17T00:43:38.934Z",
-    "lastUpdated": "2022-06-18T21:22:15.395Z",
-    "latestRelease": "2016-07-30T13:36:00.465Z",
-    "author": "Sebastian Krüger",
+    "created": "2018-12-24T07:14:13.550Z",
+    "lastUpdated": "2022-05-05T03:17:02.951Z",
+    "latestRelease": "2018-12-24T07:14:13.689Z",
+    "author": "Not supplied",
     "deprecated": false,
-    "displayName": "homebridge-zfunk",
-    "owner": "Sebastian Krüger",
-    "downloads": 0,
+    "displayName": "homebridge-intertechno-switch",
+    "owner": "danmih",
+    "downloads": 1,
     "verified": false,
-    "npmDownloads": 0,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -80621,30 +80621,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-co2monitor",
-    "description": "Homebridge plugin for TFA Dostmann USB CO2 monitors",
-    "version": "0.1.0",
-    "maintainers": [
-      "slauber"
-    ],
-    "engines": {
-      "node": ">=10.0.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2020-10-15T15:27:17.991Z",
-    "lastUpdated": "2022-05-05T02:50:44.347Z",
-    "latestRelease": "2020-10-15T15:27:18.167Z",
-    "author": "Sebastian Lauber",
-    "deprecated": false,
-    "displayName": "homebridge-co2monitor",
-    "owner": "Sebastian Lauber",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-infobip-sms",
     "description": "Infobip SMS switch for Homebridge",
     "version": "0.1.2",
@@ -80686,6 +80662,30 @@
     "deprecated": false,
     "displayName": "homebridge-philipstelevision-v.1.2",
     "owner": "arkku",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-co2monitor",
+    "description": "Homebridge plugin for TFA Dostmann USB CO2 monitors",
+    "version": "0.1.0",
+    "maintainers": [
+      "slauber"
+    ],
+    "engines": {
+      "node": ">=10.0.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2020-10-15T15:27:17.991Z",
+    "lastUpdated": "2022-05-05T02:50:44.347Z",
+    "latestRelease": "2020-10-15T15:27:18.167Z",
+    "author": "Sebastian Lauber",
+    "deprecated": false,
+    "displayName": "homebridge-co2monitor",
+    "owner": "Sebastian Lauber",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -81770,30 +81770,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-hyperion",
-    "description": "Hyperion plugin for homebridge: https://github.com/nfarina/homebridge",
-    "version": "0.1.2",
-    "maintainers": [
-      "danimal4326"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2015-11-13T00:36:40.391Z",
-    "lastUpdated": "2022-06-18T21:13:16.222Z",
-    "latestRelease": "2017-01-02T01:51:36.872Z",
-    "author": "Dan Chlopek",
-    "deprecated": false,
-    "displayName": "homebridge-hyperion",
-    "owner": "Dan Chlopek",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-mqtt-sensor",
     "description": "A homebridge plugin that will create a contact sensor accessory for use with automation.",
     "version": "0.1.0",
@@ -81814,6 +81790,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-hyperion",
+    "description": "Hyperion plugin for homebridge: https://github.com/nfarina/homebridge",
+    "version": "0.1.2",
+    "maintainers": [
+      "danimal4326"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2015-11-13T00:36:40.391Z",
+    "lastUpdated": "2022-06-18T21:13:16.222Z",
+    "latestRelease": "2017-01-02T01:51:36.872Z",
+    "author": "Dan Chlopek",
+    "deprecated": false,
+    "displayName": "homebridge-hyperion",
+    "owner": "Dan Chlopek",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -81961,30 +81961,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-logic",
-    "description": "A plugin for homebridge to create supercharged variables.",
-    "version": "0.2.1",
-    "maintainers": [
-      "naofireblade"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2017-10-08T03:04:35.594Z",
-    "lastUpdated": "2022-05-05T03:22:09.479Z",
-    "latestRelease": "2017-10-08T03:16:11.420Z",
-    "author": "Arne Blumentritt",
-    "deprecated": false,
-    "displayName": "homebridge-logic",
-    "owner": "Arne Blumentritt",
-    "downloads": 5,
-    "verified": false,
-    "npmDownloads": 5,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-yamaha",
     "description": "homebridge-plugin for Yamaha AVR https://github.com/nfarina/homebridge",
     "version": "0.0.5-alpha.1",
@@ -82005,6 +81981,30 @@
     "downloads": 9,
     "verified": false,
     "npmDownloads": 9,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-logic",
+    "description": "A plugin for homebridge to create supercharged variables.",
+    "version": "0.2.1",
+    "maintainers": [
+      "naofireblade"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2017-10-08T03:04:35.594Z",
+    "lastUpdated": "2022-05-05T03:22:09.479Z",
+    "latestRelease": "2017-10-08T03:16:11.420Z",
+    "author": "Arne Blumentritt",
+    "deprecated": false,
+    "displayName": "homebridge-logic",
+    "owner": "Arne Blumentritt",
+    "downloads": 5,
+    "verified": false,
+    "npmDownloads": 5,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -82129,6 +82129,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-mqttswitch",
+    "description": "Homebridge plugin for MQTT switches",
+    "version": "0.0.3",
+    "maintainers": [
+      "ilcato"
+    ],
+    "engines": {
+      "node": ">4.0.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-01-10T15:26:38.178Z",
+    "lastUpdated": "2022-06-18T21:16:09.256Z",
+    "latestRelease": "2016-11-10T16:45:38.986Z",
+    "author": "ilcato",
+    "deprecated": false,
+    "displayName": "homebridge-mqttswitch",
+    "owner": "ilcato",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-gpio-128keaton",
     "description": "Raspberry Pi GPIO plugin for Homebridge: https://github.com/nfarina/homebridge",
     "version": "0.0.9",
@@ -82153,23 +82177,23 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-mqttswitch",
-    "description": "Homebridge plugin for MQTT switches",
-    "version": "0.0.3",
+    "name": "homebridge-osc",
+    "description": "OSC plugin for homebridge: https://github.com/nfarina/homebridge",
+    "version": "0.0.91",
     "maintainers": [
-      "ilcato"
+      "brookstalley"
     ],
     "engines": {
-      "node": ">4.0.0",
+      "node": ">=0.12.0",
       "homebridge": ">=0.2.0"
     },
-    "created": "2016-01-10T15:26:38.178Z",
-    "lastUpdated": "2022-06-18T21:16:09.256Z",
-    "latestRelease": "2016-11-10T16:45:38.986Z",
-    "author": "ilcato",
+    "created": "2016-01-30T23:43:53.874Z",
+    "lastUpdated": "2022-06-18T21:16:59.284Z",
+    "latestRelease": "2018-03-19T23:59:10.179Z",
+    "author": "Brooks Talley",
     "deprecated": false,
-    "displayName": "homebridge-mqttswitch",
-    "owner": "ilcato",
+    "displayName": "homebridge-osc",
+    "owner": "Brooks Talley",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -82197,30 +82221,6 @@
     "downloads": 3,
     "verified": false,
     "npmDownloads": 3,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-osc",
-    "description": "OSC plugin for homebridge: https://github.com/nfarina/homebridge",
-    "version": "0.0.91",
-    "maintainers": [
-      "brookstalley"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-01-30T23:43:53.874Z",
-    "lastUpdated": "2022-06-18T21:16:59.284Z",
-    "latestRelease": "2018-03-19T23:59:10.179Z",
-    "author": "Brooks Talley",
-    "deprecated": false,
-    "displayName": "homebridge-osc",
-    "owner": "Brooks Talley",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -82344,30 +82344,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-mqtt-contactsensor-delay",
-    "description": "A HomeBridge plugin for MQTT contact sensors timer.",
-    "version": "0.1.1",
-    "maintainers": [
-      "wnovak"
-    ],
-    "engines": {
-      "homebridge": ">=0.2.0",
-      "node": ">=0.12.0"
-    },
-    "created": "2020-04-27T15:25:52.622Z",
-    "lastUpdated": "2022-05-05T03:29:13.222Z",
-    "latestRelease": "2021-03-05T07:22:25.142Z",
-    "author": "Werner Novak",
-    "deprecated": false,
-    "displayName": "homebridge-mqtt-contactsensor-delay",
-    "owner": "Werner Novak",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-mqttlightbulb",
     "description": "Homebridge plugin for MQTT Lightbulub",
     "version": "0.0.3",
@@ -82409,6 +82385,30 @@
     "deprecated": false,
     "displayName": "homebridge-readablehttp",
     "owner": "Adrian Rudman",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-mqtt-contactsensor-delay",
+    "description": "A HomeBridge plugin for MQTT contact sensors timer.",
+    "version": "0.1.1",
+    "maintainers": [
+      "wnovak"
+    ],
+    "engines": {
+      "homebridge": ">=0.2.0",
+      "node": ">=0.12.0"
+    },
+    "created": "2020-04-27T15:25:52.622Z",
+    "lastUpdated": "2022-05-05T03:29:13.222Z",
+    "latestRelease": "2021-03-05T07:22:25.142Z",
+    "author": "Werner Novak",
+    "deprecated": false,
+    "displayName": "homebridge-mqtt-contactsensor-delay",
+    "owner": "Werner Novak",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -82489,6 +82489,29 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-rpi-ledstrip",
+    "description": "A Homebridge plugin for controlling an RGB LED strip with a Raspberry Pi's GPIO",
+    "version": "0.0.4",
+    "maintainers": [
+      "silaspace"
+    ],
+    "engines": {
+      "homebridge": ">=1.0.0"
+    },
+    "created": "2021-01-03T15:59:49.644Z",
+    "lastUpdated": "2022-05-05T03:51:48.677Z",
+    "latestRelease": "2021-01-05T12:34:46.821Z",
+    "author": "Silas Harvey",
+    "deprecated": false,
+    "displayName": "homebridge-rpi-ledstrip",
+    "owner": "Silas Harvey",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-temperature-cmd",
     "description": "node.js child_process plugin for homebridge: https://github.com/nfarina/homebridge",
     "version": "0.0.2",
@@ -82513,22 +82536,23 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-rpi-ledstrip",
-    "description": "A Homebridge plugin for controlling an RGB LED strip with a Raspberry Pi's GPIO",
-    "version": "0.0.4",
+    "name": "homebridge-webos2",
+    "description": "Control LG webOS TVs with HomeBridge",
+    "version": "0.1.3",
     "maintainers": [
-      "silaspace"
+      "zwerch"
     ],
     "engines": {
-      "homebridge": ">=1.0.0"
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
     },
-    "created": "2021-01-03T15:59:49.644Z",
-    "lastUpdated": "2022-05-05T03:51:48.677Z",
-    "latestRelease": "2021-01-05T12:34:46.821Z",
-    "author": "Silas Harvey",
+    "created": "2016-08-30T07:13:23.088Z",
+    "lastUpdated": "2022-06-18T21:21:37.402Z",
+    "latestRelease": "2016-09-06T14:30:21.735Z",
+    "author": "zwerch",
     "deprecated": false,
-    "displayName": "homebridge-rpi-ledstrip",
-    "owner": "Silas Harvey",
+    "displayName": "homebridge-webos2",
+    "owner": "zwerch",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -82556,30 +82580,6 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-webos2",
-    "description": "Control LG webOS TVs with HomeBridge",
-    "version": "0.1.3",
-    "maintainers": [
-      "zwerch"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-08-30T07:13:23.088Z",
-    "lastUpdated": "2022-06-18T21:21:37.402Z",
-    "latestRelease": "2016-09-06T14:30:21.735Z",
-    "author": "zwerch",
-    "deprecated": false,
-    "displayName": "homebridge-webos2",
-    "owner": "zwerch",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -82656,6 +82656,54 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-hive-motion",
+    "description": "Hive Motion Sensor plugin for Homebridge (https://github.com/nfarina/homebridge)",
+    "version": "0.4.0",
+    "maintainers": [
+      "jamesfowler42"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2017-08-30T11:08:31.427Z",
+    "lastUpdated": "2022-06-18T21:12:03.201Z",
+    "latestRelease": "2018-03-08T14:43:21.910Z",
+    "author": "James Fowler",
+    "deprecated": false,
+    "displayName": "homebridge-hive-motion",
+    "owner": "James Fowler",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-gpioswitch",
+    "description": "Raspberry Pi GPIO plugin for Homebridge: https://github.com/nfarina/homebridge",
+    "version": "0.0.5",
+    "maintainers": [
+      "dragouf"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2017-09-25T18:20:09.060Z",
+    "lastUpdated": "2022-06-18T21:11:46.195Z",
+    "latestRelease": "2017-09-26T17:09:56.485Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-gpioswitch",
+    "owner": "dragouf",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-daylight",
     "description": "Daylight plugin for homebridge: https://github.com/nfarina/homebridge",
     "version": "0.1.1",
@@ -82704,122 +82752,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-gpioswitch",
-    "description": "Raspberry Pi GPIO plugin for Homebridge: https://github.com/nfarina/homebridge",
-    "version": "0.0.5",
+    "name": "homebridge-w215",
+    "description": "HomeBridge plugin for DSP w215",
+    "version": "0.0.6",
     "maintainers": [
-      "dragouf"
+      "ianmichell"
     ],
     "engines": {
       "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
+      "homebridge": ">=0.3.0"
     },
-    "created": "2017-09-25T18:20:09.060Z",
-    "lastUpdated": "2022-06-18T21:11:46.195Z",
-    "latestRelease": "2017-09-26T17:09:56.485Z",
-    "author": "Not supplied",
+    "created": "2017-01-07T07:54:42.570Z",
+    "lastUpdated": "2022-06-18T21:21:29.401Z",
+    "latestRelease": "2017-07-26T21:45:36.858Z",
+    "author": "Ian Michell",
     "deprecated": false,
-    "displayName": "homebridge-gpioswitch",
-    "owner": "dragouf",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-hive-motion",
-    "description": "Hive Motion Sensor plugin for Homebridge (https://github.com/nfarina/homebridge)",
-    "version": "0.4.0",
-    "maintainers": [
-      "jamesfowler42"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2017-08-30T11:08:31.427Z",
-    "lastUpdated": "2022-06-18T21:12:03.201Z",
-    "latestRelease": "2018-03-08T14:43:21.910Z",
-    "author": "James Fowler",
-    "deprecated": false,
-    "displayName": "homebridge-hive-motion",
-    "owner": "James Fowler",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-ailight",
-    "description": "Homebridge plugin for the AiLight firmware",
-    "version": "0.1.3",
-    "maintainers": [
-      "stelgenhof"
-    ],
-    "engines": {
-      "node": "6.11.3",
-      "homebridge": "0.4.42"
-    },
-    "created": "2017-10-01T12:21:07.271Z",
-    "lastUpdated": "2022-05-05T02:39:43.649Z",
-    "latestRelease": "2018-05-22T12:01:46.160Z",
-    "author": "Sacha Telgenhof",
-    "deprecated": false,
-    "displayName": "homebridge-ailight",
-    "owner": "Sacha Telgenhof",
+    "displayName": "homebridge-w215",
+    "owner": "Ian Michell",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-airport",
-    "description": "homebridge-airport ===",
-    "version": "0.1.1",
-    "maintainers": [
-      "samuelthomas2774"
-    ],
-    "engines": {
-      "node": ">=12",
-      "homebridge": "^0.4.53 || ^1.0"
-    },
-    "created": "2020-04-10T21:54:41.795Z",
-    "lastUpdated": "2022-05-05T02:40:36.159Z",
-    "latestRelease": "2020-06-26T18:36:08.531Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-airport",
-    "owner": "samuelthomas2774",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-garadget",
-    "description": "Garadget device plugin for Homebridge -- Homekit Integration for Garadget using Homebridge.",
-    "version": "0.0.4",
-    "maintainers": [
-      "xninjas"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.4.0"
-    },
-    "created": "2016-11-11T04:56:32.432Z",
-    "lastUpdated": "2022-06-18T21:11:22.191Z",
-    "latestRelease": "2017-08-30T05:57:28.672Z",
-    "author": "xNinjas",
-    "deprecated": false,
-    "displayName": "homebridge-garadget",
-    "owner": "xNinjas",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -82872,26 +82824,97 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-w215",
-    "description": "HomeBridge plugin for DSP w215",
-    "version": "0.0.6",
+    "name": "homebridge-garadget",
+    "description": "Garadget device plugin for Homebridge -- Homekit Integration for Garadget using Homebridge.",
+    "version": "0.0.4",
     "maintainers": [
-      "ianmichell"
+      "xninjas"
     ],
     "engines": {
       "node": ">=0.12.0",
-      "homebridge": ">=0.3.0"
+      "homebridge": ">=0.4.0"
     },
-    "created": "2017-01-07T07:54:42.570Z",
-    "lastUpdated": "2022-06-18T21:21:29.401Z",
-    "latestRelease": "2017-07-26T21:45:36.858Z",
-    "author": "Ian Michell",
+    "created": "2016-11-11T04:56:32.432Z",
+    "lastUpdated": "2022-06-18T21:11:22.191Z",
+    "latestRelease": "2017-08-30T05:57:28.672Z",
+    "author": "xNinjas",
     "deprecated": false,
-    "displayName": "homebridge-w215",
-    "owner": "Ian Michell",
+    "displayName": "homebridge-garadget",
+    "owner": "xNinjas",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-ailight",
+    "description": "Homebridge plugin for the AiLight firmware",
+    "version": "0.1.3",
+    "maintainers": [
+      "stelgenhof"
+    ],
+    "engines": {
+      "node": "6.11.3",
+      "homebridge": "0.4.42"
+    },
+    "created": "2017-10-01T12:21:07.271Z",
+    "lastUpdated": "2022-05-05T02:39:43.649Z",
+    "latestRelease": "2018-05-22T12:01:46.160Z",
+    "author": "Sacha Telgenhof",
+    "deprecated": false,
+    "displayName": "homebridge-ailight",
+    "owner": "Sacha Telgenhof",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-airport",
+    "description": "homebridge-airport ===",
+    "version": "0.1.1",
+    "maintainers": [
+      "samuelthomas2774"
+    ],
+    "engines": {
+      "node": ">=12",
+      "homebridge": "^0.4.53 || ^1.0"
+    },
+    "created": "2020-04-10T21:54:41.795Z",
+    "lastUpdated": "2022-05-05T02:40:36.159Z",
+    "latestRelease": "2020-06-26T18:36:08.531Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-airport",
+    "owner": "samuelthomas2774",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-veralink",
+    "description": "HomeKit bridge for Vera",
+    "version": "0.0.7",
+    "maintainers": [
+      "damianxd"
+    ],
+    "engines": {
+      "homebridge": ">=0.2.13"
+    },
+    "created": "2016-01-05T01:29:30.514Z",
+    "lastUpdated": "2022-06-18T21:21:22.399Z",
+    "latestRelease": "2016-06-06T01:51:37.737Z",
+    "author": "Damian Alarcon",
+    "deprecated": false,
+    "displayName": "homebridge-veralink",
+    "owner": "Damian Alarcon",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -82939,29 +82962,6 @@
     "downloads": 3,
     "verified": false,
     "npmDownloads": 3,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-veralink",
-    "description": "HomeKit bridge for Vera",
-    "version": "0.0.7",
-    "maintainers": [
-      "damianxd"
-    ],
-    "engines": {
-      "homebridge": ">=0.2.13"
-    },
-    "created": "2016-01-05T01:29:30.514Z",
-    "lastUpdated": "2022-06-18T21:21:22.399Z",
-    "latestRelease": "2016-06-06T01:51:37.737Z",
-    "author": "Damian Alarcon",
-    "deprecated": false,
-    "displayName": "homebridge-veralink",
-    "owner": "Damian Alarcon",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -83231,6 +83231,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "@liupeinye/homebridge-miio",
+    "description": "Use some Xiaomi devices with Homebridge: https://github.com/liupeinye/homebridge-miio",
+    "version": "0.0.2",
+    "maintainers": [
+      "liupeinye"
+    ],
+    "engines": {
+      "homebridge": ">=0.4.16",
+      "node": ">=7.2.0"
+    },
+    "created": "2018-04-18T19:18:42.319Z",
+    "lastUpdated": "2022-06-12T20:53:39.263Z",
+    "latestRelease": "2018-04-18T19:23:32.429Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "@liupeinye/homebridge-miio",
+    "owner": "liupeinye",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-gpio-ledstrip",
     "description": "Raspberry Pi GPIO based LED Strip plugin for Homebridge",
     "version": "0.0.2",
@@ -83276,30 +83300,6 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "@liupeinye/homebridge-miio",
-    "description": "Use some Xiaomi devices with Homebridge: https://github.com/liupeinye/homebridge-miio",
-    "version": "0.0.2",
-    "maintainers": [
-      "liupeinye"
-    ],
-    "engines": {
-      "homebridge": ">=0.4.16",
-      "node": ">=7.2.0"
-    },
-    "created": "2018-04-18T19:18:42.319Z",
-    "lastUpdated": "2022-06-12T20:53:39.263Z",
-    "latestRelease": "2018-04-18T19:23:32.429Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "@liupeinye/homebridge-miio",
-    "owner": "liupeinye",
-    "downloads": 2,
-    "verified": false,
-    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -83352,30 +83352,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-mqtt-eve-temp-hum-pres",
-    "description": "A HomeBridge plugin for MQTT temperature sensors (EVE).",
-    "version": "0.1.1",
-    "maintainers": [
-      "moppi4483"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2017-07-13T19:30:31.774Z",
-    "lastUpdated": "2022-06-18T21:15:41.246Z",
-    "latestRelease": "2017-07-13T19:46:48.668Z",
-    "author": "moppi4483",
-    "deprecated": false,
-    "displayName": "homebridge-mqtt-eve-temp-hum-pres",
-    "owner": "moppi4483",
-    "downloads": 4,
-    "verified": false,
-    "npmDownloads": 4,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-trigger",
     "description": "Homeridge Plugin for Automations Triggering",
     "version": "0.0.2",
@@ -83400,6 +83376,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-mqtt-eve-temp-hum-pres",
+    "description": "A HomeBridge plugin for MQTT temperature sensors (EVE).",
+    "version": "0.1.1",
+    "maintainers": [
+      "moppi4483"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2017-07-13T19:30:31.774Z",
+    "lastUpdated": "2022-06-18T21:15:41.246Z",
+    "latestRelease": "2017-07-13T19:46:48.668Z",
+    "author": "moppi4483",
+    "deprecated": false,
+    "displayName": "homebridge-mqtt-eve-temp-hum-pres",
+    "owner": "moppi4483",
+    "downloads": 4,
+    "verified": false,
+    "npmDownloads": 4,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-lomlock",
     "description": "LOM Lock plugin for homebridge: https://github.com/nfarina/homebridge",
     "version": "0.1.1",
@@ -83417,77 +83417,6 @@
     "deprecated": false,
     "displayName": "homebridge-lomlock",
     "owner": "Guido Lombriser",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-bluetooth-soundbutton",
-    "description": "Homebridge Bluetooth Sound Buttons using Alsa speakers for Raspberry Pi and Linux systems.",
-    "version": "0.0.2",
-    "maintainers": [
-      "drumfreak"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2018-03-31T01:31:38.642Z",
-    "lastUpdated": "2022-06-18T21:08:54.405Z",
-    "latestRelease": "2018-03-31T01:31:38.702Z",
-    "author": "Eric Rosebrock",
-    "deprecated": false,
-    "displayName": "homebridge-bluetooth-soundbutton",
-    "owner": "Eric Rosebrock",
-    "downloads": 3,
-    "verified": false,
-    "npmDownloads": 3,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-mox",
-    "description": "MOX Platform plugin for homebridge",
-    "version": "0.0.1",
-    "maintainers": [
-      "yahavgb"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-07-05T21:36:28.080Z",
-    "lastUpdated": "2022-06-18T21:15:31.241Z",
-    "latestRelease": "2016-07-05T21:36:28.080Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-mox",
-    "owner": "yahavgb",
-    "downloads": 4,
-    "verified": false,
-    "npmDownloads": 4,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-vantage-infusuion-controller",
-    "description": "VantageControls InFusion plugin for homebridge rewritten in typescript. Forked from original repo: https://github.com/thebeastxdxd/homebridge-vantage",
-    "version": "0.0.2",
-    "maintainers": [
-      "rpack"
-    ],
-    "engines": {
-      "homebridge": ">=1.0.0"
-    },
-    "created": "2021-10-05T17:59:19.460Z",
-    "lastUpdated": "2022-05-05T04:10:01.304Z",
-    "latestRelease": "2021-11-27T02:34:24.261Z",
-    "author": "richard pack",
-    "deprecated": false,
-    "displayName": "Vantage Infusion Controller",
-    "owner": "richard pack",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -83518,26 +83447,73 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-applescript",
-    "description": "Applescript plugin for homebridge: https://github.com/nfarina/homebridge",
+    "name": "homebridge-vantage-infusuion-controller",
+    "description": "VantageControls InFusion plugin for homebridge rewritten in typescript. Forked from original repo: https://github.com/thebeastxdxd/homebridge-vantage",
+    "version": "0.0.2",
+    "maintainers": [
+      "rpack"
+    ],
+    "engines": {
+      "homebridge": ">=1.0.0"
+    },
+    "created": "2021-10-05T17:59:19.460Z",
+    "lastUpdated": "2022-05-05T04:10:01.304Z",
+    "latestRelease": "2021-11-27T02:34:24.261Z",
+    "author": "richard pack",
+    "deprecated": false,
+    "displayName": "Vantage Infusion Controller",
+    "owner": "richard pack",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-mox",
+    "description": "MOX Platform plugin for homebridge",
     "version": "0.0.1",
     "maintainers": [
-      "dansays"
+      "yahavgb"
     ],
     "engines": {
       "node": ">=0.12.0",
       "homebridge": ">=0.2.0"
     },
-    "created": "2015-11-10T19:06:27.387Z",
-    "lastUpdated": "2022-06-18T21:08:20.389Z",
-    "latestRelease": "2015-11-10T19:06:27.387Z",
-    "author": "Dan Budiac",
+    "created": "2016-07-05T21:36:28.080Z",
+    "lastUpdated": "2022-06-18T21:15:31.241Z",
+    "latestRelease": "2016-07-05T21:36:28.080Z",
+    "author": "Not supplied",
     "deprecated": false,
-    "displayName": "homebridge-applescript",
-    "owner": "Dan Budiac",
-    "downloads": 1,
+    "displayName": "homebridge-mox",
+    "owner": "yahavgb",
+    "downloads": 4,
     "verified": false,
-    "npmDownloads": 1,
+    "npmDownloads": 4,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-bluetooth-soundbutton",
+    "description": "Homebridge Bluetooth Sound Buttons using Alsa speakers for Raspberry Pi and Linux systems.",
+    "version": "0.0.2",
+    "maintainers": [
+      "drumfreak"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2018-03-31T01:31:38.642Z",
+    "lastUpdated": "2022-06-18T21:08:54.405Z",
+    "latestRelease": "2018-03-31T01:31:38.702Z",
+    "author": "Eric Rosebrock",
+    "deprecated": false,
+    "displayName": "homebridge-bluetooth-soundbutton",
+    "owner": "Eric Rosebrock",
+    "downloads": 3,
+    "verified": false,
+    "npmDownloads": 3,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -83559,54 +83535,6 @@
     "deprecated": false,
     "displayName": "homebridge-energyselect",
     "owner": "giniae",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-beam",
-    "description": "Beam Projector plugin for homebridge",
-    "version": "0.0.2",
-    "maintainers": [
-      "statbit"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-02-22T00:06:27.976Z",
-    "lastUpdated": "2022-06-18T21:08:35.384Z",
-    "latestRelease": "2016-10-16T14:45:37.396Z",
-    "author": "john@thepond.com",
-    "deprecated": false,
-    "displayName": "homebridge-beam",
-    "owner": "john@thepond.com",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-mqtt-motionsensor",
-    "description": "A HomeBridge plugin for MQTT motion sensors.",
-    "version": "0.1.0",
-    "maintainers": [
-      "heisice"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2017-04-06T12:39:11.206Z",
-    "lastUpdated": "2022-06-18T21:15:48.235Z",
-    "latestRelease": "2017-04-06T12:39:11.206Z",
-    "author": "Ki-soo Kim",
-    "deprecated": false,
-    "displayName": "homebridge-mqtt-motionsensor",
-    "owner": "Ki-soo Kim",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -83638,22 +83566,71 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-aircon-lirc-accessory",
-    "description": "An accessory plugin for homebridge to control your AC through LIRC",
-    "version": "0.0.2",
+    "name": "homebridge-mqtt-motionsensor",
+    "description": "A HomeBridge plugin for MQTT motion sensors.",
+    "version": "0.1.0",
     "maintainers": [
-      "camillof"
+      "heisice"
     ],
     "engines": {
-      "homebridge": ">=1.0.0"
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
     },
-    "created": "2020-07-06T23:22:16.072Z",
-    "lastUpdated": "2022-05-05T02:40:04.648Z",
-    "latestRelease": "2020-07-18T23:27:46.526Z",
-    "author": "Camillo Facello",
+    "created": "2017-04-06T12:39:11.206Z",
+    "lastUpdated": "2022-06-18T21:15:48.235Z",
+    "latestRelease": "2017-04-06T12:39:11.206Z",
+    "author": "Ki-soo Kim",
     "deprecated": false,
-    "displayName": "homebridge-aircon-lirc-accessory",
-    "owner": "Camillo Facello",
+    "displayName": "homebridge-mqtt-motionsensor",
+    "owner": "Ki-soo Kim",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-applescript",
+    "description": "Applescript plugin for homebridge: https://github.com/nfarina/homebridge",
+    "version": "0.0.1",
+    "maintainers": [
+      "dansays"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2015-11-10T19:06:27.387Z",
+    "lastUpdated": "2022-06-18T21:08:20.389Z",
+    "latestRelease": "2015-11-10T19:06:27.387Z",
+    "author": "Dan Budiac",
+    "deprecated": false,
+    "displayName": "homebridge-applescript",
+    "owner": "Dan Budiac",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-beam",
+    "description": "Beam Projector plugin for homebridge",
+    "version": "0.0.2",
+    "maintainers": [
+      "statbit"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-02-22T00:06:27.976Z",
+    "lastUpdated": "2022-06-18T21:08:35.384Z",
+    "latestRelease": "2016-10-16T14:45:37.396Z",
+    "author": "john@thepond.com",
+    "deprecated": false,
+    "displayName": "homebridge-beam",
+    "owner": "john@thepond.com",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -83678,6 +83655,29 @@
     "deprecated": false,
     "displayName": "homebridge-mqtt-contactsensor",
     "owner": "Ki-soo Kim",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-aircon-lirc-accessory",
+    "description": "An accessory plugin for homebridge to control your AC through LIRC",
+    "version": "0.0.2",
+    "maintainers": [
+      "camillof"
+    ],
+    "engines": {
+      "homebridge": ">=1.0.0"
+    },
+    "created": "2020-07-06T23:22:16.072Z",
+    "lastUpdated": "2022-05-05T02:40:04.648Z",
+    "latestRelease": "2020-07-18T23:27:46.526Z",
+    "author": "Camillo Facello",
+    "deprecated": false,
+    "displayName": "homebridge-aircon-lirc-accessory",
+    "owner": "Camillo Facello",
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
@@ -83733,30 +83733,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-lono",
-    "description": "Lono sprinkler system plugin for HomeBridge",
-    "version": "0.1.0",
-    "maintainers": [
-      "kraigm"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.5"
-    },
-    "created": "2015-12-04T01:45:11.845Z",
-    "lastUpdated": "2022-06-18T21:14:33.226Z",
-    "latestRelease": "2015-12-04T01:45:11.845Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-lono",
-    "owner": "kraigm",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-lirc-accessory",
     "description": "Proxy accessory to control infrared devices using lirc-state-api module",
     "version": "0.0.1",
@@ -83777,6 +83753,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-lono",
+    "description": "Lono sprinkler system plugin for HomeBridge",
+    "version": "0.1.0",
+    "maintainers": [
+      "kraigm"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.5"
+    },
+    "created": "2015-12-04T01:45:11.845Z",
+    "lastUpdated": "2022-06-18T21:14:33.226Z",
+    "latestRelease": "2015-12-04T01:45:11.845Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-lono",
+    "owner": "kraigm",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -83829,30 +83829,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-applescript-file",
-    "description": "Applescript plugin for homebridge: https://github.com/nfarina/homebridge",
-    "version": "0.0.1",
-    "maintainers": [
-      "bendodson"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-05-22T10:55:50.013Z",
-    "lastUpdated": "2022-06-18T21:08:21.390Z",
-    "latestRelease": "2016-05-22T10:55:50.013Z",
-    "author": "Dan Budiac & Ben Dodson",
-    "deprecated": false,
-    "displayName": "homebridge-applescript-file",
-    "owner": "Dan Budiac & Ben Dodson",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "@hommiepeter73/homebridge-toon-platform",
     "description": "An platform plugin to disclose Toon and its connected devices to HomeKit",
     "version": "0.9.7",
@@ -83877,26 +83853,50 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-mqtt-dimmer",
-    "description": "Homebridge plugin to control a dimmer via mqtt",
+    "name": "homebridge-applescript-file",
+    "description": "Applescript plugin for homebridge: https://github.com/nfarina/homebridge",
     "version": "0.0.1",
     "maintainers": [
-      "goodfield"
+      "bendodson"
     ],
     "engines": {
-      "node": ">4.0.0",
+      "node": ">=0.12.0",
       "homebridge": ">=0.2.0"
     },
-    "created": "2016-10-28T20:12:04.319Z",
-    "lastUpdated": "2022-06-18T21:15:39.238Z",
-    "latestRelease": "2016-10-29T11:12:10.634Z",
-    "author": "David Uebelacker",
+    "created": "2016-05-22T10:55:50.013Z",
+    "lastUpdated": "2022-06-18T21:08:21.390Z",
+    "latestRelease": "2016-05-22T10:55:50.013Z",
+    "author": "Dan Budiac & Ben Dodson",
     "deprecated": false,
-    "displayName": "homebridge-mqtt-dimmer",
-    "owner": "David Uebelacker",
-    "downloads": 0,
+    "displayName": "homebridge-applescript-file",
+    "owner": "Dan Budiac & Ben Dodson",
+    "downloads": 1,
     "verified": false,
-    "npmDownloads": 0,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-rpi-apa102-white",
+    "description": "Homebridge plugin for white only (not RGB) APA102 LED strip on Raspberry PI connected via GPIO (not SPI)",
+    "version": "0.0.2",
+    "maintainers": [
+      "topas"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-10-16T20:10:50.502Z",
+    "lastUpdated": "2022-06-18T21:18:46.335Z",
+    "latestRelease": "2016-10-16T20:10:50.502Z",
+    "author": "Tomas Pastorek",
+    "deprecated": false,
+    "displayName": "homebridge-rpi-apa102-white",
+    "owner": "Tomas Pastorek",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -102447,30 +102447,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-mqtt-television",
-    "description": "mqtttv homebridge(https://github.com/nfarina/homebridge) plugin.",
-    "version": "0.0.7",
-    "maintainers": [
-      "hassbian-abc"
-    ],
-    "engines": {
-      "node": ">=7.0.0",
-      "homebridge": ">=0.4.1"
-    },
-    "created": "2019-08-26T16:29:34.670Z",
-    "lastUpdated": "2022-05-05T03:30:31.875Z",
-    "latestRelease": "2020-02-03T02:32:14.887Z",
-    "author": "hang.yin",
-    "deprecated": false,
-    "displayName": "homebridge-mqtt-television",
-    "owner": "hang.yin",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-mi-philips-light-fork",
     "description": "XiaoMi Philips light RandomMetalhead Fork",
     "version": "0.2.9",
@@ -102491,6 +102467,30 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-mqtt-television",
+    "description": "mqtttv homebridge(https://github.com/nfarina/homebridge) plugin.",
+    "version": "0.0.7",
+    "maintainers": [
+      "hassbian-abc"
+    ],
+    "engines": {
+      "node": ">=7.0.0",
+      "homebridge": ">=0.4.1"
+    },
+    "created": "2019-08-26T16:29:34.670Z",
+    "lastUpdated": "2022-05-05T03:30:31.875Z",
+    "latestRelease": "2020-02-03T02:32:14.887Z",
+    "author": "hang.yin",
+    "deprecated": false,
+    "displayName": "homebridge-mqtt-television",
+    "owner": "hang.yin",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -103836,6 +103836,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-esp1",
+    "description": "http(s) plugin for Homebridge: https://github.com/nfarina/homebridge",
+    "version": "0.0.1",
+    "maintainers": [
+      "bitwerk"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2018-01-16T22:46:10.854Z",
+    "lastUpdated": "2022-05-05T02:59:32.137Z",
+    "latestRelease": "2018-01-16T22:46:10.854Z",
+    "author": "bitWERK",
+    "deprecated": false,
+    "displayName": "homebridge-esp1",
+    "owner": "bitWERK",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-hdmi",
     "description": "hdmi control for homebridge: https://github.com/nfarina/homebridge",
     "version": "0.0.1",
@@ -103860,23 +103884,23 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-esp1",
-    "description": "http(s) plugin for Homebridge: https://github.com/nfarina/homebridge",
-    "version": "0.0.1",
+    "name": "homebridge-esphome-mi-flower-care",
+    "description": "Plugin to display temperature, humidity, AmbientLight via esphome rest api in homebridge",
+    "version": "0.0.2",
     "maintainers": [
-      "bitwerk"
+      "ttopholm"
     ],
     "engines": {
       "node": ">=0.12.0",
       "homebridge": ">=0.2.0"
     },
-    "created": "2018-01-16T22:46:10.854Z",
-    "lastUpdated": "2022-05-05T02:59:32.137Z",
-    "latestRelease": "2018-01-16T22:46:10.854Z",
-    "author": "bitWERK",
+    "created": "2021-03-18T22:19:58.325Z",
+    "lastUpdated": "2022-05-05T02:59:54.972Z",
+    "latestRelease": "2021-03-18T22:19:58.469Z",
+    "author": "Tue Topholm",
     "deprecated": false,
-    "displayName": "homebridge-esp1",
-    "owner": "bitWERK",
+    "displayName": "homebridge-esphome-mi-flower-care",
+    "owner": "Tue Topholm",
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
@@ -103905,30 +103929,6 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-esphome-mi-flower-care",
-    "description": "Plugin to display temperature, humidity, AmbientLight via esphome rest api in homebridge",
-    "version": "0.0.2",
-    "maintainers": [
-      "ttopholm"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2021-03-18T22:19:58.325Z",
-    "lastUpdated": "2022-05-05T02:59:54.972Z",
-    "latestRelease": "2021-03-18T22:19:58.469Z",
-    "author": "Tue Topholm",
-    "deprecated": false,
-    "displayName": "homebridge-esphome-mi-flower-care",
-    "owner": "Tue Topholm",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -104005,30 +104005,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-lomsnvtemerature",
-    "description": "Lom SNV Temperature plugin for homebridge: https://github.com/nfarina/homebridge",
-    "version": "0.0.2",
-    "maintainers": [
-      "glom"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2016-09-07T06:53:16.669Z",
-    "lastUpdated": "2022-06-18T21:14:30.224Z",
-    "latestRelease": "2016-09-07T06:53:16.669Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-lomsnvtemerature",
-    "owner": "glom",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-lomsnvlight",
     "description": "Lom SNV Light plugin for homebridge: https://github.com/nfarina/homebridge",
     "version": "0.0.2",
@@ -104045,6 +104021,30 @@
     "author": "Not supplied",
     "deprecated": false,
     "displayName": "homebridge-lomsnvlight",
+    "owner": "glom",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-lomsnvtemerature",
+    "description": "Lom SNV Temperature plugin for homebridge: https://github.com/nfarina/homebridge",
+    "version": "0.0.2",
+    "maintainers": [
+      "glom"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2016-09-07T06:53:16.669Z",
+    "lastUpdated": "2022-06-18T21:14:30.224Z",
+    "latestRelease": "2016-09-07T06:53:16.669Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-lomsnvtemerature",
     "owner": "glom",
     "downloads": 0,
     "verified": false,
@@ -104631,30 +104631,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-http-fan",
-    "description": "No description provided",
-    "version": "0.0.6",
-    "maintainers": [
-      "nromensky"
-    ],
-    "engines": {
-      "homebridge": ">=0.2.0",
-      "node": ">=0.12.0"
-    },
-    "created": "2017-08-05T16:13:21.235Z",
-    "lastUpdated": "2022-05-05T03:11:05.830Z",
-    "latestRelease": "2017-08-05T16:47:06.802Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-http-fan",
-    "owner": "nromensky",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-test-turn-pc",
     "description": "测试window电脑开机与关机  test turn on/off winpc",
     "version": "0.1.0",
@@ -104675,6 +104651,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-http-fan",
+    "description": "No description provided",
+    "version": "0.0.6",
+    "maintainers": [
+      "nromensky"
+    ],
+    "engines": {
+      "homebridge": ">=0.2.0",
+      "node": ">=0.12.0"
+    },
+    "created": "2017-08-05T16:13:21.235Z",
+    "lastUpdated": "2022-05-05T03:11:05.830Z",
+    "latestRelease": "2017-08-05T16:47:06.802Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-http-fan",
+    "owner": "nromensky",
+    "downloads": 1,
+    "verified": false,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -104847,30 +104847,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-doorsensor",
-    "description": "Door/contact sensor plugin for Homebridge",
-    "version": "0.0.3",
-    "maintainers": [
-      "pdemarco925"
-    ],
-    "engines": {
-      "homebridge": ">=0.4.20",
-      "node": ">=4.3.2"
-    },
-    "created": "2017-06-16T01:40:22.090Z",
-    "lastUpdated": "2022-06-18T21:10:17.176Z",
-    "latestRelease": "2018-02-13T02:28:06.808Z",
-    "author": "Paul DeMarco",
-    "deprecated": false,
-    "displayName": "homebridge-doorsensor",
-    "owner": "Paul DeMarco",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-apsystem-inverter",
     "description": "A Homebridge plugin to collect AP Systems solar inverter data and show it into HomeKit as a light sensor accessory. It shows current watts generation and total kwh by day.",
     "version": "0.4.0",
@@ -104891,6 +104867,30 @@
     "downloads": 3,
     "verified": false,
     "npmDownloads": 3,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-doorsensor",
+    "description": "Door/contact sensor plugin for Homebridge",
+    "version": "0.0.3",
+    "maintainers": [
+      "pdemarco925"
+    ],
+    "engines": {
+      "homebridge": ">=0.4.20",
+      "node": ">=4.3.2"
+    },
+    "created": "2017-06-16T01:40:22.090Z",
+    "lastUpdated": "2022-06-18T21:10:17.176Z",
+    "latestRelease": "2018-02-13T02:28:06.808Z",
+    "author": "Paul DeMarco",
+    "deprecated": false,
+    "displayName": "homebridge-doorsensor",
+    "owner": "Paul DeMarco",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -105083,30 +105083,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-doorbellp",
-    "description": "Doorbell plugin for Homebridge",
-    "version": "0.0.3",
-    "maintainers": [
-      "stefano-sg"
-    ],
-    "engines": {
-      "homebridge": ">=0.2.5",
-      "node": ">=10.0.0"
-    },
-    "created": "2020-11-17T22:59:56.531Z",
-    "lastUpdated": "2022-05-05T02:56:07.195Z",
-    "latestRelease": "2020-11-17T23:06:05.903Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-doorbellp",
-    "owner": "stefano-sg",
-    "downloads": 1,
-    "verified": false,
-    "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-ws2812-mqtt-effects",
     "description": "Homebridge plugin to control rgb strip light ws2812",
     "version": "0.0.2",
@@ -105131,26 +105107,26 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-fan",
-    "description": "fan plugin for homebridge",
-    "version": "0.0.2",
+    "name": "homebridge-doorbellp",
+    "description": "Doorbell plugin for Homebridge",
+    "version": "0.0.3",
     "maintainers": [
-      "treetwig"
+      "stefano-sg"
     ],
     "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
+      "homebridge": ">=0.2.5",
+      "node": ">=10.0.0"
     },
-    "created": "2017-10-22T23:42:42.281Z",
-    "lastUpdated": "2022-05-05T03:01:07.445Z",
-    "latestRelease": "2017-10-22T23:50:12.749Z",
+    "created": "2020-11-17T22:59:56.531Z",
+    "lastUpdated": "2022-05-05T02:56:07.195Z",
+    "latestRelease": "2020-11-17T23:06:05.903Z",
     "author": "Not supplied",
     "deprecated": false,
-    "displayName": "homebridge-fan",
-    "owner": "treetwig",
-    "downloads": 2,
+    "displayName": "homebridge-doorbellp",
+    "owner": "stefano-sg",
+    "downloads": 1,
     "verified": false,
-    "npmDownloads": 2,
+    "npmDownloads": 1,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -105199,6 +105175,30 @@
     "downloads": 0,
     "verified": false,
     "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-fan",
+    "description": "fan plugin for homebridge",
+    "version": "0.0.2",
+    "maintainers": [
+      "treetwig"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2017-10-22T23:42:42.281Z",
+    "lastUpdated": "2022-05-05T03:01:07.445Z",
+    "latestRelease": "2017-10-22T23:50:12.749Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-fan",
+    "owner": "treetwig",
+    "downloads": 2,
+    "verified": false,
+    "npmDownloads": 2,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -105419,6 +105419,27 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-myblindsmh",
+    "description": "Homebridge application for my blinds",
+    "version": "0.0.2",
+    "maintainers": [
+      "marchendrikx"
+    ],
+    "engines": {},
+    "created": "2019-02-18T21:07:55.502Z",
+    "lastUpdated": "2022-05-05T03:31:49.845Z",
+    "latestRelease": "2019-02-23T09:40:56.367Z",
+    "author": "marchendrikx",
+    "deprecated": false,
+    "displayName": "homebridge-myblindsmh",
+    "owner": "marchendrikx",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-mi-acpartner-selftest",
     "description": "(DONT USE)homebridge plugin for Xiaomi AC Partner",
     "version": "0.7.1",
@@ -105440,27 +105461,6 @@
     "downloads": 1,
     "verified": false,
     "npmDownloads": 1,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
-    "name": "homebridge-myblindsmh",
-    "description": "Homebridge application for my blinds",
-    "version": "0.0.2",
-    "maintainers": [
-      "marchendrikx"
-    ],
-    "engines": {},
-    "created": "2019-02-18T21:07:55.502Z",
-    "lastUpdated": "2022-05-05T03:31:49.845Z",
-    "latestRelease": "2019-02-23T09:40:56.367Z",
-    "author": "marchendrikx",
-    "deprecated": false,
-    "displayName": "homebridge-myblindsmh",
-    "owner": "marchendrikx",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
     "githubDownloads": 0,
     "homebridge2ready": "Not ready"
   },
@@ -107116,30 +107116,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-patana93test6",
-    "description": "No description provided",
-    "version": "0.0.0",
-    "maintainers": [
-      "patana93"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2018-05-04T15:52:38.447Z",
-    "lastUpdated": "2022-05-05T03:41:32.443Z",
-    "latestRelease": "2018-05-04T15:52:38.750Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-patana93test6",
-    "owner": "patana93",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-patana93test8",
     "description": "No description provided",
     "version": "0.0.0",
@@ -107188,6 +107164,30 @@
     "homebridge2ready": "Not ready"
   },
   {
+    "name": "homebridge-patana93test6",
+    "description": "No description provided",
+    "version": "0.0.0",
+    "maintainers": [
+      "patana93"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2018-05-04T15:52:38.447Z",
+    "lastUpdated": "2022-05-05T03:41:32.443Z",
+    "latestRelease": "2018-05-04T15:52:38.750Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-patana93test6",
+    "owner": "patana93",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
     "name": "homebridge-patana93test5",
     "description": "No description provided",
     "version": "0.0.0",
@@ -107212,30 +107212,6 @@
     "homebridge2ready": "Not ready"
   },
   {
-    "name": "homebridge-patana93test2",
-    "description": "No description provided",
-    "version": "0.0.0",
-    "maintainers": [
-      "patana93"
-    ],
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    },
-    "created": "2018-05-04T14:56:51.120Z",
-    "lastUpdated": "2022-05-05T03:41:26.434Z",
-    "latestRelease": "2018-05-04T14:56:51.211Z",
-    "author": "Not supplied",
-    "deprecated": false,
-    "displayName": "homebridge-patana93test2",
-    "owner": "patana93",
-    "downloads": 0,
-    "verified": false,
-    "npmDownloads": 0,
-    "githubDownloads": 0,
-    "homebridge2ready": "Not ready"
-  },
-  {
     "name": "homebridge-patana93test3",
     "description": "No description provided",
     "version": "0.0.0",
@@ -107252,6 +107228,30 @@
     "author": "Not supplied",
     "deprecated": false,
     "displayName": "homebridge-patana93test3",
+    "owner": "patana93",
+    "downloads": 0,
+    "verified": false,
+    "npmDownloads": 0,
+    "githubDownloads": 0,
+    "homebridge2ready": "Not ready"
+  },
+  {
+    "name": "homebridge-patana93test2",
+    "description": "No description provided",
+    "version": "0.0.0",
+    "maintainers": [
+      "patana93"
+    ],
+    "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+    },
+    "created": "2018-05-04T14:56:51.120Z",
+    "lastUpdated": "2022-05-05T03:41:26.434Z",
+    "latestRelease": "2018-05-04T14:56:51.211Z",
+    "author": "Not supplied",
+    "deprecated": false,
+    "displayName": "homebridge-patana93test2",
     "owner": "patana93",
     "downloads": 0,
     "verified": false,

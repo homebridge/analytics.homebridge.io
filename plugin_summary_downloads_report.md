@@ -50,7 +50,7 @@
 | homebridge-browsercam | @louis49 | 2022-03-08T08:33:03.109Z | 35 | true | Not ready |
 | homebridge-button-platform | Avi Miller | 2021-12-08T21:34:49.990Z | 85 | true | Not ready |
 | homebridge-calendar-scheduler | uamanager | 2023-09-16T16:33:43.413Z | 116 | true | Not ready |
-| homebridge-camera-ffmpeg | northernman, bwp91, donavanbecker, sunookitsune | 2021-12-28T22:50:56.261Z | 3636 | true | Not ready |
+| homebridge-camera-ffmpeg | northernman, bwp91, donavanbecker, sunookitsune | 2021-12-28T22:50:56.261Z | 3637 | true | Not ready |
 | homebridge-camera-ui | SeydX | 2022-04-24T15:52:44.631Z | 2979 | true | Not ready |
 | homebridge-carrier-infinity | grivkees | 2024-01-12T07:00:02.573Z | 121 | true | Not ready |
 | homebridge-cmd4-advantageair | Mitch Williams | 2024-01-10T06:40:55.021Z | 77 | true | Not ready |
@@ -72,7 +72,7 @@
 | homebridge-dummy | nfarina | 2023-01-23T18:32:06.806Z | 2451 | true | Not ready |
 | homebridge-dune-hd | Carlos Gamez | 2024-06-12T02:42:41.948Z | 21 | true | Not ready |
 | homebridge-dyson-bp01 | Jeremy Noesen | 2024-04-25T22:25:55.617Z | 62 | true | Not ready |
-| homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2450 | true | Not ready |
+| homebridge-dyson-pure-cool | lukas.roegner | 2024-10-13T10:52:43.351Z | 2451 | true | Not ready |
 | homebridge-easee | John Valiquette | 2024-01-07T14:45:10.852Z | 42 | true | Not ready |
 | homebridge-ecoplug | Dan Chlopek | 2020-04-14T02:27:43.275Z | 22 | true | Not ready |
 | homebridge-edomoticz | PatchworkBoy | 2024-03-29T15:06:52.298Z | 266 | true | Not ready |
@@ -152,7 +152,7 @@
 | homebridge-mylink | dgreif | 2021-09-18T23:02:37.335Z | 58 | true | Not ready |
 | homebridge-myq | HJD | 2024-04-28T19:28:38.469Z | 1623 | true | Not ready |
 | homebridge-mysmartblinds-bridge | Alex 'apexad' Martin | 2023-06-20T06:20:44.169Z | 25 | true | Not ready |
-| homebridge-nest | chrisjshull, adrian.cable, bwp91 | 2022-05-02T20:20:07.001Z | 2405 | true | Not ready |
+| homebridge-nest | chrisjshull, adrian.cable, bwp91 | 2022-05-02T20:20:07.001Z | 2406 | true | Not ready |
 | homebridge-nest-cam | Brandawg93 | 2022-12-09T18:32:07.126Z | 536 | true | Not ready |
 | homebridge-network-presence | nitaybz | 2021-01-26T21:14:14.859Z | 253 | true | Not ready |
 | homebridge-node-alarm-dot-com | Mike Kormendy | 2024-09-21T15:52:02.692Z | 436 | true | Not ready |
@@ -228,7 +228,7 @@
 | homebridge-switcher-platform | nitaybz | 2023-12-17T09:51:33.388Z | 154 | true | Not ready |
 | homebridge-tadiran-ac | nitaybz | 2024-05-08T15:57:47.232Z | 61 | true | Not ready |
 | homebridge-tado-ac | nitaybz | 2024-03-03T18:27:15.894Z | 219 | true | Not ready |
-| homebridge-tado-platform | SeydX | 2021-05-19T06:04:26.313Z | 328 | true | Not ready |
+| homebridge-tado-platform | SeydX | 2021-05-19T06:04:26.313Z | 329 | true | Not ready |
 | homebridge-tasmota | northernman | 2024-06-11T02:26:01.368Z | 200 | true | Not ready |
 | homebridge-tcc | northernman | 2023-03-16T22:56:36.025Z | 199 | true | Not ready |
 | homebridge-temperature-sensor-dht | raresailincai | 2022-09-03T13:11:55.982Z | 94 | true | Not ready |
