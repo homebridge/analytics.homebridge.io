@@ -71,7 +71,7 @@ jobs:
 
       - name: Merge latest from Source branch into gh-pages
         run: |
-          git merge origin/Source --no-edit
+          git merge origin/Source --allow-unrelated-histories --no-edit
 
       - name: Copy homebridge_plugins.json to docs directory
         run: cp homebridge_plugins.json docs/
