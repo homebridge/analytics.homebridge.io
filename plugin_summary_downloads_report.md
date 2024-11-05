@@ -238,7 +238,7 @@
 | homebridge-tidbyt | Nicholas Penree | 2023-01-11T02:41:17.023Z | 22 | true | Not ready |
 | homebridge-tp-link-access-control | Jason Grimard | 2023-07-11T20:48:11.837Z | 145 | true | Not ready |
 | homebridge-tp-link-tapo | raresailincai | 2024-10-20T09:23:08.318Z | 1542 | true | Not ready |
-| homebridge-tplink-smarthome | Patrick Seal | 2024-02-27T01:18:58.173Z | 3303 | true | Not ready |
+| homebridge-tplink-smarthome | Patrick Seal | 2024-02-27T01:18:58.173Z | 3304 | true | Not ready |
 | homebridge-ttlock | bwitting | 2022-08-29T15:45:30.751Z | 77 | true | Not ready |
 | homebridge-tuya | Rayan Khan | 2024-05-03T08:34:41.567Z | 1969 | true | Not ready |
 | homebridge-tuya-ir | prasad.edlabadkar | 2022-10-26T04:30:23.113Z | 179 | true | Not ready |
