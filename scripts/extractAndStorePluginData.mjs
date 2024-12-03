@@ -1,7 +1,7 @@
 #! /usr/local/bin/node
 
-import fetch from 'node-fetch';
 import fs from 'fs';
+import fetch from 'node-fetch';
 import pLimit from 'p-limit';
 
 // Constants for version checks
@@ -28,16 +28,21 @@ async function getHomebridgePlugins() {
       console.log(`Fetching page ${page + 1}...`);
       const url = `https://registry.npmjs.org/-/v1/search?text=keywords:homebridge-plugin&size=${resultsPerPage}&from=${page * resultsPerPage}`;
       const response = await fetch(url);
-      const data = await response.json();
+      if (response.ok) {
+        const data = await response.json();
 
-      // Concatenate current page data to allData
-      allData = allData.concat(data.objects);
+        // Concatenate current page data to allData
+        allData = allData.concat(data.objects);
 
-      // Stop fetching if less than a full page of results is returned or the limit is reached
-      if (data.objects.length < resultsPerPage || allData.length >= TESTING_LIMIT) {
-        keepFetching = false;
+        // Stop fetching if less than a full page of results is returned or the limit is reached
+        if (data.objects.length < resultsPerPage || allData.length >= TESTING_LIMIT) {
+          keepFetching = false;
+        } else {
+          page++;
+        }
+        await sleep(1000); // Sleep for 1 second to avoid rate limiting
       } else {
-        page++;
+        throw new Error(`Error fetching page ${page + 1}: ${response.status} ${response.statusText}`);
       }
     }
 
@@ -116,7 +121,9 @@ async function fetchPackageDetails(packageName, verifiedPlugins, githubDownloads
       fetch(url),
       fetch(downloadStatsUrl),
     ]);
-
+    if (!response.ok || !downloadStatsResponse.ok) {
+      throw new Error(`Error: ${response.status} ${response.statusText}`);
+    }
     const data = await response.json();
     const downloadStats = await downloadStatsResponse.json();
 
@@ -143,7 +150,7 @@ async function fetchPackageDetails(packageName, verifiedPlugins, githubDownloads
     // Add GitHub downloads (if present) to npm downloads
     const githubDownloadCount = githubDownloads[packageName + '-' + version] || 0;
     const totalDownloads = npmDownloads + githubDownloadCount;
-
+    await sleep(1000); // Sleep for 1 second to avoid rate limiting
     return {
       name: packageName,
       description,
@@ -163,7 +170,6 @@ async function fetchPackageDetails(packageName, verifiedPlugins, githubDownloads
       githubDownloads: githubDownloadCount, // Track GitHub downloads separately
       homebridge2ready,
     };
-
   } catch (error) {
     console.error(`Error fetching data for ${packageName}:`, error);
     return { name: packageName, error: 'Error fetching package data' };
@@ -191,3 +197,7 @@ async function extractAndStoreData() {
 }
 
 extractAndStoreData();
+
+async function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
