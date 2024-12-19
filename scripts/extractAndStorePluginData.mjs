@@ -8,7 +8,7 @@ import pLimit from 'p-limit';
 // const HOMEBRIDGE_VERSION_CHECK = "2.0.0";
 // const NODE_VERSION_CHECK = "14.0.0"; // Adjust as needed
 
-console.log('This runs for over a few minutes, so no need to grab some coffee...');
+console.log('This only runs for a few minutes, so no time to grab some coffee...');
 
 // Set limit to 100 plugins for testing extraction, and 5000 for final extraction
 const TESTING_LIMIT = 5000; // Adjust the limit for final run
@@ -132,6 +132,7 @@ async function fetchPackageDetails(packageName, verifiedPlugins, githubDownloads
 
     const maintainers = data.maintainers.map(maintainer => maintainer.name);
     const description = versionData.description || 'No description provided';
+    const keywords = versionData.keywords || [];
     const version = latestVersion;
     const engines = versionData.engines || {};
     const created = data.time.created;
@@ -154,6 +155,7 @@ async function fetchPackageDetails(packageName, verifiedPlugins, githubDownloads
     return {
       name: packageName,
       description,
+      keywords,
       version,
       maintainers,
       engines,
